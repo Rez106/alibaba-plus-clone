@@ -1,13 +1,15 @@
 <template>
   <v-dialog
     v-model="modal.show"
-    :class="{ 'w-[800px]': md }"
-    :fullscreen="!md"
+    :width="mdAndUp ? 800 : undefined"
+    :fullscreen="!mdAndUp"
     transition="slide-x-reverse-transition"
     close-on-back
     scrollable
   >
-    <div class="relative w-full min-h-dvh bg-white p-4 overflow-hidden">
+    <div
+      class="relative w-full max-md:min-h-dvh bg-white p-4 overflow-hidden rounded-lg"
+    >
       <div class="flex items-center gap-3">
         <v-text-field
           :disabled="!modal.search"
@@ -75,10 +77,8 @@
 
 <script setup>
 const { modal, closeModal } = useModal();
-const { md } = useDisplay();
+const { mdAndUp } = useDisplay();
 const searchInput = ref("");
-
-console.log(modal.value.data.items);
 
 if (!modal.value.search || searchInput.value === "") {
   modal.value.data.items = {

@@ -1,0 +1,18 @@
+{
+  "id": "620cf7358276372a966cc776",
+  "short_id": "b269d353",
+  "slug": "fjm3rd",
+  "name": "دره سکوت قشم  | عکاس آقای مهدی زبردستان",
+  "desktop_cover": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b49f29bae90925b59d1240825d592a264dae81287caab06ebfecc68d7c6a0792_1.jpg",
+  "mobile_cover": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_878f9520c03a17093ef2007e1d4a2610c7ff58b1cc571aec68cac313a5921be3_.png",
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": {
+        "id": "61e291490b51c90f7538dc9f",
+        "shortId": "4e74cb0a"
+      }
+    }
+  },
+  "active": true
+}

@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "index.mjs"
-status = 200

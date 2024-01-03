@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/.output/server/index.mjs"
+status = 200

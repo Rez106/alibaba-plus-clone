@@ -1,13 +1,12 @@
 <template>
   <div class="h-[17rem]" v-if="!isCarousel">
-    <nuxt-link :to="'p-' + detail.short_id">
+    <nuxt-link :to="'/plus/p-' + detail.short_id">
       <nuxt-img
+        class="object-cover min-h-[120px] max-h-[120px] w-full"
+        :class="{ 'rounded-md': !isColored, 'rounded-t-md': isColored }"
         :src="imageUrl"
         placeholder="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
         :alt="detail.name"
-        class="object-cover min-h-[120px] max-h-[120px] w-full"
-        :class="{ 'rounded-md': !isColored, 'rounded-t-md': isColored }"
-        :placeholder="[250, 12, 30, 5]"
         :quality="30"
         :loading="'lazy'"
       />

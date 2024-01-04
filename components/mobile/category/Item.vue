@@ -20,13 +20,9 @@ const iconHolder = ref();
 onMounted(() => {
   iconHolder.value.innerHTML = icon.svg;
 });
-// const { data: cities, error } = await useFetch(
-//   "https://ws.alibaba.ir/api/v1/plus/user/cities"
-// );
 
 const { city: cities } = useData();
 const categoryModalHandler = () => {
-  console.log(cities.result.items);
   openModal({
     search: false,
     label: "",

@@ -16,5 +16,6 @@
 *::before {
   font-family: "alibaba";
   direction: rtl;
+  scroll-behavior: smooth;
 }
 </style>

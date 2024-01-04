@@ -6,7 +6,7 @@
   >
     <div
       class="w-11/12 mx-auto bg-slate-50 py-2 px-2 rounded-xl border border-gray-300 text-slate-400 cursor-pointer mt-4"
-      @click="searchModalHandle"
+      @click="searchModalHandler"
     >
       <v-icon icon="mdi-magnify" />
       <span>شهرها، جاهای دیدنی و...</span>
@@ -23,15 +23,12 @@
 </template>
 
 <script setup>
+defineProps({
+  data: Object,
+});
 const { openModal } = useModal();
 
-// const { data, error } = await useFetch(
-//   "https://ws.alibaba.ir/api/v1/plus/user/home"
-// );
-
-const { hero: data } = useData();
-
-const searchModalHandle = () => {
+const searchModalHandler = () => {
   openModal({
     search: true,
     label: "شهرها، جاهای دیدنی و...",

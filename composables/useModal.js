@@ -5,7 +5,7 @@ const useModal = () => {
          search: false,
          data: {
             label: "",
-            items: [],
+            items: null,
             icon: "",
             prefix: "",
          }

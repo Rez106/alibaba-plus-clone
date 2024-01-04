@@ -10,7 +10,7 @@
     <div
       class="relative w-full max-md:min-h-dvh bg-white p-4 overflow-hidden rounded-lg"
     >
-      <div class="flex items-center gap-3">
+      <div class="flex items-center gap-3 md:max-w-[50%] md:mx-auto">
         <v-text-field
           :disabled="!modal.search"
           variant="outlined"
@@ -25,11 +25,14 @@
           autofocus
           clearable
           rounded
-          @input="searchHandler"
+          @input="inputHandler"
         />
       </div>
       <div class="">
-        <p v-if="!modal.data.items" class="text-center mt-10">
+        <p
+          v-if="modal.data.items === null || !modal.data.items?.pois"
+          class="text-center mt-10"
+        >
           موردی یافت نشد!
         </p>
         <v-list
@@ -51,14 +54,17 @@
             :prepend-avatar="item.gallery[0].large_url"
           ></v-list-item>
         </v-list>
+        <v-divider />
         <v-list v-if="modal.search && modal.data.items">
           <v-list-item
             v-for="item in modal.data.items.city"
             :key="item.name"
             :title="modal.data.prefix + ' ' + item.name"
+            :subtitle="item.province.name"
             prepend-icon="mdi-map-marker-outline"
           ></v-list-item>
         </v-list>
+        <v-divider />
         <v-list v-if="modal.search && modal.data.items">
           <v-list-item
             v-for="item in modal.data.items.categories"
@@ -68,7 +74,7 @@
           ></v-list-item>
         </v-list>
       </div>
-      <div class="absolute bottom-5">
+      <div class="absolute bottom-5 left-5">
         <v-btn icon="mdi-close" color="red" @click="closeModal" />
       </div>
     </div>
@@ -80,19 +86,17 @@ const { modal, closeModal } = useModal();
 const { mdAndUp } = useDisplay();
 const searchInput = ref("");
 
-if (!modal.value.search || searchInput.value === "") {
+if (modal.value.search) {
   modal.value.data.items = {
     city: [],
     categories: [],
     pois: [],
   };
 } else {
-  modal.value.data.items = [];
+  modal.value.data.items = null;
 }
 
-const searchHandler = async (e) => {
-  searchInput.value = e.target.value.trim();
-
+const searchHandler = async () => {
   const { data, error } = await useFetch(
     `https://ws.alibaba.ir/api/v1/plus/user/search?name=${searchInput.value}&page_size=4`
   );
@@ -103,7 +107,24 @@ const searchHandler = async (e) => {
       categories: [...(await data.value.result.items.cities_categories)],
       pois: [...(await data.value.result.items.pois)],
     };
+  } else {
+    modal.value.data.items = null;
+    return;
   }
+};
+
+const inputHandler = async (e) => {
+  searchInput.value = e.target.value.trim();
+
+  if (searchInput.value === "") {
+    modal.value.data.items = null;
+    return;
+  }
+
+  setTimeout(async () => {
+    await searchHandler();
+  }, 500);
+  // clearTimeout(searchTimeout);
 };
 </script>
 

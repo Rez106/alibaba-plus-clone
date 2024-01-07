@@ -35,14 +35,18 @@
         class="rounded-md"
         :class="{ 'bg-white': isColored }"
       >
-        <bracket-item :detail="city" :isColored="isColored" :isCarousel="isCarousel" />
+        <bracket-item
+          :detail="city"
+          :isColored="isColored"
+          :isCarousel="isCarousel"
+        />
       </swiper-slide>
     </swiper>
     <swiper
       v-else
       :modules="[SwiperAutoplay, SwiperGrid]"
       :slides-per-view="4"
-      :space-between="20"
+      :space-between="10"
       :loop="false"
       :autoplay="{
         pauseOnMouseEnter: true,

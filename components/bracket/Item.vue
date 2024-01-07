@@ -26,7 +26,7 @@
         :src="imageUrl"
         placeholder="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
         :alt="detail.name"
-        class="object-cover min-h-[60px] max-h-[60px] min-w-[100px] w-auto rounded-md"
+        class="object-cover min-h-[60px] max-h-[60px] sm:w-[100px] w-[90px] rounded-md"
         :quality="30"
         loading="lazy"
       />

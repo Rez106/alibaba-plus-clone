@@ -1,43 +1,36 @@
 <template>
-  <header class="w-full flex items-center justify-between p-4 h-16">
-    <div class="flex items-center min-h-full">
-      <v-icon icon="mdi-arrow-right" size="default" @click="handler('back')" />
+  <div class="flex items-center justify-between">
+    <div class="flex flex-col items-start gap-2">
+      <h1 class="text-xl font-bold">{{ detail.persuading_title }}</h1>
+      <p class="text-gray-500 text-xs">
+        <span class="text-cyan-600 text-2xl font-semibold">{{
+          reviewAvg
+        }}</span>
+        <span class="text-cyan-600 font-semibold">/5</span>
+        امتیاز کاربران
+        <span class="text-xs">({{ review.result.totalCount + "نظر" }})</span>
+        <span class="address max-sm:hidden">
+          <v-icon icon="mdi-circle-small" />
+          {{ detail.contact_detail.address }}
+        </span>
+      </p>
     </div>
-    <nuxt-link to="/plus">
-      <div class="flex flex-col items-end pt-4">
-        <nuxt-img
-          src="https://cdn.alibaba.ir/h2/mobile/assets/images/alibaba-plus-29830c54.svg"
-          class="h-8"
-        />
-        <span class="relative -top-4 text-xs">جمع تجربه‌های سفر</span>
-      </div>
-    </nuxt-link>
-    <div class="flex items-center min-h-full">
-      <v-icon icon="mdi-magnify" size="default" @click="handler('search')" />
-    </div>
-  </header>
+    <v-btn
+      rounded
+      color="primary"
+      elevation="0"
+      prepend-icon="mdi-map-marker-path"
+      >مسیریابی</v-btn
+    >
+  </div>
 </template>
 
 <script setup>
-const { openModal } = useModal();
-const router = useRouter();
-
-const handler = (action) => {
-  if (action === "search") {
-    openModal({
-      search: true,
-      label: "شهرها، جاهای دیدنی و...",
-      items: [],
-      icon: "",
-      prefix: "",
-    });
-  }
-  if (action === "back") {
-    router.back();
-  }
-
-  return;
-};
+defineProps({
+  detail: Object,
+  review: Object,
+  reviewAvg: Number,
+});
 </script>
 
 <style lang="scss" scoped></style>

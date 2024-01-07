@@ -1,5 +1,5 @@
 <template>
-  <detail-header />
+  <detail-navbar />
   <div class="w-full">
     <slot />
   </div>

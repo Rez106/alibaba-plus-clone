@@ -1,0 +1,2410 @@
+{
+  "result": {
+    "pageNumber": 1,
+    "pageSize": 6,
+    "totalCount": 3134,
+    "items": [
+      {
+        "id": "63cba78245c4aea36f1950d4",
+        "short_id": "2351d627",
+        "country": {
+          "id": "612b815e2d28e7b40b49aebc",
+          "short_id": "feb3dc58",
+          "slug": "iran",
+          "name": "ایران",
+          "area": null
+        },
+        "province": {
+          "id": "612b815e2d28e7b40b49aed1",
+          "short_id": "8bc6ca3d",
+          "country_id": "612b815e2d28e7b40b49aebc",
+          "slug": "Kermanshah",
+          "name": "کرمانشاه",
+          "area": null
+        },
+        "city": {
+          "id": "6394799b352329265936b1b7",
+          "short_id": "c8552a4c",
+          "province_id": "612b815e2d28e7b40b49aed1",
+          "slug": "kermanshah-city",
+          "name": "کرمانشاه",
+          "persuading_title": "کرمانشاه؛ خاک زرین، میهن فرهاد و شیرین",
+          "content": "کرمانشاه، کرماشان و کرمانشاهان نام بزرگ‌ترین شهر کردنشین ایران است که به بلندای تاریخ ایران، قدمتی را به دوش می‌کشد. نام و آوازه کرمانشاه را حتما در داستان‌های اساطیری و پهلوانی شنیده‌اید. شهر فرهاد و شیرین، طاق بستان و بیستون همیشه سربلند! شهر مهمان‌نوازانی بی حد و مرز و مردمانی دلیر که به خصلت جوان‌مردی شهره‌اند. زمانی که نام کرمانشاه برده می‌شود، یکی از اولین مواردی که به ذهن‌تان خطور خواهد کرد، طاق بستان است که از زمان حکومت ساسانیان به جای مانده است. طاق ‌بستان در زبان کردی کرمانشاهی «تاق ‌وه‌ سان» گفته می‌شود. «تاق» که همان «طاق»، «وه» به معنی «از» و «سان» به معنی «سنگ» است. سفر به کرمانشاه یعنی سفر به دل تمدن و تاریخ  پادشاهان ساسانی از جمله خسرو پرویز. بازار سنتی مسقف کرمانشاه که به تاریکه بازار مشهور بوده، دری است به دنیایی متفاوت از هر بازاری که تا به حال دیده‌اید. از لذت خرید از یک دست‌فروش ساده که حاضر است تمام بساط خود را یک به یک باز کند تا چیزی که دوست دارید را پیدا کنید گرفته؛ تا مردم‌داری فروشندگان مغازه‌های بزرگ این بازار تجربه‌ای است که باید آن را لمس کنید تا عمق زیبایی‌اش را بفهمید. آب‌و‌هوای معتدل کوهستانی هم سفر به کرمانشاه را در هر فصلی ممکن ساخته است. جنگل‌های بلوط زاگرس، طبیعت چشم‌نواز و منحصر‌به‌فرد پاوه و اورامانات شما را به طبیعت‌گردی فرا می‌خواند. به خاطر وجود رشته‌کوه‌های متعدد، گفت‌و‌گو با سنگ صبور، سنگ خارا و سر گذاشتن به کوه و بیابان در اشعار شاعران این شهر زیاد به چشم می‌خورد. تا جایی که شاعر می‌گوید: «بیستون خود لب شیرین سخنان می‌بندد؛ با دل کوه غم کوه‌کنی نتوان گفت». مردم کرمانشاه به زبان کردی و فارسی کرمانشاهی صحبت می‌کنند؛ البته در بعضی مناطق به گویش‌های مختلف کردی مانند سنجابی، کرمانشاهی و لکی نیز سخن می‌گویند. مکالمه با مردم  کرمانشاه بسیار جذاب و دلنشین است به طوری که شاید تا مدت‌ها پس از سفر به این شهر، هنوز دوست داشته باشید لهجه آن‌ها را تمرین و تکرار کنید. بافت قدیمی و سنتی  شهر کرمانشاه در کنار پیشرفت‌های شهری از بالاترین نقطه شهر یعنی پارک کوهستان، به زیباترین شکل ممکن قابل مشاهده است. پوشیدن لباس محلی در بعضی از مراسم‌ها از جمله رسوم با ارزش مردم کرمانشاه است که جلوه‌ای خاص از فرهنگ مردم کرمانشاه را به نمایش می‌گذارد.",
+          "area": null,
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_df9ffcdbd317e8630e3c4e3bfb82435b142dbcb80b5eadfb839c8081b023a844_1.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5007606d706f5825e5f186cfe1469e9330a78786cc3c84c9a492a89cd11789fe_2.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4332a63117d74c6572137690908115002f65d086ddcb119cc967b7cb2f5bbf85_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_aee1cd7d5d63b8b56e755a57679f6aabb2606d0ba004ecf3e042997e4b6f9392_4.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba9f617d1b9ab19d940e9442fcce8def15e7eae10bdc84677b6d9d13f7e49daf_5.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_148db4b4ed54349e8f28170c5b25bdfa18623436bc252ecf2f410c17ec2bf7cf_6.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4697dbd10c46454a7ccc76be3392465547ff73f1ce01952f024e92796b2990c5_0000.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c8d000e723fde7af529246f9674b9c4d8d3eb2c620d312b1f90bb8272c950f34_7.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fd2558ebf8bdae7d86780acbab7e3a3a6b5d373f11534a22965fc41d4a7c6a34_8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b2703f728bb5507f19e5cf1dbef9b323acc8b32e3f9b40f6a8d84f7b5ad3996f_9.jpg"
+            }
+          ]
+        },
+        "slug": "5-asr-book-cafe-kermanshah",
+        "name": "کافه کتاب ۵ عصر",
+        "persuading_title": "کافه کتاب ۵ عصر کرمانشاه",
+        "content": "اگر اهل کافه‌گردی باشید، می‌دانید که هر کافه‌ درست انسان‌ها برای خودش شخصیتی دارد که به محیط آنجا حال‌و‌هوای خاصی می‌بخشد. کافه کتاب ۵ عصر کرمانشاه با شخصیتی گرم و صمیمی، در تمام روزهای سال می‌تواند گوشه‌ای از تجربه گردش شهری شما را بسازد. این کافه با حال‌وهوای خودمانی و تزیینات چوبی شما را به دنیایی پر از خوراکی‌های خوشمزه و خاطرات کهنه اما آشنا می‌برد و قصه‌هایی طولانی از کتاب‌های جورواجور برایتان تعریف می‌کند. میز و صندلی‌های چوبی کافه کتاب 5 عصر کرمانشاه شما را به فضایی نوستالژیک می‌برد و مبل‌های راحت آن دعوتتان می‌کند تا ساعتی را گرم گفت‌وگو شوید و خاطرات سفر به کرمانشاه را برای همیشه در ذهن و قلبتان ماندگار کنید. دیوارهای کافه کتاب ۵ عصر به رنگ آبی دریا و ارغوانی هستند و یک طرف کافه، سراسر پنجره‌هایی است که نوری ملایم را در محیط پخش می‌کنند. اگر دلتان کافه‌ای نورگیر و دلباز با گل و گیاهان سرسبز و لطیف خواست، حتما کافه کتاب ۵ عصر کرمانشاه را امتحان کنید. منوی کافه پر از خوراکی‌های خوشمزه‌ای است که دلتان را آب می‌اندازد و برای چشیدن آن‌ها لحظه‌شماری خواهید کرد. منو شامل: انواع نوشیدنی‌های سرد و گرم؛ همچون ماکتل، شیک، آب‌میوه، انواع دمنوش و قهوه، است و با تزیینات ظریفی که دارند، مجابتان می‌کنند حتما عکسی از سفارشتان بگیرید و با دوستان خود به اشتراک بگذارید. غذاهای کافه کتاب ۵ عصر کرمانشاه شامل: انواع برگر، پاستا، سالاد، پیتزا و میان‌وعده و صبحانه‌های اشتهابرانگیزی مثل وافل است. ",
+        "location": {
+          "type": "Point",
+          "coordinates": [34.2991252, 47.0579242]
+        },
+        "gallery": [
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_e8a5f3503dd114ad8b31ed7102fa90ca03442b3802e01eb8166e2eb9a0e4217a_4b7ababe3bf64dac89d56659d6fd0f5d.jpeg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1596980cc1b38a284ff995955460a98d01df88daee35dbc7300b3b0423909e24_.jpg"
+          },
+          {
+            "is_cover": true,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_62bff8f30cf6fecb7cd06a5e327c58e651bcfb6e5e93294bb86df7ee2ea199fc_20220929130032.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_dd4ea99d08003231c75c2ac489875008ffee819b7e993f52326615e47882a324_snapinsta.app10801258409332823664031803055445234720040998906n.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6818fab9065a8a686c80a7f7e664729d6f6d624edc0a1939799c5c5899b66c1c_snapinsta.app10801294470343629973023691418124778042325315434n.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_67dc0dcd08c68f9f0caf7cb0b58866185b575abc554c3000069cd1c6500a7b80_snapinsta.app10801676107405402135669643036364254499763510176n.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7df1f09fd17d49123c41355d71fd7ce00f1813f725483cdc4a8f70569d1df99e_snapinsta.app10802758586221544131636713065027807463528566259n.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_2b86aaa1adae59a9fb70ed6684f0c0ee5cbfe14d68618cbcde0be9f7f096f20f_snapinsta.app10802832390563817330173102603161763358232141742n.jpg"
+          }
+        ],
+        "category": {
+          "id": "612b815e2d28e7b40b49ae89",
+          "short_id": "bb3e9e73",
+          "parent": {
+            "id": "612b815e2d28e7b40b49ae84",
+            "short_id": "1c4e6b81",
+            "parent_id": "",
+            "slug": "food",
+            "name": "خورد و خوراک",
+            "icon": {
+              "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8a1 1 0 011 1v.102A5.01 5.01 0 0120.898 13H24a1 1 0 110 2h-7v8a1 1 0 11-2 0v-8H8a1 1 0 110-2h3.102A5.01 5.01 0 0115 9.102V9a1 1 0 011-1zm13.008 1l.116.008a1 1 0 01.868 1.116L29 18.061V23a1 1 0 11-2 0v-1h-4.524l-.547 1.371a1 1 0 01-1.858-.742l2-5a1 1 0 01.93-.629h4.116l.891-7.124a1.004 1.004 0 011.116-.868l-.116-.007zm-26.132.008a.998.998 0 011.116.868L4.882 17H9a1 1 0 01.929.629l2 5a1 1 0 01-1.857.742L9.524 22H5v1a1 1 0 11-2 0v-4.938l-.992-7.938a1 1 0 01.868-1.116z\"/>\n</svg>\n",
+              "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7edf6fd46dc4d08fe2af0a408a339ee1a951ccbca1124ce9c076127ef59ca884_original.png"
+            },
+            "default_phrase": "خورد و خوراک"
+          },
+          "slug": "cafe",
+          "name": "کافه",
+          "icon": {
+            "svg": "<svg width=\"64\" height=\"64\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M16 41a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9zm24-28a3 3 0 0 1 .289 5.986L40 19H22a5 5 0 0 0-.329 9.99L22 29h11c6.627 0 12 5.373 12 12 0 6.476-5.132 11.755-11.55 11.992L33 53h-1a3 3 0 0 1-.289-5.986L32 47h1a6 6 0 0 0 .352-11.99L33 35H22c-6.075 0-11-4.925-11-11 0-5.927 4.688-10.76 10.558-10.991L22 13h18zM16 47a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM47.893 5.673l.228.206 8 8a3 3 0 0 1 .206 4.014l-.206.228-8 8a3 3 0 0 1-4.448-4.014l.206-.228L49.758 16l-5.88-5.879a3 3 0 0 1-.205-4.014l.206-.228a3 3 0 0 1 4.014-.206z\" fill=\"#4B5259\" fill-rule=\"evenodd\"/>\n</svg>\n",
+            "png_url": "unknown"
+          },
+          "default_phrase": "کافه"
+        },
+        "tags": [],
+        "bracket_ids": [],
+        "attribute_ids": [
+          {
+            "attribute_id": "6194e23811210975a0fb2e2e",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "6194e2fe3c15fdabf3d6268a",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "61867154f2cfe6c102c555d5",
+            "description": "هر سه وعده"
+          },
+          {
+            "attribute_id": "618a772638f6840fcb528279",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "61866fc4f2cfe6c102c555d4",
+            "description": "نه ارزان، نه گران"
+          },
+          {
+            "attribute_id": "6186629c40a7d82ac6d4daf4",
+            "description": "فضای پارک عمومی موجود است"
+          },
+          {
+            "attribute_id": "618a766633cb773a4f708fd1",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "618a77be38f6840fcb52827a",
+            "description": "مجاز است"
+          },
+          {
+            "attribute_id": "61866a9b407e8e05a55a71c4",
+            "description": "دارد"
+          }
+        ],
+        "is_in_review_create_page": false,
+        "is_in_city_page_category": false,
+        "home_page_list": "",
+        "open_hours": [
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "saturday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "sunday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "monday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "tuesday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "wednesday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "thursday"
+          },
+          {
+            "start": {
+              "hour": 15,
+              "min": 0
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "friday"
+          }
+        ],
+        "contact_detail": {
+          "phone": "",
+          "address": "کرمانشاه، میدان فردوسی، خیابان اشرفی اصفهانی، بالاتر از سینما آزادی، خیابان شهید حقیقی پاک",
+          "email": "",
+          "web_page": ""
+        },
+        "category_detail": {
+          "menu": []
+        },
+        "seo": {
+          "meta_title": "کافه کتاب ۵ عصر کرمانشاه - نظرات و تصاویر | علی بابا پلاس",
+          "meta_description": "معرفی کامل کافه کتاب ۵ عصر کرمانشاه ، همراه با نظرات کاربران و تصاویر شما، لوکیشن، آدرس و ساعات کاری کافه کتاب ۵ عصر کرمانشاه",
+          "canonical": "https://www.alibaba.ir/plus/p-2351d627/5-asr-book-cafe-kermanshah",
+          "index_status": "index"
+        },
+        "internal_links": [],
+        "faq": [
+          {
+            "question": "آدرس کافه کتاب ۵ عصر کجاست؟",
+            "answer": "کافه کتاب ۵ عصر واقع در کرمانشاه، میدان فردوسی، خیابان اشرفی اصفهانی، بالاتر از سینما آزادی، خیابان شهید حقیقی پاک است."
+          },
+          {
+            "question": "ساعات کاری کافه کتاب ۵ عصر چگونه است؟",
+            "answer": "ساعات کاری و سرویس‌دهی کافه کتاب ۵ عصر در روزهای شنبه تا پنجشنبه از ساعات 10:00 تا 23:00 و در روزهای جمعه از ساعت 15:00 تا 23:00 است."
+          },
+          {
+            "question": "آیا کافه کتاب ۵ عصر بیرون‌بر دارد؟",
+            "answer": "بله، کافه کتاب ۵ عصر پیک بیرون‌بر دارد."
+          },
+          {
+            "question": "آیا کافه کتاب ۵ عصر فضای باز دارد؟",
+            "answer": "بله، کافه کتاب ۵ عصر فضای باز دارد."
+          }
+        ],
+        "ratings": {
+          "average": 5,
+          "count": 1,
+          "specifics": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+          }
+        },
+        "distance": 1135.1817730157063
+      },
+      {
+        "id": "63cb9e0245c4aea36f1950d3",
+        "short_id": "311be61a",
+        "country": {
+          "id": "612b815e2d28e7b40b49aebc",
+          "short_id": "feb3dc58",
+          "slug": "iran",
+          "name": "ایران",
+          "area": null
+        },
+        "province": {
+          "id": "612b815e2d28e7b40b49aed1",
+          "short_id": "8bc6ca3d",
+          "country_id": "612b815e2d28e7b40b49aebc",
+          "slug": "Kermanshah",
+          "name": "کرمانشاه",
+          "area": null
+        },
+        "city": {
+          "id": "6394799b352329265936b1b7",
+          "short_id": "c8552a4c",
+          "province_id": "612b815e2d28e7b40b49aed1",
+          "slug": "kermanshah-city",
+          "name": "کرمانشاه",
+          "persuading_title": "کرمانشاه؛ خاک زرین، میهن فرهاد و شیرین",
+          "content": "کرمانشاه، کرماشان و کرمانشاهان نام بزرگ‌ترین شهر کردنشین ایران است که به بلندای تاریخ ایران، قدمتی را به دوش می‌کشد. نام و آوازه کرمانشاه را حتما در داستان‌های اساطیری و پهلوانی شنیده‌اید. شهر فرهاد و شیرین، طاق بستان و بیستون همیشه سربلند! شهر مهمان‌نوازانی بی حد و مرز و مردمانی دلیر که به خصلت جوان‌مردی شهره‌اند. زمانی که نام کرمانشاه برده می‌شود، یکی از اولین مواردی که به ذهن‌تان خطور خواهد کرد، طاق بستان است که از زمان حکومت ساسانیان به جای مانده است. طاق ‌بستان در زبان کردی کرمانشاهی «تاق ‌وه‌ سان» گفته می‌شود. «تاق» که همان «طاق»، «وه» به معنی «از» و «سان» به معنی «سنگ» است. سفر به کرمانشاه یعنی سفر به دل تمدن و تاریخ  پادشاهان ساسانی از جمله خسرو پرویز. بازار سنتی مسقف کرمانشاه که به تاریکه بازار مشهور بوده، دری است به دنیایی متفاوت از هر بازاری که تا به حال دیده‌اید. از لذت خرید از یک دست‌فروش ساده که حاضر است تمام بساط خود را یک به یک باز کند تا چیزی که دوست دارید را پیدا کنید گرفته؛ تا مردم‌داری فروشندگان مغازه‌های بزرگ این بازار تجربه‌ای است که باید آن را لمس کنید تا عمق زیبایی‌اش را بفهمید. آب‌و‌هوای معتدل کوهستانی هم سفر به کرمانشاه را در هر فصلی ممکن ساخته است. جنگل‌های بلوط زاگرس، طبیعت چشم‌نواز و منحصر‌به‌فرد پاوه و اورامانات شما را به طبیعت‌گردی فرا می‌خواند. به خاطر وجود رشته‌کوه‌های متعدد، گفت‌و‌گو با سنگ صبور، سنگ خارا و سر گذاشتن به کوه و بیابان در اشعار شاعران این شهر زیاد به چشم می‌خورد. تا جایی که شاعر می‌گوید: «بیستون خود لب شیرین سخنان می‌بندد؛ با دل کوه غم کوه‌کنی نتوان گفت». مردم کرمانشاه به زبان کردی و فارسی کرمانشاهی صحبت می‌کنند؛ البته در بعضی مناطق به گویش‌های مختلف کردی مانند سنجابی، کرمانشاهی و لکی نیز سخن می‌گویند. مکالمه با مردم  کرمانشاه بسیار جذاب و دلنشین است به طوری که شاید تا مدت‌ها پس از سفر به این شهر، هنوز دوست داشته باشید لهجه آن‌ها را تمرین و تکرار کنید. بافت قدیمی و سنتی  شهر کرمانشاه در کنار پیشرفت‌های شهری از بالاترین نقطه شهر یعنی پارک کوهستان، به زیباترین شکل ممکن قابل مشاهده است. پوشیدن لباس محلی در بعضی از مراسم‌ها از جمله رسوم با ارزش مردم کرمانشاه است که جلوه‌ای خاص از فرهنگ مردم کرمانشاه را به نمایش می‌گذارد.",
+          "area": null,
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_df9ffcdbd317e8630e3c4e3bfb82435b142dbcb80b5eadfb839c8081b023a844_1.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5007606d706f5825e5f186cfe1469e9330a78786cc3c84c9a492a89cd11789fe_2.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4332a63117d74c6572137690908115002f65d086ddcb119cc967b7cb2f5bbf85_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_aee1cd7d5d63b8b56e755a57679f6aabb2606d0ba004ecf3e042997e4b6f9392_4.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba9f617d1b9ab19d940e9442fcce8def15e7eae10bdc84677b6d9d13f7e49daf_5.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_148db4b4ed54349e8f28170c5b25bdfa18623436bc252ecf2f410c17ec2bf7cf_6.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4697dbd10c46454a7ccc76be3392465547ff73f1ce01952f024e92796b2990c5_0000.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c8d000e723fde7af529246f9674b9c4d8d3eb2c620d312b1f90bb8272c950f34_7.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fd2558ebf8bdae7d86780acbab7e3a3a6b5d373f11534a22965fc41d4a7c6a34_8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b2703f728bb5507f19e5cf1dbef9b323acc8b32e3f9b40f6a8d84f7b5ad3996f_9.jpg"
+            }
+          ]
+        },
+        "slug": "italian-restaurant-padena-kermanshah",
+        "name": "رستوران ایتالیایی پادنا",
+        "persuading_title": "رستوران ایتالیایی پادنا کرمانشاه",
+        "content": "چه مزه‌ای می‌تواند هیجان‌انگیزتر از مزه غذاهای ایتالیایی باشد؟ رستوران ایتالیایی پادنا کرمانشاه شما را به قلب آشپزخانه‌های قدیمی ایتالیایی با طعم‌های جادویی‌شان خواهد برد. وقتی صحبت از غذای ایتالیایی می‌شود، بیشتر افراد به یاد پیتزا می‌افتند، اما پیتزا تنها بخشی از منوی جذاب رستوران ایتالیایی پادنا کرمانشاه است. شما علاوه بر حدود 10 نوع پیتزا؛ مانند: پیتزا شکاری، پیتزا رست‌بیف و پیتزا زبان، می‌توانید از میان لیست متنوعی از انواع پیش‌غذاها، سالادهای ایتالیایی، پاستا و لازانیا، غذای دلخواهتان را سفارش بدهید. در منوی این رستوران از بروسکتا، تمپورای میگو و فیله استریپس هم غافل نشوید. قسمت هیجان‌انگیز منوی رستوران ایتالیایی پادنا کرمانشاه، سرو چندین نوع استیک است. استیک‌های این مجموعه با هر مدل پختی که مطابق با سلیقه شما باشد، سرو خواهند شد. در این میان، از استیک سنگی پادنا غافل نمانید که یکی از طعم‌های خوب منوی استیک این رستوران است. ناگفته نماند که آشپزهای حرفه‌ای رستوران پادنا، تخصص ویژه‌ای در پخت انواع استیک دارند. اگر از افرادی هستید که با گوشت قرمز میانه خوبی ندارید، رستوران ایتالیایی پادنا کرمانشاه، استیک مرغ را با طعمی جدید و فراموش‌نشدنی برای شما تدارک دیده است. این رستوران علاوه بر داشتن یک منوی خاص، نحوه سرو متفاوتی هم دارد. غذاها با دیزاین‌هایی جذاب و تزیینات خلاقانه، اشتهاآورتر هم به نظر می‌رسند. با این توصیفات، حیف است از تجربه چشیدن طعم‌ غذاهای این رستوران بی‌بهره بمانید و شکم‌گردی‌تان را در شهر کرمانشاه ناتمام بگذارید.",
+        "location": {
+          "type": "Point",
+          "coordinates": [34.2917644, 47.0484396]
+        },
+        "gallery": [
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_385fbb4c3f21cdbdd9c0768a63f200532c654781965e948ab9e5f3b1481cdcb3_1.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_645338fce43b66f870971559530061f4ad98d2e2ea94e2559a5b84e164d740a8_2.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_be5045fc5fd139faf40b056241be77533632e6a499292163ff5518189dfbbb5a_5.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_898b168c91660346b532fae370fc77a27c693efde94c8b4f788810908875c2bd_6.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_68ba7786f6fa0b14eefcb5910ab91e9a5ecb9ef115746c7a1d547bedb9cc61b7_7.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_74191972fad164995a428f52714c50a3207cf0d315a8cf7eb13522c05c0af536_9.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_e561cca1a36fb744a6bd7cdc56e836ebbc4dfee84756340b371d9e17ea37bca4_10.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c802bc3b6ef69f63fc480ab289d2898c0b3eb9f73e9d4b22c5864403c8315f9d_11.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1f513da474680156ae26f8d418cae7d84e0727e94fc86e9a3cb7f6078df69e34_12.jpg"
+          }
+        ],
+        "category": {
+          "id": "612b815e2d28e7b40b49ae85",
+          "short_id": "12d3fb6f",
+          "parent": {
+            "id": "612b815e2d28e7b40b49ae84",
+            "short_id": "1c4e6b81",
+            "parent_id": "",
+            "slug": "food",
+            "name": "خورد و خوراک",
+            "icon": {
+              "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8a1 1 0 011 1v.102A5.01 5.01 0 0120.898 13H24a1 1 0 110 2h-7v8a1 1 0 11-2 0v-8H8a1 1 0 110-2h3.102A5.01 5.01 0 0115 9.102V9a1 1 0 011-1zm13.008 1l.116.008a1 1 0 01.868 1.116L29 18.061V23a1 1 0 11-2 0v-1h-4.524l-.547 1.371a1 1 0 01-1.858-.742l2-5a1 1 0 01.93-.629h4.116l.891-7.124a1.004 1.004 0 011.116-.868l-.116-.007zm-26.132.008a.998.998 0 011.116.868L4.882 17H9a1 1 0 01.929.629l2 5a1 1 0 01-1.857.742L9.524 22H5v1a1 1 0 11-2 0v-4.938l-.992-7.938a1 1 0 01.868-1.116z\"/>\n</svg>\n",
+              "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7edf6fd46dc4d08fe2af0a408a339ee1a951ccbca1124ce9c076127ef59ca884_original.png"
+            },
+            "default_phrase": "خورد و خوراک"
+          },
+          "slug": "restaurant",
+          "name": "رستوران",
+          "icon": {
+            "svg": "<svg width=\"64\" height=\"64\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M16 41a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9zm24-28a3 3 0 0 1 .289 5.986L40 19H22a5 5 0 0 0-.329 9.99L22 29h11c6.627 0 12 5.373 12 12 0 6.476-5.132 11.755-11.55 11.992L33 53h-1a3 3 0 0 1-.289-5.986L32 47h1a6 6 0 0 0 .352-11.99L33 35H22c-6.075 0-11-4.925-11-11 0-5.927 4.688-10.76 10.558-10.991L22 13h18zM16 47a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM47.893 5.673l.228.206 8 8a3 3 0 0 1 .206 4.014l-.206.228-8 8a3 3 0 0 1-4.448-4.014l.206-.228L49.758 16l-5.88-5.879a3 3 0 0 1-.205-4.014l.206-.228a3 3 0 0 1 4.014-.206z\" fill=\"#4B5259\" fill-rule=\"evenodd\"/>\n</svg>\n",
+            "png_url": "unknown"
+          },
+          "default_phrase": "رستوران"
+        },
+        "tags": [],
+        "bracket_ids": [],
+        "attribute_ids": [
+          {
+            "attribute_id": "6194e23811210975a0fb2e2e",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "6194e2fe3c15fdabf3d6268a",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "61867154f2cfe6c102c555d5",
+            "description": "فقط شام"
+          },
+          {
+            "attribute_id": "618a772638f6840fcb528279",
+            "description": "ندارد"
+          },
+          {
+            "attribute_id": "61866fc4f2cfe6c102c555d4",
+            "description": "نه ارزان، نه گران"
+          },
+          {
+            "attribute_id": "6186629c40a7d82ac6d4daf4",
+            "description": "فضای پارک عمومی موجود است"
+          },
+          {
+            "attribute_id": "618a766633cb773a4f708fd1",
+            "description": "ندارد"
+          },
+          {
+            "attribute_id": "618a77be38f6840fcb52827a",
+            "description": "مجاز نیست"
+          },
+          {
+            "attribute_id": "61866a9b407e8e05a55a71c4",
+            "description": "ندارد"
+          }
+        ],
+        "is_in_review_create_page": false,
+        "is_in_city_page_category": false,
+        "home_page_list": "",
+        "open_hours": [
+          {
+            "start": {
+              "hour": 18,
+              "min": 15
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "saturday"
+          },
+          {
+            "start": {
+              "hour": 18,
+              "min": 15
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "sunday"
+          },
+          {
+            "start": {
+              "hour": 18,
+              "min": 15
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "monday"
+          },
+          {
+            "start": {
+              "hour": 18,
+              "min": 15
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "tuesday"
+          },
+          {
+            "start": {
+              "hour": 18,
+              "min": 15
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "wednesday"
+          },
+          {
+            "start": {
+              "hour": 18,
+              "min": 15
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "thursday"
+          },
+          {
+            "start": {
+              "hour": 18,
+              "min": 15
+            },
+            "end": {
+              "hour": 23,
+              "min": 0
+            },
+            "day_of_week": "friday"
+          }
+        ],
+        "contact_detail": {
+          "phone": "09367896742",
+          "address": "کرمانشاه، بلوار سجاد، خیابان شقایق، خیابان لاله",
+          "email": "",
+          "web_page": ""
+        },
+        "category_detail": {
+          "menu": []
+        },
+        "seo": {
+          "meta_title": "رستوران ایتالیایی پادنا کرمانشاه - نظرات و تصاویر | علی بابا پلاس",
+          "meta_description": "معرفی کامل رستوران ایتالیایی پادنا کرمانشاه ، همراه با نظرات کاربران و تصاویر شما، لوکیشن، آدرس و ساعات کاری رستوران ایتالیایی پادنا کرمانشاه",
+          "canonical": "https://www.alibaba.ir/plus/p-311be61a/italian-restaurant-padena-kermanshah",
+          "index_status": "index"
+        },
+        "internal_links": [],
+        "faq": [
+          {
+            "question": "آدرس رستوران ایتالیایی پادنا کجاست؟",
+            "answer": "رستوران ایتالیایی پادنا واقع در کرمانشاه، بلوار سجاد، خیابان شقایق، خیابان لاله است."
+          },
+          {
+            "question": "ساعات کاری رستوران ایتالیایی پادنا چگونه است؟",
+            "answer": "ساعات کاری و سرویس‌دهی رستوران ایتالیایی پادنا از شنبه تا جمعه از 18:15 تا 23:00 است."
+          },
+          {
+            "question": "آیا رستوران ایتالیایی پادنا بیرون‌بر دارد؟",
+            "answer": "بله، رستوران ایتالیایی پادنا پیک بیرون‌بر دارد."
+          },
+          {
+            "question": "آیا رستوران ایتالیایی پادنا فضای باز دارد؟",
+            "answer": "خیر، رستوران ایتالیایی پادنا فضای باز ندارد."
+          }
+        ],
+        "ratings": {
+          "average": 3.5,
+          "count": 2,
+          "specifics": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 1,
+            "5": 0
+          }
+        },
+        "distance": 2157.2859719278254
+      },
+      {
+        "id": "63c643a290953b45674ac37c",
+        "short_id": "527852db",
+        "country": {
+          "id": "612b815e2d28e7b40b49aebc",
+          "short_id": "feb3dc58",
+          "slug": "iran",
+          "name": "ایران",
+          "area": null
+        },
+        "province": {
+          "id": "612b815e2d28e7b40b49aed1",
+          "short_id": "8bc6ca3d",
+          "country_id": "612b815e2d28e7b40b49aebc",
+          "slug": "Kermanshah",
+          "name": "کرمانشاه",
+          "area": null
+        },
+        "city": {
+          "id": "6394799b352329265936b1b7",
+          "short_id": "c8552a4c",
+          "province_id": "612b815e2d28e7b40b49aed1",
+          "slug": "kermanshah-city",
+          "name": "کرمانشاه",
+          "persuading_title": "کرمانشاه؛ خاک زرین، میهن فرهاد و شیرین",
+          "content": "کرمانشاه، کرماشان و کرمانشاهان نام بزرگ‌ترین شهر کردنشین ایران است که به بلندای تاریخ ایران، قدمتی را به دوش می‌کشد. نام و آوازه کرمانشاه را حتما در داستان‌های اساطیری و پهلوانی شنیده‌اید. شهر فرهاد و شیرین، طاق بستان و بیستون همیشه سربلند! شهر مهمان‌نوازانی بی حد و مرز و مردمانی دلیر که به خصلت جوان‌مردی شهره‌اند. زمانی که نام کرمانشاه برده می‌شود، یکی از اولین مواردی که به ذهن‌تان خطور خواهد کرد، طاق بستان است که از زمان حکومت ساسانیان به جای مانده است. طاق ‌بستان در زبان کردی کرمانشاهی «تاق ‌وه‌ سان» گفته می‌شود. «تاق» که همان «طاق»، «وه» به معنی «از» و «سان» به معنی «سنگ» است. سفر به کرمانشاه یعنی سفر به دل تمدن و تاریخ  پادشاهان ساسانی از جمله خسرو پرویز. بازار سنتی مسقف کرمانشاه که به تاریکه بازار مشهور بوده، دری است به دنیایی متفاوت از هر بازاری که تا به حال دیده‌اید. از لذت خرید از یک دست‌فروش ساده که حاضر است تمام بساط خود را یک به یک باز کند تا چیزی که دوست دارید را پیدا کنید گرفته؛ تا مردم‌داری فروشندگان مغازه‌های بزرگ این بازار تجربه‌ای است که باید آن را لمس کنید تا عمق زیبایی‌اش را بفهمید. آب‌و‌هوای معتدل کوهستانی هم سفر به کرمانشاه را در هر فصلی ممکن ساخته است. جنگل‌های بلوط زاگرس، طبیعت چشم‌نواز و منحصر‌به‌فرد پاوه و اورامانات شما را به طبیعت‌گردی فرا می‌خواند. به خاطر وجود رشته‌کوه‌های متعدد، گفت‌و‌گو با سنگ صبور، سنگ خارا و سر گذاشتن به کوه و بیابان در اشعار شاعران این شهر زیاد به چشم می‌خورد. تا جایی که شاعر می‌گوید: «بیستون خود لب شیرین سخنان می‌بندد؛ با دل کوه غم کوه‌کنی نتوان گفت». مردم کرمانشاه به زبان کردی و فارسی کرمانشاهی صحبت می‌کنند؛ البته در بعضی مناطق به گویش‌های مختلف کردی مانند سنجابی، کرمانشاهی و لکی نیز سخن می‌گویند. مکالمه با مردم  کرمانشاه بسیار جذاب و دلنشین است به طوری که شاید تا مدت‌ها پس از سفر به این شهر، هنوز دوست داشته باشید لهجه آن‌ها را تمرین و تکرار کنید. بافت قدیمی و سنتی  شهر کرمانشاه در کنار پیشرفت‌های شهری از بالاترین نقطه شهر یعنی پارک کوهستان، به زیباترین شکل ممکن قابل مشاهده است. پوشیدن لباس محلی در بعضی از مراسم‌ها از جمله رسوم با ارزش مردم کرمانشاه است که جلوه‌ای خاص از فرهنگ مردم کرمانشاه را به نمایش می‌گذارد.",
+          "area": null,
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_df9ffcdbd317e8630e3c4e3bfb82435b142dbcb80b5eadfb839c8081b023a844_1.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5007606d706f5825e5f186cfe1469e9330a78786cc3c84c9a492a89cd11789fe_2.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4332a63117d74c6572137690908115002f65d086ddcb119cc967b7cb2f5bbf85_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_aee1cd7d5d63b8b56e755a57679f6aabb2606d0ba004ecf3e042997e4b6f9392_4.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba9f617d1b9ab19d940e9442fcce8def15e7eae10bdc84677b6d9d13f7e49daf_5.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_148db4b4ed54349e8f28170c5b25bdfa18623436bc252ecf2f410c17ec2bf7cf_6.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4697dbd10c46454a7ccc76be3392465547ff73f1ce01952f024e92796b2990c5_0000.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c8d000e723fde7af529246f9674b9c4d8d3eb2c620d312b1f90bb8272c950f34_7.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fd2558ebf8bdae7d86780acbab7e3a3a6b5d373f11534a22965fc41d4a7c6a34_8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b2703f728bb5507f19e5cf1dbef9b323acc8b32e3f9b40f6a8d84f7b5ad3996f_9.jpg"
+            }
+          ]
+        },
+        "slug": "motamed-al-doleh-mosque-kermanshah",
+        "name": "مسجد معتمدالدوله",
+        "persuading_title": "مسجد معتمدالدوله کرمانشاه",
+        "content": "مسجد معتمدالدوله کرمانشاه یکی دیگر از صدها بنای تاریخی شهر است. این مسجد به مسلمانان اهل تشیع تعلق دارد که برجای‌مانده از دوره قاجار است. مسجد معتمد کرمانشاه طی سال‌های 1250 تا 1265 توسط جناب منوچهر معتمدالدوله والی وقت کرمانشاه ساخته شد.  در دهه‌های اخیر این مسجد مجدد مورد مرمت و بازسازی قرار گرفت. برای بازدید از مسجد معتمدالدوله کرمانشاه باید به سمت محله فیض‌آباد حرکت کنید. در ابتدای ورود به مسجد معتمدالدوله کرمانشاه باید از هشتی کوچکی بگذرید و وارد دالانی طویل شوید. با عبور از این گذرگاه به حیاط مرکزی مسجد می‌رسید که دورتادور آن را شبستان و غرفه‌ها پوشانده‌اند. اگر نیم‌نگاهی به اطراف بیاندازید خواهید دید که این مسجد تنها با آجرهای کرم رنگ و بندکشی‌های سفید تزیین شده است. با ورود به شبستان متوجه طاق گنبدی‌شکل می‌شوید. این بخش بر دو ردیف ستون پنج‌تایی قرار دارد و قطر هر یک از این ستون‌ها حدودا یک مترمربع است. تزیینات شبستان کاملا مشابه جداره اصلی مسجد است. پس از رسیدن به صحن اصلی می‌توانید از مهم‌ترین عناصر این بخش، یعنی محراب و گنبد اصلی آن، دیدن فرمایید. این بخش 18 طاق گنبدی دارد که بر ستون‌های قطوری بنا شده‌‌اند. گنبد اصلی و محراب مسجد معتمد با آجرهای لعاب‌دار و سبک عرقچین آراسته شده‌اند. اگر از علاقه‌مندان به بناهای تاریخی هستید و بازدید از مساجد قدیمی برایتان جالب‌توجه است، بدون تردید از گشت‌زنی در این مسجد هم لذت خواهید برد. می‌توانید پس از بازدید از مسجد معتمدالدوله کرمانشاه به سمت بازار بزرگ، مسجد جامع، خانه سید حشمت، موزه پارینه‌سنگی، تکیه معاون‌الملک، مسجد حاج شهباز خان و مسجد عمادوالدوله بروید. هتل آزادی، هتل معراج، هتل لیژان، هتل داریوش و هتل راه کربلا از مجموعه اقامتگاه‌هایی هستند که تا این جاذبه کمتر از پنج دقیقه فاصله دارند.",
+        "location": {
+          "type": "Point",
+          "coordinates": [34.3167671, 47.0731535]
+        },
+        "gallery": [
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c343d1d51ba37a74869808eb4be868aa11a36e5a4872fd734088dec4c36287dc_20210505.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_17adda449bc2154684a940dd0a529a45f09e2e537d08f0305f04656b26beb238_33817887cc914bf1bb62b4b31f51dd92840x560.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_2289618571150713b2fede47dcbc86fe38749eddf67b963a0f01110afebf838d_mk59874.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0891ab60ed665fbea1201ac5d1fdc8907d4dc7e4d93882b6a6e21aea3127ee87_20190630200619.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_00edf5b9841a8992563345e97673a0bf6cccf83273c7f36603b5ba4c6c9cad8b_20190630200622.jpg"
+          }
+        ],
+        "category": {
+          "id": "612b815e2d28e7b40b49ae91",
+          "short_id": "e59ac71f",
+          "parent": {
+            "id": "612b815e2d28e7b40b49ae8f",
+            "short_id": "3f3bc534",
+            "parent_id": "",
+            "slug": "attractions",
+            "name": "جاذبه‌های گردشگری",
+            "icon": {
+              "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M21.494 6.114l-.002-.003c4.524.683 8.139 4.554 8.48 9.145.086 1.14-1.943 1.535-3.269 1.794-.282.055-.532.103-.723.151.106-.517-.01-1.143-.113-1.692a20.243 20.243 0 01-.061-.34 18.428 18.428 0 00-1.282-4.256 19.042 19.042 0 00-1.096-2.142 17.318 17.318 0 00-1.934-2.657z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19 16.261l-3 .783s.109-1.293.253-2.009a17.048 17.048 0 012.5-5.975c.382-.57.798-1.112 1.247-1.617.45.505.866 1.048 1.247 1.617a17.046 17.046 0 012.5 5.975c.139.687.225 1.362.254 2.009L21 16.26V26h6a1 1 0 110 2H4a1 1 0 110-2h1.126l1.066-2.487S4.138 20.851 3.2 19.6a1 1 0 111.6-1.2L7.5 22H12c.103 0 .202.015.295.044.886.19 1.767.42 2.647.65.433.114.867.228 1.3.336a1 1 0 11-.485 1.94L13 24.28V26h6v-9.739zm-8 7.74V26H7.302l.857-2H11z\" fill=\"#4B5259\"/>\n  <path d=\"M14.133 15.51c-.102.548-.219 1.174-.112 1.691-.15-.037-.36-.078-.608-.126-1.259-.242-3.47-.669-3.385-1.819.343-4.6 3.924-8.457 8.48-9.145l-.002.003c-.29.325-.566.663-.83 1.013a17.907 17.907 0 00-1.104 1.644c-1.202 2.023-2.018 4.268-2.377 6.399-.018.108-.04.222-.062.34z\" fill=\"#4B5259\"/>\n</svg>\n",
+              "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/43e1e955b1bafd7e460d1effb31b29314495fc38c9cc7b10ffab0e38cef470fe_original.png"
+            },
+            "default_phrase": "جاذبه‌های گردشگری"
+          },
+          "slug": "urban_attractions",
+          "name": "جاذبه‌ی شهری",
+          "icon": {
+            "svg": "<svg width=\"64\" height=\"64\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M32 16c1.106 0 2 .894 2 2v.204c3.912.796 7 3.884 7.796 7.796H48c1.106 0 2 .894 2 2 0 1.106-.894 2-2 2H34v16c0 1.106-.894 2-2 2-1.106 0-2-.894-2-2V30H16c-1.106 0-2-.894-2-2 0-1.106.894-2 2-2h6.204C23 22.088 26.088 19 30 18.204V18c0-1.106.894-2 2-2zm24.016 3.752a2.008 2.008 0 0 1 2.232-1.736 2 2 0 0 1 1.736 2.232L58 36.122V46c0 1.106-.894 2-2 2-1.106 0-2-.894-2-2v-2h-9.048l-1.094 2.742a2.001 2.001 0 0 1-3.716-1.484l4-10A2.001 2.001 0 0 1 46 34h8.234zM5.751 18.016c1.11-.13 2.094.64 2.232 1.736L9.765 34H18c.818 0 1.554.498 1.858 1.258l4 10a2 2 0 0 1-3.714 1.484L19.047 44H10v2a2 2 0 1 1-4 0v-9.876L4.015 20.248a2 2 0 0 1 1.736-2.232z\" fill=\"#4B5259\" fill-rule=\"evenodd\"/>\n</svg>\n",
+            "png_url": "unknown"
+          },
+          "default_phrase": "جاذبه‌ی شهری"
+        },
+        "tags": [],
+        "bracket_ids": [],
+        "attribute_ids": [
+          {
+            "attribute_id": "6194e23811210975a0fb2e2e",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "6186629c40a7d82ac6d4daf4",
+            "description": "فضای پارک عمومی موجود است"
+          },
+          {
+            "attribute_id": "61866a9b407e8e05a55a71c4",
+            "description": "ندارد"
+          },
+          {
+            "attribute_id": "6194c8f711210975a0fb2e2d",
+            "description": "‌ ‌ "
+          }
+        ],
+        "is_in_review_create_page": false,
+        "is_in_city_page_category": false,
+        "home_page_list": "",
+        "open_hours": [
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "saturday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "sunday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "monday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "tuesday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "wednesday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "thursday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "friday"
+          }
+        ],
+        "contact_detail": {
+          "phone": "",
+          "address": "بازار، خیابان جلیلی، خیابان سبزه میدان، سبزه میدان، خیابان شهرستانی",
+          "email": "",
+          "web_page": ""
+        },
+        "category_detail": {
+          "menu": []
+        },
+        "seo": {
+          "meta_title": "مسجد معتمدالدوله کرمانشاه - نظرات و تصاویر | علی بابا پلاس",
+          "meta_description": "معرفی کامل مسجد معتمدالدوله کرمانشاه ، همراه با نظرات کاربران و تصاویر شما، لوکیشن، آدرس و ساعات کاری مسجد معتمدالدوله کرمانشاه",
+          "canonical": "https://www.alibaba.ir/plus/p-527852db/motamed-al-doleh-mosque-kermanshah",
+          "index_status": "noindex"
+        },
+        "internal_links": [],
+        "faq": [
+          {
+            "question": "آدرس مسجد معتمدالدوله کجاست؟",
+            "answer": "مسجد معتمدالدوله واقع در بازار، خیابان جلیلی، خیابان سبزه میدان، سبزه میدان، خیابان شهرستانی است."
+          },
+          {
+            "question": "ساعات و روزهای بازید از مسجد معتمدالدوله چگونه است؟",
+            "answer": "شما می‌توانید از شنبه تا جمعه در ساعات 10:00 تا 16:00 از این مکان دیدن کنید."
+          },
+          {
+            "question": "دیگر جاذبه‌های گردشگری و جاهای دیدنی نزدیک به مسجد معتمدالدوله کدام است؟",
+            "answer": "<a href=\"https://www.alibaba.ir/plus/p-4b4dce4b/haj-shahbazkhan-mosque-kermanshah\" >مسجد حاج شهباز خان</a> ، <a href=\"https://www.alibaba.ir/plus/p-8a0143ba/navab-aliyeh-kahanoom-kuchak-mosque-kermanshah\" >مسجد نواب عالیه خانم کوچک</a> ، <a href=\"https://www.alibaba.ir/plus/p-3bb6c8eb/moalem-park-kermanshah\" >پارک معلم</a> از مکان‌های دیدنی اطراف مسجد معتمدالدوله است که می‌توانید از آنها بازدید کنید."
+          },
+          {
+            "question": "چه هتل‌هایی در نزدیکی مسجد معتمدالدوله قرار دارند؟",
+            "answer": "<a href=\"https://www.alibaba.ir/plus/p-9f1f6db4/kourosh-hotel-apartment-kermanshah\" >هتل آپارتمان کوروش</a> ، <a href=\"https://www.alibaba.ir/plus/p-aa1dad2a/parsian-hotel-kermanshah\" >هتل پارسیان کرمانشاه</a> ، <a href=\"https://www.alibaba.ir/plus/p-ea8cdc45/sina-hotel-kermanshah\" >هتل سینا </a> در نزدیکی این مکان دیدنی قرار دارند."
+          },
+          {
+            "question": "آیا در نزدیکی مسجد معتمدالدوله مرکز خرید وجود دارد؟",
+            "answer": "بله، مراکز خرید  <a href=\"https://www.alibaba.ir/plus/p-5953421a/kasra-mall-kermanshah\" >کسری مال</a> ، <a href=\"https://www.alibaba.ir/plus/p-1e1f1ec9/dabir-azam-shopping-center-kermanshah\" >پاساژ دبیر اعظم</a> در نزدیکی مسجد معتمدالدوله قرار دارند."
+          },
+          {
+            "question": "چه رستوران‌ها و کافه‌هایی نزدیک به مسجد معتمدالدوله است؟",
+            "answer": "<a href=\"https://www.alibaba.ir/plus/p-2351d627/5-asr-book-cafe-kermanshah\" >کافه کتاب ۵ عصر</a> ، <a href=\"https://www.alibaba.ir/plus/p-311be61a/italian-restaurant-padena-kermanshah\" >رستوران ایتالیایی پادنا</a> در نزدیکی مسجد معتمدالدوله قرار دارند."
+          }
+        ],
+        "ratings": {
+          "average": 3,
+          "count": 1,
+          "specifics": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 0
+          }
+        },
+        "distance": 1373.090619890545
+      },
+      {
+        "id": "63c63ffa90953b45674ac379",
+        "short_id": "ff0e3281",
+        "country": {
+          "id": "612b815e2d28e7b40b49aebc",
+          "short_id": "feb3dc58",
+          "slug": "iran",
+          "name": "ایران",
+          "area": null
+        },
+        "province": {
+          "id": "612b815e2d28e7b40b49aed1",
+          "short_id": "8bc6ca3d",
+          "country_id": "612b815e2d28e7b40b49aebc",
+          "slug": "Kermanshah",
+          "name": "کرمانشاه",
+          "area": null
+        },
+        "city": {
+          "id": "6394799b352329265936b1b7",
+          "short_id": "c8552a4c",
+          "province_id": "612b815e2d28e7b40b49aed1",
+          "slug": "kermanshah-city",
+          "name": "کرمانشاه",
+          "persuading_title": "کرمانشاه؛ خاک زرین، میهن فرهاد و شیرین",
+          "content": "کرمانشاه، کرماشان و کرمانشاهان نام بزرگ‌ترین شهر کردنشین ایران است که به بلندای تاریخ ایران، قدمتی را به دوش می‌کشد. نام و آوازه کرمانشاه را حتما در داستان‌های اساطیری و پهلوانی شنیده‌اید. شهر فرهاد و شیرین، طاق بستان و بیستون همیشه سربلند! شهر مهمان‌نوازانی بی حد و مرز و مردمانی دلیر که به خصلت جوان‌مردی شهره‌اند. زمانی که نام کرمانشاه برده می‌شود، یکی از اولین مواردی که به ذهن‌تان خطور خواهد کرد، طاق بستان است که از زمان حکومت ساسانیان به جای مانده است. طاق ‌بستان در زبان کردی کرمانشاهی «تاق ‌وه‌ سان» گفته می‌شود. «تاق» که همان «طاق»، «وه» به معنی «از» و «سان» به معنی «سنگ» است. سفر به کرمانشاه یعنی سفر به دل تمدن و تاریخ  پادشاهان ساسانی از جمله خسرو پرویز. بازار سنتی مسقف کرمانشاه که به تاریکه بازار مشهور بوده، دری است به دنیایی متفاوت از هر بازاری که تا به حال دیده‌اید. از لذت خرید از یک دست‌فروش ساده که حاضر است تمام بساط خود را یک به یک باز کند تا چیزی که دوست دارید را پیدا کنید گرفته؛ تا مردم‌داری فروشندگان مغازه‌های بزرگ این بازار تجربه‌ای است که باید آن را لمس کنید تا عمق زیبایی‌اش را بفهمید. آب‌و‌هوای معتدل کوهستانی هم سفر به کرمانشاه را در هر فصلی ممکن ساخته است. جنگل‌های بلوط زاگرس، طبیعت چشم‌نواز و منحصر‌به‌فرد پاوه و اورامانات شما را به طبیعت‌گردی فرا می‌خواند. به خاطر وجود رشته‌کوه‌های متعدد، گفت‌و‌گو با سنگ صبور، سنگ خارا و سر گذاشتن به کوه و بیابان در اشعار شاعران این شهر زیاد به چشم می‌خورد. تا جایی که شاعر می‌گوید: «بیستون خود لب شیرین سخنان می‌بندد؛ با دل کوه غم کوه‌کنی نتوان گفت». مردم کرمانشاه به زبان کردی و فارسی کرمانشاهی صحبت می‌کنند؛ البته در بعضی مناطق به گویش‌های مختلف کردی مانند سنجابی، کرمانشاهی و لکی نیز سخن می‌گویند. مکالمه با مردم  کرمانشاه بسیار جذاب و دلنشین است به طوری که شاید تا مدت‌ها پس از سفر به این شهر، هنوز دوست داشته باشید لهجه آن‌ها را تمرین و تکرار کنید. بافت قدیمی و سنتی  شهر کرمانشاه در کنار پیشرفت‌های شهری از بالاترین نقطه شهر یعنی پارک کوهستان، به زیباترین شکل ممکن قابل مشاهده است. پوشیدن لباس محلی در بعضی از مراسم‌ها از جمله رسوم با ارزش مردم کرمانشاه است که جلوه‌ای خاص از فرهنگ مردم کرمانشاه را به نمایش می‌گذارد.",
+          "area": null,
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_df9ffcdbd317e8630e3c4e3bfb82435b142dbcb80b5eadfb839c8081b023a844_1.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5007606d706f5825e5f186cfe1469e9330a78786cc3c84c9a492a89cd11789fe_2.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4332a63117d74c6572137690908115002f65d086ddcb119cc967b7cb2f5bbf85_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_aee1cd7d5d63b8b56e755a57679f6aabb2606d0ba004ecf3e042997e4b6f9392_4.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba9f617d1b9ab19d940e9442fcce8def15e7eae10bdc84677b6d9d13f7e49daf_5.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_148db4b4ed54349e8f28170c5b25bdfa18623436bc252ecf2f410c17ec2bf7cf_6.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4697dbd10c46454a7ccc76be3392465547ff73f1ce01952f024e92796b2990c5_0000.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c8d000e723fde7af529246f9674b9c4d8d3eb2c620d312b1f90bb8272c950f34_7.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fd2558ebf8bdae7d86780acbab7e3a3a6b5d373f11534a22965fc41d4a7c6a34_8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b2703f728bb5507f19e5cf1dbef9b323acc8b32e3f9b40f6a8d84f7b5ad3996f_9.jpg"
+            }
+          ]
+        },
+        "slug": "abshar-serari/sarari-cafe-restaurant-kermanshah",
+        "name": "کافه رستوران سراری آبشار",
+        "persuading_title": "کافه رستوران سراری آبشار کرمانشاه",
+        "content": "کافه رستوران سراری آبشار کرمانشاه در محیطی زیبا و سرسبز پذیرای مهمانان و مشتریان خود است. اگر از نوشیدن چای آتشی لذت می‌برید یا طرفدار پروپاقرص نیمرو، املت، سوسیس و تخم‌مرغ هستید، این کافه رستوران انتخاب مناسبی برای شماست. کافه رستوران سراری آبشار می‌تواند اولین ایستگاه توقف در مسیر بازدید از مجموعه طاق‌بستان باشد. صبحانه‌تان را در کافه رستوران سراری آبشار کرمانشاه میل کنید و در نهایت، برای بازدید از آثار تفریحی و تاریخی راهی شوید. برای رفتن به این رستوران باید راهی بلوار طاق‌بستان کرمانشاه شوید و در انتهای این بلوار توقف کنید. اگر به اطرافتان نگاهی بیندازید، یک باغ سرسبز را خواهید دید که با تابلویی مقدمتان را گرامی می‌دارد. آلاچیق یا تخت‌های سنتی، کدام‌یک را برای نشستن انتخاب می‌کنید؟ در جایی بنشینید تا کارکنان مجموعه با منو به استقبالتان بیایند. شما می‌توانید انواع نوشیدنی گرم و سرد، املت، نیمرو، تنقلات و غذاهای سنتی را در اینجا میل کنید. آبشار، درختان کهن‌سال، اکسسوری‌های سنتی، کیفیت غذاها، نظافت محیط، چای آتشی و صبحانه‌های خوش‌طعم این مجموعه، از دلایلی هستند که مردم منطقه را به اینجا می‌کشاند. بد نیست بدانید که کافه رستوران سراری آبشار کرمانشاه در نزدیکی پارک جنگلی طاق‌بستان، موزه سنگ، مجموعه باستانی طاق‌بستان، درخت کهن‌سال، امامزاده ابراهیم و دریاچه طاق‌بستان قرار گرفته است. به این ترتیب، می‌توانید یک روز پربازدید را بعد از صرف صبحانه برای خود برنامه‌ریزی کنید. هتل جمشید، هتل پارسیان، هتل آزادی و اقامتگاه بابا عبدالله نمونه‌هایی از استراحتگاه‌های نزدیک به این رستوران هستند که کمتر از پنج دقیقه با آن‌ها فاصله دارد.",
+        "location": {
+          "type": "Point",
+          "coordinates": [34.3858667, 47.1311189]
+        },
+        "gallery": [
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_54354b7b3fb3b5cdbdf9c0af5198cb6bd100c36e246e2b9a0262a81d1ac5b24c_202006221.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b0a780f9847ec7794458f43e40cf9ce64a2bd3bd9a9497fbca5c16a4e17febd2_202006222.jpg"
+          },
+          {
+            "is_cover": true,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ca3219e294fd73b779de28f0eda8f87f038d6c4b93133771003ddd7f815f5759_202006223.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d9a73ebd63f341eca0e7f1c9fabc26b2b58b8b40b05dc0f704765b22b3545d23_202006224.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5930ac03ce2d520200859d594406d21fbfe0de4f2e947955829b401cc1d3d7c5_20200622.jpg"
+          }
+        ],
+        "category": {
+          "id": "612b815e2d28e7b40b49ae85",
+          "short_id": "12d3fb6f",
+          "parent": {
+            "id": "612b815e2d28e7b40b49ae84",
+            "short_id": "1c4e6b81",
+            "parent_id": "",
+            "slug": "food",
+            "name": "خورد و خوراک",
+            "icon": {
+              "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8a1 1 0 011 1v.102A5.01 5.01 0 0120.898 13H24a1 1 0 110 2h-7v8a1 1 0 11-2 0v-8H8a1 1 0 110-2h3.102A5.01 5.01 0 0115 9.102V9a1 1 0 011-1zm13.008 1l.116.008a1 1 0 01.868 1.116L29 18.061V23a1 1 0 11-2 0v-1h-4.524l-.547 1.371a1 1 0 01-1.858-.742l2-5a1 1 0 01.93-.629h4.116l.891-7.124a1.004 1.004 0 011.116-.868l-.116-.007zm-26.132.008a.998.998 0 011.116.868L4.882 17H9a1 1 0 01.929.629l2 5a1 1 0 01-1.857.742L9.524 22H5v1a1 1 0 11-2 0v-4.938l-.992-7.938a1 1 0 01.868-1.116z\"/>\n</svg>\n",
+              "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7edf6fd46dc4d08fe2af0a408a339ee1a951ccbca1124ce9c076127ef59ca884_original.png"
+            },
+            "default_phrase": "خورد و خوراک"
+          },
+          "slug": "restaurant",
+          "name": "رستوران",
+          "icon": {
+            "svg": "<svg width=\"64\" height=\"64\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M16 41a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9zm24-28a3 3 0 0 1 .289 5.986L40 19H22a5 5 0 0 0-.329 9.99L22 29h11c6.627 0 12 5.373 12 12 0 6.476-5.132 11.755-11.55 11.992L33 53h-1a3 3 0 0 1-.289-5.986L32 47h1a6 6 0 0 0 .352-11.99L33 35H22c-6.075 0-11-4.925-11-11 0-5.927 4.688-10.76 10.558-10.991L22 13h18zM16 47a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM47.893 5.673l.228.206 8 8a3 3 0 0 1 .206 4.014l-.206.228-8 8a3 3 0 0 1-4.448-4.014l.206-.228L49.758 16l-5.88-5.879a3 3 0 0 1-.205-4.014l.206-.228a3 3 0 0 1 4.014-.206z\" fill=\"#4B5259\" fill-rule=\"evenodd\"/>\n</svg>\n",
+            "png_url": "unknown"
+          },
+          "default_phrase": "رستوران"
+        },
+        "tags": [],
+        "bracket_ids": [],
+        "attribute_ids": [
+          {
+            "attribute_id": "6194e23811210975a0fb2e2e",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "6194e2fe3c15fdabf3d6268a",
+            "description": "ندارد"
+          },
+          {
+            "attribute_id": "61867154f2cfe6c102c555d5",
+            "description": "هر سه وعده"
+          },
+          {
+            "attribute_id": "618a772638f6840fcb528279",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "61866fc4f2cfe6c102c555d4",
+            "description": "نه ارزان، نه گران"
+          },
+          {
+            "attribute_id": "6186629c40a7d82ac6d4daf4",
+            "description": "فضای پارک عمومی موجود است"
+          },
+          {
+            "attribute_id": "618a766633cb773a4f708fd1",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "618a77be38f6840fcb52827a",
+            "description": "مجاز است"
+          },
+          {
+            "attribute_id": "61866a9b407e8e05a55a71c4",
+            "description": "دارد"
+          }
+        ],
+        "is_in_review_create_page": false,
+        "is_in_city_page_category": false,
+        "home_page_list": "",
+        "open_hours": [
+          {
+            "start": {
+              "hour": 12,
+              "min": 0
+            },
+            "end": {
+              "hour": 2,
+              "min": 30
+            },
+            "day_of_week": "saturday"
+          },
+          {
+            "start": {
+              "hour": 12,
+              "min": 0
+            },
+            "end": {
+              "hour": 2,
+              "min": 30
+            },
+            "day_of_week": "sunday"
+          },
+          {
+            "start": {
+              "hour": 12,
+              "min": 0
+            },
+            "end": {
+              "hour": 2,
+              "min": 30
+            },
+            "day_of_week": "monday"
+          },
+          {
+            "start": {
+              "hour": 12,
+              "min": 0
+            },
+            "end": {
+              "hour": 2,
+              "min": 30
+            },
+            "day_of_week": "tuesday"
+          },
+          {
+            "start": {
+              "hour": 12,
+              "min": 0
+            },
+            "end": {
+              "hour": 2,
+              "min": 30
+            },
+            "day_of_week": "wednesday"
+          },
+          {
+            "start": {
+              "hour": 12,
+              "min": 0
+            },
+            "end": {
+              "hour": 2,
+              "min": 30
+            },
+            "day_of_week": "thursday"
+          },
+          {
+            "start": {
+              "hour": 12,
+              "min": 0
+            },
+            "end": {
+              "hour": 2,
+              "min": 30
+            },
+            "day_of_week": "friday"
+          }
+        ],
+        "contact_detail": {
+          "phone": "09030709100",
+          "address": "کرمانشاه، انتهای بلوار طاق بستان، میدان طاق بستان",
+          "email": "",
+          "web_page": ""
+        },
+        "category_detail": {
+          "menu": []
+        },
+        "seo": {
+          "meta_title": "کافه رستوران سراری آبشار کرمانشاه - نظرات و تصاویر | علی بابا پلاس",
+          "meta_description": "معرفی کامل کافه رستوران سراری آبشار کرمانشاه ، همراه با نظرات کاربران و تصاویر شما، لوکیشن، آدرس و ساعات کاری کافه رستوران سراری آبشار کرمانشاه",
+          "canonical": "https://www.alibaba.ir/plus/p-ff0e3281/abshar-serari/sarari-cafe-restaurant-kermanshah",
+          "index_status": "index"
+        },
+        "internal_links": [],
+        "faq": [
+          {
+            "question": "آدرس کافه رستوران سراری آبشار کجاست؟",
+            "answer": "کافه رستوران سراری آبشار واقع در کرمانشاه، انتهای بلوار طاق بستان، میدان طاق بستان است."
+          },
+          {
+            "question": "ساعات کاری کافه رستوران سراری آبشار چگونه است؟",
+            "answer": "ساعات کاری و سرویس‌دهی کافه رستوران سراری آبشار از شنبه تا جمعه از 12:00 تا 2:30 است."
+          },
+          {
+            "question": "آیا کافه رستوران سراری آبشار بیرون‌بر دارد؟",
+            "answer": "خیر، فقط به مشتریان حضوری سرویس ارائه می‌دهد."
+          },
+          {
+            "question": "آیا کافه رستوران سراری آبشار فضای باز دارد؟",
+            "answer": "بله، کافه رستوران سراری آبشار فضای باز دارد."
+          }
+        ],
+        "ratings": {
+          "average": 0,
+          "count": 0,
+          "specifics": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          }
+        },
+        "distance": 9541.429641328163
+      },
+      {
+        "id": "63c63d0245c4aea36f194fbe",
+        "short_id": "1753d25a",
+        "country": {
+          "id": "612b815e2d28e7b40b49aebc",
+          "short_id": "feb3dc58",
+          "slug": "iran",
+          "name": "ایران",
+          "area": null
+        },
+        "province": {
+          "id": "612b815e2d28e7b40b49aed1",
+          "short_id": "8bc6ca3d",
+          "country_id": "612b815e2d28e7b40b49aebc",
+          "slug": "Kermanshah",
+          "name": "کرمانشاه",
+          "area": null
+        },
+        "city": {
+          "id": "6394799b352329265936b1b7",
+          "short_id": "c8552a4c",
+          "province_id": "612b815e2d28e7b40b49aed1",
+          "slug": "kermanshah-city",
+          "name": "کرمانشاه",
+          "persuading_title": "کرمانشاه؛ خاک زرین، میهن فرهاد و شیرین",
+          "content": "کرمانشاه، کرماشان و کرمانشاهان نام بزرگ‌ترین شهر کردنشین ایران است که به بلندای تاریخ ایران، قدمتی را به دوش می‌کشد. نام و آوازه کرمانشاه را حتما در داستان‌های اساطیری و پهلوانی شنیده‌اید. شهر فرهاد و شیرین، طاق بستان و بیستون همیشه سربلند! شهر مهمان‌نوازانی بی حد و مرز و مردمانی دلیر که به خصلت جوان‌مردی شهره‌اند. زمانی که نام کرمانشاه برده می‌شود، یکی از اولین مواردی که به ذهن‌تان خطور خواهد کرد، طاق بستان است که از زمان حکومت ساسانیان به جای مانده است. طاق ‌بستان در زبان کردی کرمانشاهی «تاق ‌وه‌ سان» گفته می‌شود. «تاق» که همان «طاق»، «وه» به معنی «از» و «سان» به معنی «سنگ» است. سفر به کرمانشاه یعنی سفر به دل تمدن و تاریخ  پادشاهان ساسانی از جمله خسرو پرویز. بازار سنتی مسقف کرمانشاه که به تاریکه بازار مشهور بوده، دری است به دنیایی متفاوت از هر بازاری که تا به حال دیده‌اید. از لذت خرید از یک دست‌فروش ساده که حاضر است تمام بساط خود را یک به یک باز کند تا چیزی که دوست دارید را پیدا کنید گرفته؛ تا مردم‌داری فروشندگان مغازه‌های بزرگ این بازار تجربه‌ای است که باید آن را لمس کنید تا عمق زیبایی‌اش را بفهمید. آب‌و‌هوای معتدل کوهستانی هم سفر به کرمانشاه را در هر فصلی ممکن ساخته است. جنگل‌های بلوط زاگرس، طبیعت چشم‌نواز و منحصر‌به‌فرد پاوه و اورامانات شما را به طبیعت‌گردی فرا می‌خواند. به خاطر وجود رشته‌کوه‌های متعدد، گفت‌و‌گو با سنگ صبور، سنگ خارا و سر گذاشتن به کوه و بیابان در اشعار شاعران این شهر زیاد به چشم می‌خورد. تا جایی که شاعر می‌گوید: «بیستون خود لب شیرین سخنان می‌بندد؛ با دل کوه غم کوه‌کنی نتوان گفت». مردم کرمانشاه به زبان کردی و فارسی کرمانشاهی صحبت می‌کنند؛ البته در بعضی مناطق به گویش‌های مختلف کردی مانند سنجابی، کرمانشاهی و لکی نیز سخن می‌گویند. مکالمه با مردم  کرمانشاه بسیار جذاب و دلنشین است به طوری که شاید تا مدت‌ها پس از سفر به این شهر، هنوز دوست داشته باشید لهجه آن‌ها را تمرین و تکرار کنید. بافت قدیمی و سنتی  شهر کرمانشاه در کنار پیشرفت‌های شهری از بالاترین نقطه شهر یعنی پارک کوهستان، به زیباترین شکل ممکن قابل مشاهده است. پوشیدن لباس محلی در بعضی از مراسم‌ها از جمله رسوم با ارزش مردم کرمانشاه است که جلوه‌ای خاص از فرهنگ مردم کرمانشاه را به نمایش می‌گذارد.",
+          "area": null,
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_df9ffcdbd317e8630e3c4e3bfb82435b142dbcb80b5eadfb839c8081b023a844_1.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5007606d706f5825e5f186cfe1469e9330a78786cc3c84c9a492a89cd11789fe_2.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4332a63117d74c6572137690908115002f65d086ddcb119cc967b7cb2f5bbf85_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_aee1cd7d5d63b8b56e755a57679f6aabb2606d0ba004ecf3e042997e4b6f9392_4.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba9f617d1b9ab19d940e9442fcce8def15e7eae10bdc84677b6d9d13f7e49daf_5.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_148db4b4ed54349e8f28170c5b25bdfa18623436bc252ecf2f410c17ec2bf7cf_6.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4697dbd10c46454a7ccc76be3392465547ff73f1ce01952f024e92796b2990c5_0000.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c8d000e723fde7af529246f9674b9c4d8d3eb2c620d312b1f90bb8272c950f34_7.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fd2558ebf8bdae7d86780acbab7e3a3a6b5d373f11534a22965fc41d4a7c6a34_8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b2703f728bb5507f19e5cf1dbef9b323acc8b32e3f9b40f6a8d84f7b5ad3996f_9.jpg"
+            }
+          ]
+        },
+        "slug": "ashkan-chocolate-kermanshah",
+        "name": "اشکان شکلات",
+        "persuading_title": "اشکان شکلات کرمانشاه",
+        "content": "یک فنجان قهوه خوب و خوشمزه چیزی است که همیشه می‌تواند حال آدم را بهتر کند. چه بهتر که آن قهوه‌فروشی، کلی شکلات و تنقلات دیگر هم برای فروش داشته باشد. به این ترتیب، علاوه بر سفارش قهوه‌تان، می‌توانید برای خانه و یا دوستانتان هم خرید کنید و با یک تیر دو نشان بزنید. اشکان شکلات کرمانشاه تنوع زیادی در انواع شکلات‌های برند خارجی و خوراکی‌هایی مثل: سس‌های خاص، پاستیل‌های رنگارنگ، چیپس‌های اورجینال و تخم‌مرغ‌های‌ شانسی‌ کوچک و بزرگ دارد. اما اشکان شکلات به قهوه‌های خوش‌عطر و طعمش هم معروف است. منوی نوشیدنی این فروشگاه شامل: انواع قهوه‌های دستگاهی و هات‌چاکلت است. قهوه‌ها را می‌توانید به انتخاب خودتان گرم یا به‌صورت آیس‌کافی سفارش دهید. یکی از خوبی‌های اشکان شکلات کرمانشاه، قیمت‌های مناسب محصولاتش است. قهوه‌های آنجا قیمت متوسطی دارند و همه سفارش‌ها به صورت بیرون‌بر تهیه می‌شوند. وقت‌هایی از سال که هوا مناسب بیرون نشستن باشد، جلوی مغازه میز و صندلی می‌چینند تا امکان لذت بردن از هوای آزاد برای مشتریان فراهم باشد. این مغازه از صبح زود باز است و اگر می‌خواهید پیش از گردش شهری، انرژی روزتان را با خوراکی مختصری تامین کنید، گزینه مناسبی خواهد بود. بلوار نوبهار، منطقه پر رفت‌وآمد کرمانشاه، باب خرید کردن است. در این بلوار می‌توانید انواع مغازه‌های لباس‌فروشی، هایپرمارکت و لوازم خانگی را پیدا کنید. پس، اگر برای خرید راهی این منطقه شدید، اشکان شکلات کرمانشاه را فراموش نکنید که در همین بلوار واقع شده است. ",
+        "location": {
+          "type": "Point",
+          "coordinates": [34.3473656, 47.0873725]
+        },
+        "gallery": [
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5835ba8ed70a3e0a91491b4770f8cdee6d8aafb3fa5c4a3412cfc0edf61a3b6f_20161021.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_34fccc699bfa5054d8900fb96283ab66df0187efa3e8a63007e28e6191674cc0_ashkan1.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7e118b362028dc95bf748d2c09fa12eb2c09b811e56d43096194628d1ac48161_ashkan3.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_aac7fe6ee55142b29f4b4f8e5f845172836dcfd412eb6e8a03711ca0b0a73ced_ashkan5.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_418be542a6616394991b16f673e5732a49d356e7702fbb223008ec2d83ec9c2b_ashkan7.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_3618c54daa35275feccd81f9664023d80636f4017c510f65abe2d44f0aaae7b5_ashkan9.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_404a7b60fc7fc610699f9067a0177a03331b6ce205f8e6897fe29aadfffe2069_ashkan10.jpg"
+          }
+        ],
+        "category": {
+          "id": "612b815e2d28e7b40b49ae89",
+          "short_id": "bb3e9e73",
+          "parent": {
+            "id": "612b815e2d28e7b40b49ae84",
+            "short_id": "1c4e6b81",
+            "parent_id": "",
+            "slug": "food",
+            "name": "خورد و خوراک",
+            "icon": {
+              "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8a1 1 0 011 1v.102A5.01 5.01 0 0120.898 13H24a1 1 0 110 2h-7v8a1 1 0 11-2 0v-8H8a1 1 0 110-2h3.102A5.01 5.01 0 0115 9.102V9a1 1 0 011-1zm13.008 1l.116.008a1 1 0 01.868 1.116L29 18.061V23a1 1 0 11-2 0v-1h-4.524l-.547 1.371a1 1 0 01-1.858-.742l2-5a1 1 0 01.93-.629h4.116l.891-7.124a1.004 1.004 0 011.116-.868l-.116-.007zm-26.132.008a.998.998 0 011.116.868L4.882 17H9a1 1 0 01.929.629l2 5a1 1 0 01-1.857.742L9.524 22H5v1a1 1 0 11-2 0v-4.938l-.992-7.938a1 1 0 01.868-1.116z\"/>\n</svg>\n",
+              "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7edf6fd46dc4d08fe2af0a408a339ee1a951ccbca1124ce9c076127ef59ca884_original.png"
+            },
+            "default_phrase": "خورد و خوراک"
+          },
+          "slug": "cafe",
+          "name": "کافه",
+          "icon": {
+            "svg": "<svg width=\"64\" height=\"64\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M16 41a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9zm24-28a3 3 0 0 1 .289 5.986L40 19H22a5 5 0 0 0-.329 9.99L22 29h11c6.627 0 12 5.373 12 12 0 6.476-5.132 11.755-11.55 11.992L33 53h-1a3 3 0 0 1-.289-5.986L32 47h1a6 6 0 0 0 .352-11.99L33 35H22c-6.075 0-11-4.925-11-11 0-5.927 4.688-10.76 10.558-10.991L22 13h18zM16 47a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM47.893 5.673l.228.206 8 8a3 3 0 0 1 .206 4.014l-.206.228-8 8a3 3 0 0 1-4.448-4.014l.206-.228L49.758 16l-5.88-5.879a3 3 0 0 1-.205-4.014l.206-.228a3 3 0 0 1 4.014-.206z\" fill=\"#4B5259\" fill-rule=\"evenodd\"/>\n</svg>\n",
+            "png_url": "unknown"
+          },
+          "default_phrase": "کافه"
+        },
+        "tags": [],
+        "bracket_ids": [],
+        "attribute_ids": [
+          {
+            "attribute_id": "6194e23811210975a0fb2e2e",
+            "description": "ندارد"
+          },
+          {
+            "attribute_id": "6194e2fe3c15fdabf3d6268a",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "61867154f2cfe6c102c555d5",
+            "description": "هر سه وعده"
+          },
+          {
+            "attribute_id": "618a772638f6840fcb528279",
+            "description": "ندارد"
+          },
+          {
+            "attribute_id": "61866fc4f2cfe6c102c555d4",
+            "description": "نه ارزان، نه گران"
+          },
+          {
+            "attribute_id": "6186629c40a7d82ac6d4daf4",
+            "description": "فضای پارک عمومی موجود است"
+          },
+          {
+            "attribute_id": "618a766633cb773a4f708fd1",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "618a77be38f6840fcb52827a",
+            "description": "مجاز است"
+          },
+          {
+            "attribute_id": "61866a9b407e8e05a55a71c4",
+            "description": "دارد"
+          }
+        ],
+        "is_in_review_create_page": false,
+        "is_in_city_page_category": false,
+        "home_page_list": "",
+        "open_hours": [
+          {
+            "start": {
+              "hour": 7,
+              "min": 0
+            },
+            "end": {
+              "hour": 0,
+              "min": 0
+            },
+            "day_of_week": "saturday"
+          },
+          {
+            "start": {
+              "hour": 7,
+              "min": 0
+            },
+            "end": {
+              "hour": 0,
+              "min": 0
+            },
+            "day_of_week": "sunday"
+          },
+          {
+            "start": {
+              "hour": 7,
+              "min": 0
+            },
+            "end": {
+              "hour": 0,
+              "min": 0
+            },
+            "day_of_week": "monday"
+          },
+          {
+            "start": {
+              "hour": 7,
+              "min": 0
+            },
+            "end": {
+              "hour": 0,
+              "min": 0
+            },
+            "day_of_week": "tuesday"
+          },
+          {
+            "start": {
+              "hour": 7,
+              "min": 0
+            },
+            "end": {
+              "hour": 0,
+              "min": 0
+            },
+            "day_of_week": "wednesday"
+          },
+          {
+            "start": {
+              "hour": 7,
+              "min": 0
+            },
+            "end": {
+              "hour": 0,
+              "min": 0
+            },
+            "day_of_week": "thursday"
+          },
+          {
+            "start": {
+              "hour": 7,
+              "min": 0
+            },
+            "end": {
+              "hour": 0,
+              "min": 0
+            },
+            "day_of_week": "friday"
+          }
+        ],
+        "contact_detail": {
+          "phone": "08338376030",
+          "address": "کرمانشاه، بلوار نوبهار، نرسیده به میدان مرکزی، نبش کوچه 129",
+          "email": "",
+          "web_page": ""
+        },
+        "category_detail": {
+          "menu": []
+        },
+        "seo": {
+          "meta_title": "اشکان شکلات کرمانشاه - نظرات و تصاویر | علی بابا پلاس",
+          "meta_description": "معرفی کامل اشکان شکلات کرمانشاه ، همراه با نظرات کاربران و تصاویر شما، لوکیشن، آدرس و ساعات کاری اشکان شکلات کرمانشاه",
+          "canonical": "https://www.alibaba.ir/plus/p-1753d25a/ashkan-chocolate-kermanshah",
+          "index_status": "index"
+        },
+        "internal_links": [],
+        "faq": [
+          {
+            "question": "آدرس اشکان شکلات کجاست؟",
+            "answer": "اشکان شکلات واقع در کرمانشاه، بلوار نوبهار، نرسیده به میدان مرکزی، نبش کوچه 129 است."
+          },
+          {
+            "question": "ساعات کاری اشکان شکلات چگونه است؟",
+            "answer": "ساعات کاری و سرویس‌دهی اشکان شکلات از شنبه تا جمعه از 7:00 تا 00:00 است."
+          },
+          {
+            "question": "آیا اشکان شکلات بیرون‌بر دارد؟",
+            "answer": "بله، اشکان شکلات پیک بیرون‌بر دارد."
+          },
+          {
+            "question": "آیا اشکان شکلات فضای باز دارد؟",
+            "answer": "بله، اشکان شکلات فضای باز دارد."
+          }
+        ],
+        "ratings": {
+          "average": 5,
+          "count": 2,
+          "specifics": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2
+          }
+        },
+        "distance": 3903.0189108801346
+      },
+      {
+        "id": "63c5410790953b45674ac34e",
+        "short_id": "4b4dce4b",
+        "country": {
+          "id": "612b815e2d28e7b40b49aebc",
+          "short_id": "feb3dc58",
+          "slug": "iran",
+          "name": "ایران",
+          "area": null
+        },
+        "province": {
+          "id": "612b815e2d28e7b40b49aed1",
+          "short_id": "8bc6ca3d",
+          "country_id": "612b815e2d28e7b40b49aebc",
+          "slug": "Kermanshah",
+          "name": "کرمانشاه",
+          "area": null
+        },
+        "city": {
+          "id": "6394799b352329265936b1b7",
+          "short_id": "c8552a4c",
+          "province_id": "612b815e2d28e7b40b49aed1",
+          "slug": "kermanshah-city",
+          "name": "کرمانشاه",
+          "persuading_title": "کرمانشاه؛ خاک زرین، میهن فرهاد و شیرین",
+          "content": "کرمانشاه، کرماشان و کرمانشاهان نام بزرگ‌ترین شهر کردنشین ایران است که به بلندای تاریخ ایران، قدمتی را به دوش می‌کشد. نام و آوازه کرمانشاه را حتما در داستان‌های اساطیری و پهلوانی شنیده‌اید. شهر فرهاد و شیرین، طاق بستان و بیستون همیشه سربلند! شهر مهمان‌نوازانی بی حد و مرز و مردمانی دلیر که به خصلت جوان‌مردی شهره‌اند. زمانی که نام کرمانشاه برده می‌شود، یکی از اولین مواردی که به ذهن‌تان خطور خواهد کرد، طاق بستان است که از زمان حکومت ساسانیان به جای مانده است. طاق ‌بستان در زبان کردی کرمانشاهی «تاق ‌وه‌ سان» گفته می‌شود. «تاق» که همان «طاق»، «وه» به معنی «از» و «سان» به معنی «سنگ» است. سفر به کرمانشاه یعنی سفر به دل تمدن و تاریخ  پادشاهان ساسانی از جمله خسرو پرویز. بازار سنتی مسقف کرمانشاه که به تاریکه بازار مشهور بوده، دری است به دنیایی متفاوت از هر بازاری که تا به حال دیده‌اید. از لذت خرید از یک دست‌فروش ساده که حاضر است تمام بساط خود را یک به یک باز کند تا چیزی که دوست دارید را پیدا کنید گرفته؛ تا مردم‌داری فروشندگان مغازه‌های بزرگ این بازار تجربه‌ای است که باید آن را لمس کنید تا عمق زیبایی‌اش را بفهمید. آب‌و‌هوای معتدل کوهستانی هم سفر به کرمانشاه را در هر فصلی ممکن ساخته است. جنگل‌های بلوط زاگرس، طبیعت چشم‌نواز و منحصر‌به‌فرد پاوه و اورامانات شما را به طبیعت‌گردی فرا می‌خواند. به خاطر وجود رشته‌کوه‌های متعدد، گفت‌و‌گو با سنگ صبور، سنگ خارا و سر گذاشتن به کوه و بیابان در اشعار شاعران این شهر زیاد به چشم می‌خورد. تا جایی که شاعر می‌گوید: «بیستون خود لب شیرین سخنان می‌بندد؛ با دل کوه غم کوه‌کنی نتوان گفت». مردم کرمانشاه به زبان کردی و فارسی کرمانشاهی صحبت می‌کنند؛ البته در بعضی مناطق به گویش‌های مختلف کردی مانند سنجابی، کرمانشاهی و لکی نیز سخن می‌گویند. مکالمه با مردم  کرمانشاه بسیار جذاب و دلنشین است به طوری که شاید تا مدت‌ها پس از سفر به این شهر، هنوز دوست داشته باشید لهجه آن‌ها را تمرین و تکرار کنید. بافت قدیمی و سنتی  شهر کرمانشاه در کنار پیشرفت‌های شهری از بالاترین نقطه شهر یعنی پارک کوهستان، به زیباترین شکل ممکن قابل مشاهده است. پوشیدن لباس محلی در بعضی از مراسم‌ها از جمله رسوم با ارزش مردم کرمانشاه است که جلوه‌ای خاص از فرهنگ مردم کرمانشاه را به نمایش می‌گذارد.",
+          "area": null,
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_df9ffcdbd317e8630e3c4e3bfb82435b142dbcb80b5eadfb839c8081b023a844_1.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5007606d706f5825e5f186cfe1469e9330a78786cc3c84c9a492a89cd11789fe_2.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4332a63117d74c6572137690908115002f65d086ddcb119cc967b7cb2f5bbf85_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_aee1cd7d5d63b8b56e755a57679f6aabb2606d0ba004ecf3e042997e4b6f9392_4.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba9f617d1b9ab19d940e9442fcce8def15e7eae10bdc84677b6d9d13f7e49daf_5.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_148db4b4ed54349e8f28170c5b25bdfa18623436bc252ecf2f410c17ec2bf7cf_6.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4697dbd10c46454a7ccc76be3392465547ff73f1ce01952f024e92796b2990c5_0000.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c8d000e723fde7af529246f9674b9c4d8d3eb2c620d312b1f90bb8272c950f34_7.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fd2558ebf8bdae7d86780acbab7e3a3a6b5d373f11534a22965fc41d4a7c6a34_8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b2703f728bb5507f19e5cf1dbef9b323acc8b32e3f9b40f6a8d84f7b5ad3996f_9.jpg"
+            }
+          ]
+        },
+        "slug": "haj-shahbazkhan-mosque-kermanshah",
+        "name": "مسجد حاج شهباز خان",
+        "persuading_title": "مسجد حاج شهباز خان کرمانشاه",
+        "content": "مسجد حاج شهباز خان کرمانشاه از دیگر اماکن مذهبی و تاریخی شهر است که در سال ۱۲۳۵ به همت حاج شهباز خان کلهر و شش برادر وی تاسیس شد. مسجد و حمام حاج شهباز خان، در واقع هدیه‌ای از جانب ایشان به شهر کرمانشاه است که امروزه علاوه بر استفاده کاربردی به‌عنوان یک جاذبه گردشگری هم شناخته می‌شوند. مسجد حاج شهباز خان کرمانشاه دارای معماری ایرانی و اسلامی است که پیشتر در عهد قاجار از این سبک بسیار استفاده می‌شده است. پس از عبور از هشتی مسجد وارد دالانی عریض خواهید شد که در نهایت شما را به حیاط مرکزی، شبستان و صحن اصلی مسجد می‌رساند. در طول مسیر تا رسیدن به صحن اصلی، شگفتی و زیبایی روحتان را نوازش می‌کند. عمده تزیینات مسجد را کاشی‌های سفید، کرم، طلایی و آبی‌رنگ تشکیل می‌دهد. تمامی ستون‌ها با آجر‌های کرم‌رنگ که بندکشی سفیدی دارند، تزیین شده‌اند. شبستان مسجد حاج شهباز خان کرمانشاه دارای ۱۲ ستون مارپیچی شکل است که ۲۰ گنبد مدور را نگه‌داری می‌کنند. اگر سر بلند کنید، تزیینات زیبای گنبد‌ها را خواهید دید که با کاشی و سنگ‌های مرمرین زینت شده‌اند. صحن اصلی مسجد پلانی مستطیل شکل دارد که ابعاد آن ۲۲ در ۱۸ مترمربع است. این فضا هم در زیبایی دست‌کمی از دیگر قسمت‌های مسجد ندارد. برای بازدید از این بنا باید از قبل با متولی مسجد هماهنگ کنید؛ چرا که به هنگام صبح، ظهر و عصر نماز جماعت در آن برپا می‌شود. در حال حاضر، در مسجد شهباز خان امور تبلیغی، مراسمات مذهبی و کلاس‌های آموزشی برگزار می‌شود، ضمن این‌که محل استقرار حوزه علمیه شهر کرمانشاه است. مسجد حاج شهباز خان کرمانشاه در نزدیکی مراکز مهمی؛ همچون موزه مردم‌شناسی، تکیه معاون‌الملک، بازار زرگرها، مسجد عمادالدوله، مسجد جامع، مجتمع تجاری پارسیان و پاساژ البرز، قرار گرفته است.",
+        "location": {
+          "type": "Point",
+          "coordinates": [34.3148468, 47.0678195]
+        },
+        "gallery": [
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b563d3de934ee853ffda12ab49a871afdf08cda9eec4701929e8988196f6e14d_202210281.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4e4749ca7485579d47004da03e6b963e6e63d5ab90a0c82e4237f13301115803_20221028.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_3fc637f6dd488dcc0d49fbe7c19bc4d477396e171c01774f15fdf5c42854d30f_202212261.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_85a8849123b2a58deb1b83b414d5467983979acbd62cc09adceb6ec5bcd28510_202212262.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_3fa7c948ffcd70da90696fc1c33043b86f7fc041798e756fc113745e2fc010f2_202212263.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_41e7ecd609266daba92adc7f8a1cc2009b7e541cc04a7142d9617cfc73f67ff2_202212264.jpg"
+          },
+          {
+            "is_cover": false,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4ddec2119731de55f7e66149f94457313dde65dd7a0bc63bf223e72517d0e864_202212265.jpg"
+          },
+          {
+            "is_cover": true,
+            "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7014d46c46676cb58d5c381775357538c462da526d0d3ebf385a0e8e7518018f_20221226.jpg"
+          }
+        ],
+        "category": {
+          "id": "612b815e2d28e7b40b49ae91",
+          "short_id": "e59ac71f",
+          "parent": {
+            "id": "612b815e2d28e7b40b49ae8f",
+            "short_id": "3f3bc534",
+            "parent_id": "",
+            "slug": "attractions",
+            "name": "جاذبه‌های گردشگری",
+            "icon": {
+              "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M21.494 6.114l-.002-.003c4.524.683 8.139 4.554 8.48 9.145.086 1.14-1.943 1.535-3.269 1.794-.282.055-.532.103-.723.151.106-.517-.01-1.143-.113-1.692a20.243 20.243 0 01-.061-.34 18.428 18.428 0 00-1.282-4.256 19.042 19.042 0 00-1.096-2.142 17.318 17.318 0 00-1.934-2.657z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19 16.261l-3 .783s.109-1.293.253-2.009a17.048 17.048 0 012.5-5.975c.382-.57.798-1.112 1.247-1.617.45.505.866 1.048 1.247 1.617a17.046 17.046 0 012.5 5.975c.139.687.225 1.362.254 2.009L21 16.26V26h6a1 1 0 110 2H4a1 1 0 110-2h1.126l1.066-2.487S4.138 20.851 3.2 19.6a1 1 0 111.6-1.2L7.5 22H12c.103 0 .202.015.295.044.886.19 1.767.42 2.647.65.433.114.867.228 1.3.336a1 1 0 11-.485 1.94L13 24.28V26h6v-9.739zm-8 7.74V26H7.302l.857-2H11z\" fill=\"#4B5259\"/>\n  <path d=\"M14.133 15.51c-.102.548-.219 1.174-.112 1.691-.15-.037-.36-.078-.608-.126-1.259-.242-3.47-.669-3.385-1.819.343-4.6 3.924-8.457 8.48-9.145l-.002.003c-.29.325-.566.663-.83 1.013a17.907 17.907 0 00-1.104 1.644c-1.202 2.023-2.018 4.268-2.377 6.399-.018.108-.04.222-.062.34z\" fill=\"#4B5259\"/>\n</svg>\n",
+              "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/43e1e955b1bafd7e460d1effb31b29314495fc38c9cc7b10ffab0e38cef470fe_original.png"
+            },
+            "default_phrase": "جاذبه‌های گردشگری"
+          },
+          "slug": "urban_attractions",
+          "name": "جاذبه‌ی شهری",
+          "icon": {
+            "svg": "<svg width=\"64\" height=\"64\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M32 16c1.106 0 2 .894 2 2v.204c3.912.796 7 3.884 7.796 7.796H48c1.106 0 2 .894 2 2 0 1.106-.894 2-2 2H34v16c0 1.106-.894 2-2 2-1.106 0-2-.894-2-2V30H16c-1.106 0-2-.894-2-2 0-1.106.894-2 2-2h6.204C23 22.088 26.088 19 30 18.204V18c0-1.106.894-2 2-2zm24.016 3.752a2.008 2.008 0 0 1 2.232-1.736 2 2 0 0 1 1.736 2.232L58 36.122V46c0 1.106-.894 2-2 2-1.106 0-2-.894-2-2v-2h-9.048l-1.094 2.742a2.001 2.001 0 0 1-3.716-1.484l4-10A2.001 2.001 0 0 1 46 34h8.234zM5.751 18.016c1.11-.13 2.094.64 2.232 1.736L9.765 34H18c.818 0 1.554.498 1.858 1.258l4 10a2 2 0 0 1-3.714 1.484L19.047 44H10v2a2 2 0 1 1-4 0v-9.876L4.015 20.248a2 2 0 0 1 1.736-2.232z\" fill=\"#4B5259\" fill-rule=\"evenodd\"/>\n</svg>\n",
+            "png_url": "unknown"
+          },
+          "default_phrase": "جاذبه‌ی شهری"
+        },
+        "tags": [],
+        "bracket_ids": [],
+        "attribute_ids": [
+          {
+            "attribute_id": "6194e23811210975a0fb2e2e",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "6186629c40a7d82ac6d4daf4",
+            "description": "فضای پارک عمومی موجود است"
+          },
+          {
+            "attribute_id": "61866a9b407e8e05a55a71c4",
+            "description": "دارد"
+          },
+          {
+            "attribute_id": "6194c8f711210975a0fb2e2d",
+            "description": "‌ ‌ "
+          }
+        ],
+        "is_in_review_create_page": false,
+        "is_in_city_page_category": false,
+        "home_page_list": "",
+        "open_hours": [
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "saturday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "sunday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "monday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "tuesday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "wednesday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "thursday"
+          },
+          {
+            "start": {
+              "hour": 10,
+              "min": 0
+            },
+            "end": {
+              "hour": 16,
+              "min": 0
+            },
+            "day_of_week": "friday"
+          }
+        ],
+        "contact_detail": {
+          "phone": "",
+          "address": "کرمانشاه، بلوار شهید مطهری، خیابان مدرس، کوچه حشمت السلطنه",
+          "email": "",
+          "web_page": ""
+        },
+        "category_detail": {
+          "menu": []
+        },
+        "seo": {
+          "meta_title": "مسجد حاج شهباز خان کرمانشاه - نظرات و تصاویر | علی بابا پلاس",
+          "meta_description": "معرفی کامل مسجد حاج شهباز خان کرمانشاه ، همراه با نظرات کاربران و تصاویر شما، لوکیشن، آدرس و ساعات کاری مسجد حاج شهباز خان کرمانشاه",
+          "canonical": "https://www.alibaba.ir/plus/p-4b4dce4b/haj-shahbazkhan-mosque-kermanshah",
+          "index_status": "noindex"
+        },
+        "internal_links": [],
+        "faq": [
+          {
+            "question": "آدرس مسجد حاج شهباز خان کجاست؟",
+            "answer": "مسجد حاج شهباز خان واقع در کرمانشاه، بلوار شهید مطهری، خیابان مدرس، کوچه حشمت السلطنه است."
+          },
+          {
+            "question": "ساعات و روزهای بازید از مسجد حاج شهباز خان چگونه است؟",
+            "answer": "شما می‌توانید از شنبه تا جمعه در ساعات 10:00 تا 16:00 از این مکان دیدن کنید."
+          },
+          {
+            "question": "دیگر جاذبه‌های گردشگری و جاهای دیدنی نزدیک به مسجد حاج شهباز خان کدام است؟",
+            "answer": "<a href=\"https://www.alibaba.ir/plus/p-527852db/motamed-al-doleh-mosque-kermanshah\" >مسجد معتمدالدوله</a> ، <a href=\"https://www.alibaba.ir/plus/p-8a0143ba/navab-aliyeh-kahanoom-kuchak-mosque-kermanshah\" >مسجد نواب عالیه خانم کوچک</a> ، <a href=\"https://www.alibaba.ir/plus/p-3bb6c8eb/moalem-park-kermanshah\" >پارک معلم</a> از مکان‌های دیدنی اطراف مسجد حاج شهباز خان است که می‌توانید از آنها بازدید کنید."
+          },
+          {
+            "question": "چه هتل‌هایی در نزدیکی مسجد حاج شهباز خان قرار دارند؟",
+            "answer": "<a href=\"https://www.alibaba.ir/plus/p-9f1f6db4/kourosh-hotel-apartment-kermanshah\" >هتل آپارتمان کوروش</a> ، <a href=\"https://www.alibaba.ir/plus/p-aa1dad2a/parsian-hotel-kermanshah\" >هتل پارسیان کرمانشاه</a> ، <a href=\"https://www.alibaba.ir/plus/p-ea8cdc45/sina-hotel-kermanshah\" >هتل سینا </a> در نزدیکی این مکان دیدنی قرار دارند."
+          },
+          {
+            "question": "آیا در نزدیکی مسجد حاج شهباز خان مرکز خرید وجود دارد؟",
+            "answer": "بله، مراکز خرید  <a href=\"https://www.alibaba.ir/plus/p-5953421a/kasra-mall-kermanshah\" >کسری مال</a> ، <a href=\"https://www.alibaba.ir/plus/p-1e1f1ec9/dabir-azam-shopping-center-kermanshah\" >پاساژ دبیر اعظم</a> در نزدیکی مسجد حاج شهباز خان قرار دارند."
+          },
+          {
+            "question": "چه رستوران‌ها و کافه‌هایی نزدیک به مسجد حاج شهباز خان است؟",
+            "answer": "<a href=\"https://www.alibaba.ir/plus/p-2351d627/5-asr-book-cafe-kermanshah\" >کافه کتاب ۵ عصر</a> ، <a href=\"https://www.alibaba.ir/plus/p-311be61a/italian-restaurant-padena-kermanshah\" >رستوران ایتالیایی پادنا</a> در نزدیکی مسجد حاج شهباز خان قرار دارند."
+          }
+        ],
+        "ratings": {
+          "average": 5,
+          "count": 2,
+          "specifics": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2
+          }
+        },
+        "distance": 763.2323201876142
+      }
+    ],
+    "metadata": {
+      "fields": [
+        {
+          "name": "id",
+          "title": "شناسه",
+          "type": "string",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": null
+        },
+        {
+          "name": "slug",
+          "title": "سلاگ",
+          "type": "string",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": null
+        },
+        {
+          "name": "city",
+          "title": "شهر",
+          "type": "object",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "id",
+              "title": "شناسه",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "slug",
+              "title": "سلاگ",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "province_id",
+              "title": "شناسه استان",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "name",
+              "title": "نام",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "persuading_title",
+              "title": "نام ترقیب کننده",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "content",
+              "title": "محتوای توضیحات",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "area",
+              "title": "منطقه",
+              "type": "object",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": [
+                {
+                  "name": "type",
+                  "title": "نوع آبجکت جغرافیایی",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "coordinates",
+                  "title": "مختصات آبجکت جغرافیایی",
+                  "type": "array",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                }
+              ]
+            },
+            {
+              "name": "gallery",
+              "title": "گالری",
+              "type": "array",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": [
+                {
+                  "name": "is_cover",
+                  "title": "کاور",
+                  "type": "bool",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "large_url",
+                  "title": "یو آر ال تصویر بزرگ",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                }
+              ]
+            },
+            {
+              "name": "promoted_poi_ids",
+              "title": "پی او آی های پروموت شده",
+              "type": "array",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            }
+          ]
+        },
+        {
+          "name": "province",
+          "title": "استان",
+          "type": "object",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "id",
+              "title": "شناسه",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "slug",
+              "title": "سلاگ",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "country_id",
+              "title": "شناسه کشور",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "name",
+              "title": "نام",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "area",
+              "title": "منطقه",
+              "type": "array",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": [
+                {
+                  "name": "type",
+                  "title": "نوع آبجکت جغرافیایی",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "coordinates",
+                  "title": "مختصات آبجکت جغرافیایی",
+                  "type": "array",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "name",
+          "title": "نام",
+          "type": "string",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": null
+        },
+        {
+          "name": "persuading_title",
+          "title": "نام ترقیب کننده",
+          "type": "string",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": null
+        },
+        {
+          "name": "content",
+          "title": "محتوای توضیحات",
+          "type": "string",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": null
+        },
+        {
+          "name": "location",
+          "title": "مکان",
+          "type": "array",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "type",
+              "title": "نوع آبجکت جغرافیایی",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "coordinates",
+              "title": "مختصات آبجکت جغرافیایی",
+              "type": "array",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            }
+          ]
+        },
+        {
+          "name": "gallery",
+          "title": "گالری",
+          "type": "array",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "is_cover",
+              "title": "کاور",
+              "type": "bool",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "large_url",
+              "title": "یو آر ال تصویر بزرگ",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            }
+          ]
+        },
+        {
+          "name": "category",
+          "title": "طبقه بندی",
+          "type": "object",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "id",
+              "title": "شناسه",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "slug",
+              "title": "سلاگ",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "parent",
+              "title": "طبقه بندی والد",
+              "type": "object",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": [
+                {
+                  "name": "id",
+                  "title": "شناسه",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "slug",
+                  "title": "سلاگ",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "parent_id",
+                  "title": "شناسه طبقه بندی والد",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "name",
+                  "title": "نام",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "icon",
+                  "title": "آیکون",
+                  "type": "object",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": [
+                    {
+                      "name": "svg",
+                      "title": "اس وی جی",
+                      "type": "string",
+                      "isSortable": false,
+                      "isFilterable": false,
+                      "fields": null
+                    }
+                  ]
+                },
+                {
+                  "name": "default_phrase",
+                  "title": "قالب آماده ی شهر",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                }
+              ]
+            },
+            {
+              "name": "name",
+              "title": "نام",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "icon",
+              "title": "آیکون",
+              "type": "object",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": [
+                {
+                  "name": "svg",
+                  "title": "اس وی جی",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                }
+              ]
+            },
+            {
+              "name": "default_phrase",
+              "title": "قالب آماده ی شهر",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            }
+          ]
+        },
+        {
+          "name": "tags",
+          "title": "تگ ها",
+          "type": "array",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "id",
+              "title": "شناسه",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "name",
+              "title": "نام",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            }
+          ]
+        },
+        {
+          "name": "is_in_review_create_page",
+          "title": "تو صفحه ساختن نظر هست؟",
+          "type": "bool",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": null
+        },
+        {
+          "name": "is_in_city_page_category",
+          "title": "تو صفحه دسته بندی شهر هست؟",
+          "type": "bool",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": null
+        },
+        {
+          "name": "home_page_list",
+          "title": "لیست صفحه اصلی",
+          "type": "string",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": null
+        },
+        {
+          "name": "open_hours",
+          "title": "ساعت کاری",
+          "type": "array",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "start",
+              "title": "شروع",
+              "type": "object",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": [
+                {
+                  "name": "hour",
+                  "title": "ساعت",
+                  "type": "number",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "min",
+                  "title": "دقیقه",
+                  "type": "number",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                }
+              ]
+            },
+            {
+              "name": "end",
+              "title": "پایان",
+              "type": "object",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": [
+                {
+                  "name": "hour",
+                  "title": "ساعت",
+                  "type": "number",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "min",
+                  "title": "دقیقه",
+                  "type": "number",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                }
+              ]
+            },
+            {
+              "name": "day_of_week",
+              "title": "روز هفته",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            }
+          ]
+        },
+        {
+          "name": "contact_detail",
+          "title": "اطلاعات تماس",
+          "type": "object",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "phone",
+              "title": "تلفن",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "address",
+              "title": "آدرس",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "email",
+              "title": "پست الکترونیک",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "web_page",
+              "title": "صفحه اینترنتی",
+              "type": "string",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            }
+          ]
+        },
+        {
+          "name": "category_detail",
+          "title": "جزییات دسته بندی",
+          "type": "object",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "menu",
+              "title": "منو",
+              "type": "array",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": [
+                {
+                  "name": "name",
+                  "title": "نام",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "price",
+                  "title": "قیمت",
+                  "type": "number",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                },
+                {
+                  "name": "photo",
+                  "title": "عکس",
+                  "type": "string",
+                  "isSortable": false,
+                  "isFilterable": false,
+                  "fields": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ratings",
+          "title": "امتیاز کاربران",
+          "type": "object",
+          "isSortable": false,
+          "isFilterable": false,
+          "fields": [
+            {
+              "name": "average",
+              "title": "میانگین امتیازها",
+              "type": "number",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            },
+            {
+              "name": "count",
+              "title": "نعداد امتیازها",
+              "type": "number",
+              "isSortable": false,
+              "isFilterable": false,
+              "fields": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "success": true,
+  "error": ""
+}

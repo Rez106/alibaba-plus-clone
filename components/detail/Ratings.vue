@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full">
+  <div class="w-full mt-5">
     <div class="flex items-start gap-1">
       <div class="">
         <p>
@@ -7,7 +7,7 @@
           <span class="text-cyan-600 font-semibold">/5</span>
         </p>
         <p class="text-[0.5rem] text-gray-500">
-          بر اساس نظر {{ reviewCount }} نفر
+          بر اساس نظر {{ reviews.result.totalCount }} نفر
         </p>
       </div>
       <v-rating

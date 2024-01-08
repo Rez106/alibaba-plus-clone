@@ -15,13 +15,20 @@
         </span>
       </p>
     </div>
-    <v-btn
-      rounded
-      color="primary"
-      elevation="0"
-      prepend-icon="mdi-map-marker-path"
-      >مسیریابی</v-btn
+
+    <nuxt-link
+      :to="`https://www.google.com/maps?q=${detail.location.coordinates[0]},${detail.location.coordinates[1]}`"
+      target="_blank"
     >
+      <v-btn
+        rounded
+        color="primary"
+        elevation="0"
+        prepend-icon="mdi-map-marker-path"
+      >
+        مسیریابی
+      </v-btn>
+    </nuxt-link>
   </div>
 </template>
 

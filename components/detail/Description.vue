@@ -6,7 +6,10 @@
     >
       <p
         class="text-justify break-words text-sm duration-300"
-        :class="{ 'h-[120px]': !maxWidthContent, 'h-[410px]': maxWidthContent }"
+        :class="{
+          'h-[120px]': !maxWidthContent,
+          'h-[500px]': maxWidthContent,
+        }"
       >
         {{ content }}
       </p>

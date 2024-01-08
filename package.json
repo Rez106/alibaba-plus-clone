@@ -12,6 +12,7 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.10.3",
     "nuxt": "^3.9.0",
+    "nuxt3-leaflet": "^1.0.12",
     "vue": "^3.4.3",
     "vue-router": "^4.2.5",
     "vuetify-nuxt-module": "^0.8.0"

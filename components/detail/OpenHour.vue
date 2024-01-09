@@ -1,6 +1,6 @@
 <template>
   <div class="w-full">
-    <div class="flex max-sm:flex-col">
+    <div class="flex flex-col">
       <div class="flex items-center gap-5 mb-5">
         <h1 class="font-bold text-xl">ساعات کاری</h1>
         <v-chip

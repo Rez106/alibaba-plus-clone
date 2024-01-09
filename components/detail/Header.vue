@@ -4,11 +4,11 @@
       <h1 class="text-xl font-bold">{{ detail.persuading_title }}</h1>
       <p class="text-gray-500 text-xs">
         <span class="text-cyan-600 text-2xl font-semibold">{{
-          reviewAvg
+          reviewAvg.toFixed(1)
         }}</span>
         <span class="text-cyan-600 font-semibold">/5</span>
         امتیاز کاربران
-        <span class="text-xs">({{ review.result.totalCount + "نظر" }})</span>
+        <span class="text-xs">({{ review + "نظر" }})</span>
         <span class="address max-sm:hidden">
           <v-icon icon="mdi-circle-small" />
           {{ detail.contact_detail.address }}
@@ -35,7 +35,7 @@
 <script setup>
 defineProps({
   detail: Object,
-  review: Object,
+  review: Number,
   reviewAvg: Number,
 });
 </script>

@@ -12,8 +12,8 @@
         <detail-breadcrumb :detail="detail" />
         <detail-header
           :detail="detail"
-          :reviewAvg="reviewAvg"
-          :review="review"
+          :reviewAvg="detail.ratings.average"
+          :review="detail.ratings.count"
         />
         <div
           class="flex items-center justify-center gap-3 mt-5 border-t border-b border-gray-500 py-3"
@@ -36,11 +36,12 @@
         <detail-description :content="detail.content" />
       </div>
       <div class="w-full px-4" id="تجربه ها">
-        <detail-ratings :review="reviewAvg" :reviews="review" />
+        <detail-ratings :reviewsRatings="detail.ratings" />
         <detail-comments
+          v-if="detail.id"
           @filterComments="changeFilter"
           :activeFilters="appliedCommentFilters"
-          :reviews="review"
+          :detailId="detail.id"
         />
       </div>
       <div class="mt-10" id="جاذبه‌های اطراف">
@@ -53,35 +54,45 @@
         />
         <detail-near :near="near" />
       </div>
-      <div class="h-[50vh]" id="ساعات کاری">slm</div>
-      <div class="h-[50vh]" id="اطلاعات تماس">slm</div>
-      <div class="h-[50vh]" id="مکان های مشابه">slm</div>
+      <div class="h-[50vh] mt-10 px-4" id="ساعات کاری">
+        <detail-open-hour
+          :openHours="detail.open_hours"
+          :isVisible="detail.is_visible"
+        />
+      </div>
+      <div id="اطلاعات تماس">
+        <detail-contact :contactDetail="detail.contact_detail" />
+      </div>
+      <div class="my-10" id="مکان های مشابه">
+        <h1 class="text-xl font-bold px-4">مکان های مشابه</h1>
+        <bracket-list :item="similar.result.items" :isDetail="true" />
+      </div>
+      <div class="">
+        <h1 class="text-xl font-bold px-4 mb-5">سوالات متداول</h1>
+        <detail-faq :faq="detail.faq" />
+      </div>
     </nuxt-layout>
   </nuxt-layout>
 </template>
 
 <script setup>
+const route = useRoute();
+
 //--Details
-// const { data: detail, error } = await useFetch(
-//   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/details`
-// );
-//--Comments (No Filter)
-// const { data: review, error } = await useFetch(
-//   `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detail.id}`
-// );
-//--similar
-// const { data: similar, error } = await useFetch(
-//   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/similars?page_size=25&same_city=true&same_category=true`
-// );
-//--near
-// const { data: near, error } = await useFetch(
-//   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/near?page_size=6&max_distance=10000`
-// );
+const { data: detail, detailError } = await useFetch(
+  `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/details`
+);
+
+// --similar;
+const { data: similar, similarError } = await useFetch(
+  `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/similars?page_size=25&same_city=true&same_category=true`
+);
+// --near
+const { data: near, nearError } = await useFetch(
+  `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/near?page_size=6&max_distance=10000`
+);
 
 const { share, isSupported } = useShare();
-const { b9215288: detail, review, similar, near } = useData();
-const route = useRoute();
-const reviewAvg = ref(0);
 
 const currentTab = ref("در یک نگاه");
 
@@ -102,11 +113,8 @@ const changeFilter = ({ action, value }) => {
 
 onMounted(() => {
   currentTab.value = route.hash.replace("#", "") || "در یک نگاه";
-  const sumRating = review.result.items.reduce((acc, curr) => {
-    return acc + curr.rating;
-  }, 0);
-  reviewAvg.value = (sumRating / review.result.totalCount).toFixed(1);
 });
+
 const tabHandler = (tab) => {
   currentTab.value = tab;
 };

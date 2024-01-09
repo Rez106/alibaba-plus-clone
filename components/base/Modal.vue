@@ -30,7 +30,7 @@
       </div>
       <div class="">
         <p
-          v-if="modal.data.items === null || !modal.data.items?.pois"
+          v-if="modal.data.items === null && !modal.data.items?.pois"
           class="text-center mt-10"
         >
           موردی یافت نشد!

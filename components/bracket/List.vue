@@ -42,8 +42,22 @@
         />
       </swiper-slide>
     </swiper>
+    <swiper v-if="isDetail" :space-between="20" :slides-per-view="2">
+      <swiper-slide
+        v-for="city in item"
+        :key="city.id"
+        class="rounded-md"
+        :class="{ 'bg-white': isColored }"
+      >
+        <bracket-item
+          :detail="city"
+          :isColored="isColored"
+          :isCarousel="isCarousel"
+        />
+      </swiper-slide>
+    </swiper>
     <swiper
-      v-else
+      v-if="isCarousel"
       :modules="[SwiperAutoplay, SwiperGrid]"
       :slides-per-view="4"
       :space-between="10"
@@ -73,6 +87,7 @@ const { item, isColored, isCarousel } = defineProps({
   item: Object,
   isColored: Boolean,
   isCarousel: Boolean,
+  isDetail: Boolean,
 });
 </script>
 

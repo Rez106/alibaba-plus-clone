@@ -9,10 +9,11 @@
 </template>
 
 <script setup>
-const { icon, name } = defineProps({
+const { cities, icon, name } = defineProps({
   id: String,
   name: String,
   icon: Object,
+  cities: Array,
 });
 const { openModal } = useModal();
 
@@ -21,12 +22,11 @@ onMounted(() => {
   iconHolder.value.innerHTML = icon.svg;
 });
 
-const { city: cities } = useData();
 const categoryModalHandler = () => {
   openModal({
     search: false,
     label: "",
-    items: cities.result.items,
+    items: cities,
     icon: icon.png_url,
     prefix: name,
   });

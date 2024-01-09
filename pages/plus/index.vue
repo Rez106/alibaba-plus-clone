@@ -30,8 +30,6 @@ const { data: cities, error } = await useFetch(
 const { data: hero, heroError } = await useFetch(
   "https://ws.alibaba.ir/api/v1/plus/user/home"
 );
-
-// const { brackets, hero, categories } = useData();
 </script>
 
 <style scoped></style>

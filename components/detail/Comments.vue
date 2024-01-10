@@ -1,22 +1,5 @@
 <template>
-  <div v-if="!reviews" class="flex flex-col items-center gap-3 mb-10">
-    <v-img
-      :src="
-        mobile
-          ? 'https://cdn.alibaba.ir/h2/mobile/assets/images/reviews-26289117.svg'
-          : 'https://cdn.alibaba.ir/h2/desktop/assets/images/reviews-26289117.svg'
-      "
-      width="200"
-      height="200"
-      cover
-      eager
-    />
-    <h1 class="font-bold">هنوز کسی تجربه‌اش را درباره اینجا ثبت نکرده!</h1>
-    <p class="text-sm text-center">
-      با اشتراک‌گذاری تجربه‌تان، اولین نفری باشید که به مسافران بعدی کمک می‌کند.
-    </p>
-  </div>
-  <div v-else class="flex flex-col gap-4 mt-5">
+  <div class="flex flex-col gap-4 mt-5">
     <div
       class="flex items-center justify-start gap-4 w-10/12 max-[360px]:flex-col max-[360px]:w-full"
     >
@@ -87,7 +70,10 @@
         </div>
       </div>
     </div>
-    <div class="max-sm:w-full max-sm:mx-auto flex flex-col gap-4">
+    <div
+      v-if="reviews || reviews?.result?.items?.length > 0"
+      class="max-sm:w-full max-sm:mx-auto flex flex-col gap-4"
+    >
       <detail-comment
         v-for="review in reviews.result.items"
         :key="review.id"
@@ -111,6 +97,26 @@
         {{ reviews.result.totalCount }}
       </div>
     </div>
+  </div>
+  <div
+    v-if="!reviews || reviews?.result?.items?.length === 0"
+    class="flex flex-col items-center gap-3 mb-10"
+  >
+    <v-img
+      :src="
+        mobile
+          ? 'https://cdn.alibaba.ir/h2/mobile/assets/images/reviews-26289117.svg'
+          : 'https://cdn.alibaba.ir/h2/desktop/assets/images/reviews-26289117.svg'
+      "
+      width="200"
+      height="200"
+      cover
+      eager
+    />
+    <h1 class="font-bold">هنوز کسی تجربه‌اش را درباره اینجا ثبت نکرده!</h1>
+    <p class="text-sm text-center">
+      با اشتراک‌گذاری تجربه‌تان، اولین نفری باشید که به مسافران بعدی کمک می‌کند.
+    </p>
   </div>
 </template>
 
@@ -166,6 +172,7 @@ const filterShown = ref({
 });
 
 const { data: reviews, reviewError } = await useFetch(CommentsURL);
+console.log(reviews.value);
 
 const emits = defineEmits(["filterComments"]);
 
@@ -174,28 +181,34 @@ const filterValues = {
     {
       title: "مفیدترین",
       value: "LikeDesc,RateDesc",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&sorts=LikeDesc,RateDesc`,
     },
     {
       title: "بیشترین امتیاز",
       value: "RateDesc",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&sorts=RateDesc`,
     },
     {
       title: "کمترین امتیاز",
       value: "RateAsc",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&sorts=RateAsc`,
     },
     {
       title: "جدیدترین",
       value: "DateDesc",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&sorts=DateDesc`,
     },
     {
       title: "قدیمی‌ترین",
       value: "DateAsc",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&sorts=DateAsc`,
     },
   ],
   language: [
     {
       title: "همه زبان‌ها",
       value: "",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}`,
     },
     {
       title: "فارسی",

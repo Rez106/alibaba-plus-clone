@@ -1,6 +1,9 @@
 <template>
   <v-list>
-    <v-list-item v-for="att in attributes" :key="att.attribute.short_id">
+    <v-list-item
+      v-for="att in attributes.slice(0, 6)"
+      :key="att.attribute.short_id"
+    >
       <template v-slot:prepend>
         <v-avatar class="opacity-60" :image="att.attribute.icon.png_url" />
       </template>

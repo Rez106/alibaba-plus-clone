@@ -22,8 +22,7 @@
             icon="mdi-share-variant-outline"
             flat
             class="border border-gray-500 text-gray-500"
-            :disabled="!isSupported"
-            @click="shareHandler"
+            @click="shareHandler(detail.share_url)"
           />
           <v-divider class="border-opacity-100" vertical />
           <v-btn
@@ -92,7 +91,7 @@ const { data: near, nearError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/near?page_size=6&max_distance=10000`
 );
 
-const { share, isSupported } = useShare();
+const { share } = useShare();
 
 const currentTab = ref("در یک نگاه");
 
@@ -119,10 +118,10 @@ const tabHandler = (tab) => {
   currentTab.value = tab;
 };
 
-const shareHandler = () => {
+const shareHandler = (url) => {
   try {
     share({
-      url: detail.share_url,
+      url,
     });
   } catch (error) {
     console.log(error);

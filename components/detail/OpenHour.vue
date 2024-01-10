@@ -11,7 +11,7 @@
           {{ isVisible ? "باز" : "بسته" }}
         </v-chip>
       </div>
-      <div class="flex max-sm:flex-col gap-5">
+      <div class="flex flex-col gap-5">
         <div
           class="max-sm:w-full max-sm:mx-auto leading-6 text-xs border-[1.5px] bg-orange-300 bg-opacity-15 rounded-md border-orange-300 text-orange-800 p-4"
         >

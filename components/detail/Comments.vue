@@ -1,5 +1,22 @@
 <template>
-  <div class="flex flex-col gap-4 mt-5">
+  <div v-if="!reviews" class="flex flex-col items-center gap-3 mb-10">
+    <v-img
+      :src="
+        mobile
+          ? 'https://cdn.alibaba.ir/h2/mobile/assets/images/reviews-26289117.svg'
+          : 'https://cdn.alibaba.ir/h2/desktop/assets/images/reviews-26289117.svg'
+      "
+      width="200"
+      height="200"
+      cover
+      eager
+    />
+    <h1 class="font-bold">هنوز کسی تجربه‌اش را درباره اینجا ثبت نکرده!</h1>
+    <p class="text-sm text-center">
+      با اشتراک‌گذاری تجربه‌تان، اولین نفری باشید که به مسافران بعدی کمک می‌کند.
+    </p>
+  </div>
+  <div v-else class="flex flex-col gap-4 mt-5">
     <div
       class="flex items-center justify-start gap-4 w-10/12 max-[360px]:flex-col max-[360px]:w-full"
     >
@@ -86,6 +103,13 @@
         :likeCount="review.like_count"
         :liked="review.liked"
       />
+      <div v-if="reviews.result.totalCount > 10">
+        <v-pagination
+          :length="Math.floor(reviews.result.totalCount / 10)"
+          rounded="circle"
+        ></v-pagination>
+        {{ reviews.result.totalCount }}
+      </div>
     </div>
   </div>
 </template>
@@ -108,19 +132,40 @@
 //https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=63a0398acc0705b8920e8701&sorts=DateDesc
 //older
 //https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=63a0398acc0705b8920e8701&sorts=DateAsc
+
 <script setup>
 const { detailId } = defineProps({
   activeFilters: Object,
   detailId: String,
 });
+
+const { mobile } = useDisplay();
+
+const CommentsURL = computed(() => {
+  if (!activeFilters?.filter && !activeFilters?.language)
+    return "https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}";
+
+  if (activeFilters?.language) {
+    const lang = filterValues.language.find(
+      (item) => item.value === activeFilters?.language
+    );
+    return lang.url;
+  }
+
+  if (activeFilters?.filter) {
+    const filter = filterValues.filter.find(
+      (item) => item.value === activeFilters?.filter
+    );
+    return filter.url;
+  }
+});
+
 const filterShown = ref({
   filter: false,
   language: false,
 });
 
-const { data: reviews, reviewError } = await useFetch(
-  `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}`
-);
+const { data: reviews, reviewError } = await useFetch(CommentsURL);
 
 const emits = defineEmits(["filterComments"]);
 
@@ -155,18 +200,25 @@ const filterValues = {
     {
       title: "فارسی",
       value: "639ed1ae1a1a1a4d3317b00b",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&language_id=639ed1ae1a1a1a4d3317b00b`,
     },
     {
       title: "انگلیسی",
       value: "639ed1c5cc0705b8920e86e1",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&language_id=639ed1c5cc0705b8920e86e1
+`,
     },
     {
       title: "ترکی استانبولی",
       value: "639ed1dacc0705b8920e86e2",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&language_id=639ed1dacc0705b8920e86e2
+`,
     },
     {
       title: "ترکی آذربایجانی",
       value: "639ed1f41a1a1a4d3317b00c",
+      url: `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}&language_id=639ed1f41a1a1a4d3317b00c
+`,
     },
   ],
 };

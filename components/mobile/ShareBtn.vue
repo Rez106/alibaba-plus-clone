@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed bottom-20 max-sm:right-5 sm:hidden z-50">
+  <div class="fixed bottom-20 max-sm:right-5 sm:hidden z-[99999]">
     <v-btn
       :prepend-icon="isShown ? 'mdi-message-plus-outline' : undefined"
       :icon="isShown ? false : 'mdi-message-plus-outline'"

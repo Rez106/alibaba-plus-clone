@@ -1,6 +1,6 @@
 <template>
   <div
-    class="fixed left-1/2 -translate-x-[52%] md:w-3/12 max-sm:w-full bg-[#fff] p-4 flex items-center justify-around border-t border-gray-400 duration-500 z-50"
+    class="fixed left-1/2 -translate-x-[52%] md:w-3/12 max-sm:w-full bg-[#fff] p-4 flex items-center justify-around border-t border-gray-400 duration-500 z-[99999]"
     :class="{ 'bottom-0': isShown, '-bottom-1/2': !isShown }"
   >
     <Mobile-menu-item

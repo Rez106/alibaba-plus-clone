@@ -9,14 +9,14 @@
       :slides-per-view="1"
     >
       <swiper-slide v-for="(item, indx) in items" :key="indx">
-        <nuxt-img
+        <v-img
           :src="item.large_url"
-          placeholder="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
-          :quality="30"
-          :loading="'lazy'"
-          width="50"
-          height="50"
-          class="object-cover min-h-[200px] max-h-[200px] w-full"
+          lazy-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
+          min-height="200"
+          max-height="200"
+          cover
+          class="w-full"
+          transition="fade-transition"
         />
       </swiper-slide>
     </swiper>

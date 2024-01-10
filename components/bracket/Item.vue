@@ -1,14 +1,16 @@
 <template>
   <div class="h-[17rem]" v-if="!isCarousel">
     <nuxt-link :to="'/plus/p-' + detail.short_id">
-      <nuxt-img
-        class="object-cover min-h-[120px] max-h-[120px] w-full"
+      <v-img
+        class="w-full"
+        min-height="120"
+        max-height="120"
+        transition="fade-transition"
+        cover
         :class="{ 'rounded-md': !isColored, 'rounded-t-md': isColored }"
         :src="imageUrl"
-        placeholder="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
         :alt="detail.name"
-        :quality="30"
-        :loading="'lazy'"
+        lazy-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
       />
       <div class="flex flex-col gap-1 py-2">
         <div class="flex items-center justify-between text-sm px-1">
@@ -22,13 +24,15 @@
   </div>
   <div v-else class="min-h-[80px] max-h-[80px]">
     <nuxt-link :to="'p-' + detail.short_id">
-      <nuxt-img
+      <v-img
         :src="imageUrl"
-        placeholder="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
+        lazy-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
         :alt="detail.name"
-        class="object-cover min-h-[60px] max-h-[60px] sm:w-[100px] w-[90px] rounded-md"
-        :quality="30"
-        loading="lazy"
+        cover
+        class="object-cover rounded-md"
+        min-height="60"
+        max-height="60"
+        transition="fade-transition"
       />
       <span class="text-[0.5rem]">{{ detail.name }}</span>
     </nuxt-link>

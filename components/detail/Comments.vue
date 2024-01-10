@@ -143,7 +143,7 @@ const { mobile } = useDisplay();
 
 const CommentsURL = computed(() => {
   if (!activeFilters?.filter && !activeFilters?.language)
-    return "https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}";
+    return `https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=${detailId}`;
 
   if (activeFilters?.language) {
     const lang = filterValues.language.find(

@@ -134,7 +134,7 @@
 //https://ws.alibaba.ir/api/v1/plus/user/reviews?page_size=10&page_no=1&promoted_only=false&having_gallery_only=false&poi_id=63a0398acc0705b8920e8701&sorts=DateAsc
 
 <script setup>
-const { detailId } = defineProps({
+const { activeFilters, detailId } = defineProps({
   activeFilters: Object,
   detailId: String,
 });

@@ -5,12 +5,26 @@
     :fullscreen="!mdAndUp"
     transition="slide-x-reverse-transition"
     close-on-back
+    close-on-content-click
     scrollable
   >
     <div
-      class="relative w-full max-md:min-h-dvh bg-white p-4 overflow-hidden rounded-lg"
+      class="relative w-full max-md:min-h-dvh bg-white overflow-hidden rounded-lg z-[99999]"
     >
-      <div class="flex items-center gap-3 md:max-w-[50%] md:mx-auto">
+      <div class="border-b border-gray-700 py-2">
+        <v-btn
+          prepend-icon="mdi-arrow-right"
+          flat
+          variant="text"
+          ripple="false"
+          size="large"
+          elevation="0"
+          @click="closeModal"
+        >
+          شهرها، جاهای دیدنی و...
+        </v-btn>
+      </div>
+      <div class="flex items-center gap-3 md:max-w-[50%] md:mx-auto p-4">
         <v-text-field
           :disabled="!modal.search"
           variant="outlined"
@@ -24,11 +38,12 @@
           class="rounded-md"
           autofocus
           clearable
-          rounded
+          rounded="lg"
+          :density="mdAndUp ? 'default' : 'compact'"
           @input="inputHandler"
         />
       </div>
-      <div class="">
+      <div class="p-4">
         <p
           v-if="modal.data.items === null && !modal.data.items?.pois"
           class="text-center mt-10"
@@ -37,45 +52,57 @@
         </p>
         <v-list
           v-if="!modal.search && modal.data.items"
-          class="overflow-y-scroll"
+          class="overflow-y-scroll p-4"
         >
-          <v-list-item
+          <nuxt-link
             v-for="item in modal.data.items"
             :key="item.id"
-            :title="modal.data.prefix + ' ' + item.name"
-            :prepend-avatar="modal.data.icon"
-          ></v-list-item>
+            :to="
+              '/plus/search/city-' +
+              item.id +
+              '/category-' +
+              modal.data.prefix.id
+            "
+          >
+            <v-list-item
+              :title="modal.data.prefix.name + ' ' + item.name"
+              :prepend-avatar="modal.data.icon"
+            >
+            </v-list-item>
+          </nuxt-link>
         </v-list>
-        <v-list v-if="modal.search && modal.data.items">
+        <v-list v-if="modal.search && modal.data.items" class="p-4">
           <v-list-item
             v-for="item in modal.data.items.pois"
             :key="item.name"
-            :title="modal.data.prefix + ' ' + item.name"
+            :title="item.name"
+            :subtitle="item.province.name + ', ' + item.city.name"
             :prepend-avatar="item.gallery[0].large_url"
+            :to="'/plus/p-' + item.short_id"
+            rounded="lg"
           ></v-list-item>
         </v-list>
         <v-divider />
-        <v-list v-if="modal.search && modal.data.items">
+        <v-list v-if="modal.search && modal.data.items" class="p-4">
           <v-list-item
             v-for="item in modal.data.items.city"
             :key="item.name"
-            :title="modal.data.prefix + ' ' + item.name"
+            :title="item.name"
             :subtitle="item.province.name"
+            rounded="lg"
             prepend-icon="mdi-map-marker-outline"
+            :to="'/plus/search/city-' + item.id + '/category-all'"
           ></v-list-item>
         </v-list>
         <v-divider />
-        <v-list v-if="modal.search && modal.data.items">
+        <v-list v-if="modal.search && modal.data.items" class="p-4">
           <v-list-item
             v-for="item in modal.data.items.categories"
             :key="item.name"
-            :title="modal.data.prefix + ' ' + item.name"
+            :title="item.name"
             :prepend-avatar="item.icon.png_url"
           ></v-list-item>
         </v-list>
-      </div>
-      <div class="absolute bottom-5 left-5">
-        <v-btn icon="mdi-close" color="red" @click="closeModal" />
       </div>
     </div>
   </v-dialog>

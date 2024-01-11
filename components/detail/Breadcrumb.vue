@@ -8,17 +8,29 @@
     />
     <v-breadcrumbs-divider />
     <v-breadcrumbs-item
-      :href="`/plus/search/city-${detail.city.id}/category-${detail.category.parent.id}`"
-      :title="detail.category.parent.name"
+      :href="`/plus/search/city-${detail.city.id}/category-${
+        route.params.categoryId === 'all' ? 'all' : detail.category.parent.id
+      }`"
+      :title="
+        route.params.categoryId === 'all'
+          ? 'همه مکان‌ها'
+          : detail.category.parent.name
+      "
     />
-    <v-breadcrumbs-divider />
-    <v-breadcrumbs-item :title="detail.name" class="text-black" />
+    <v-breadcrumbs-divider v-if="!search" />
+    <v-breadcrumbs-item
+      v-if="!search"
+      :title="detail.name"
+      class="text-black"
+    />
   </v-breadcrumbs>
 </template>
 
 <script setup>
+const route = useRoute();
 defineProps({
   detail: Object,
+  search: Boolean,
 });
 </script>
 

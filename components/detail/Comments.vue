@@ -172,7 +172,6 @@ const filterShown = ref({
 });
 
 const { data: reviews, reviewError } = await useFetch(CommentsURL);
-console.log(reviews.value);
 
 const emits = defineEmits(["filterComments"]);
 

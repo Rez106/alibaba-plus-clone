@@ -11,7 +11,10 @@
         v-if="!isVisible && smAndDown"
         class="flex items-center justify-between px-4"
       >
-        <nuxt-link :to="`/search/p-${id}`" class="text-blue-400">
+        <nuxt-link
+          :to="'/plus/search/city-' + cityId + '/category-' + categoryId"
+          class="text-blue-400"
+        >
           <v-icon icon="mdi-menu-right" />
           مشاهده همه جاذبه ها
         </nuxt-link>
@@ -40,7 +43,8 @@ const { smAndDown } = useDisplay();
 
 defineProps({
   activeTab: String,
-  id: String,
+  categoryId: String,
+  cityId: String,
 });
 
 const tabs = [

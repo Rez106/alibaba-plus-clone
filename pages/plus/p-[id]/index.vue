@@ -5,7 +5,8 @@
       <detail-tabs
         @changeTab="tabHandler"
         :activeTab="currentTab"
-        :id="detail.short_id"
+        :categoryId="detail.category.id"
+        :cityId="detail.city.id"
       />
       <v-divider class="border-opacity-100" />
       <div class="px-4 w-full" id="در یک نگاه">
@@ -78,20 +79,18 @@
 const route = useRoute();
 
 //--Details
-const { data: detail, detailError } = await useFetch(
+const { data: detail, error: detailError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/details`
 );
-
+console.log(detail.value);
 // --similar;
-const { data: similar, similarError } = await useFetch(
+const { data: similar, error: similarError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/similars?page_size=25&same_city=true&same_category=true`
 );
 // --near
-const { data: near, nearError } = await useFetch(
+const { data: near, error: nearError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/near?page_size=6&max_distance=10000`
 );
-
-const { share } = useShare();
 
 const currentTab = ref("در یک نگاه");
 
@@ -119,6 +118,7 @@ const tabHandler = (tab) => {
 };
 
 const shareHandler = (url) => {
+  const { share } = useShare();
   try {
     share({
       url,

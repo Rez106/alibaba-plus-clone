@@ -4,7 +4,7 @@
       <div class="px-4">
         <div class="">
           <detail-breadcrumb
-            :detail="items?.result?.items[0] || allCategory.result.items[0]"
+            :detail="items?.result?.items[0] || allCategory?.result?.items[0]"
             :search="true"
           />
         </div>
@@ -49,8 +49,33 @@
 <script setup>
 const route = useRoute();
 const pageNumber = ref(1);
-const { data: category, error: cateError } = await useFetch(
-  "https://ws.alibaba.ir/api/v1/plus/user/categories?only_main=true"
+const categoryName = ref("");
+
+const { data: category, error: cateError } = await useAsyncData(
+  "category",
+  async () => {
+    try {
+      const response = await $fetch(
+        "https://ws.alibaba.ir/api/v1/plus/user/categories?only_main=true"
+      );
+
+      const cate = response.result.items.find(
+        (item) => item.id === route.params.categoryId
+      );
+
+      if (!cate) {
+        categoryName.value = "همه مکان‌ها";
+      } else {
+        categoryName.value = cate.name;
+      }
+
+      return response;
+    } catch (error) {
+      console.error("Error fetching data:", error);
+      throw error;
+    }
+  },
+  [route.params.categoryId]
 );
 
 const { data: allCategory, error: allCateError } = await useAsyncData(
@@ -71,10 +96,15 @@ const { data: allCategory, error: allCateError } = await useAsyncData(
 
 const { data: items, error: itemsError } = await useAsyncData(
   "items",
-  () =>
-    $fetch(
+  () => {
+    if (route.params.categoryId === "all") {
+      return [];
+    }
+
+    return $fetch(
       `https://ws.alibaba.ir/api/v1/plus/user/pois/?city_id=${route.params.cityId}&category_id=${route.params.categoryId}&page_size=10&page_no=${pageNumber.value}`
-    ),
+    );
+  },
   {
     watch: [pageNumber],
   }
@@ -83,24 +113,9 @@ const { data: city, error: cityError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/cities/${route.params.cityId}/details`
 );
 
-const categoryName = ref("");
-
-if (route.params.categoryId === "all") {
-  categoryName.value = "همه مکان‌ها";
-} else {
-  const cate = category?.value?.result?.items?.find(
-    (item) => item.id === route.params.categoryId
-  );
-
-  categoryName.value = cate.name;
-}
-
-watch(route.params.categoryId, (newVal, oldVal) => {
-  if (newVal !== oldVal) pageNumber.value = 1;
-  const cate = category.value.result.items.find((item) => item.id === newVal);
-  if (!cate) return (categoryName.value = "همه مکان‌ها");
-
-  return (categoryName.value = cate.name);
+watch(route, (newVal, oldVal) => {
+  if (newVal.params.categoryId !== oldVal.params.categoryId)
+    pageNumber.value = 1;
 });
 
 const pageHandler = () => {

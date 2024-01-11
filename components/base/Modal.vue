@@ -9,7 +9,7 @@
     scrollable
   >
     <div
-      class="relative w-full max-md:min-h-dvh bg-white overflow-hidden rounded-lg z-[99999]"
+      class="relative w-full max-md:min-h-dvh bg-white overflow-y-auto rounded-lg z-[99999]"
     >
       <div class="border-b border-gray-700 py-2">
         <v-btn

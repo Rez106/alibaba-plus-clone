@@ -69,8 +69,15 @@ const { data: allCategory, error: allCateError } = await useAsyncData(
   }
 );
 
-const { data: items, error: itemsError } = await useFetch(
-  `https://ws.alibaba.ir/api/v1/plus/user/pois/?city_id=${route.params.cityId}&category_id=${route.params.categoryId}&page_size=10&page_no=${pageNumber.value}`
+const { data: items, error: itemsError } = await useAsyncData(
+  "items",
+  () =>
+    $fetch(
+      `https://ws.alibaba.ir/api/v1/plus/user/pois/?city_id=${route.params.cityId}&category_id=${route.params.categoryId}&page_size=10&page_no=${pageNumber.value}`
+    ),
+  {
+    watch: [pageNumber],
+  }
 );
 const { data: city, error: cityError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/cities/${route.params.cityId}/details`

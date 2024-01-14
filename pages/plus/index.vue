@@ -1,16 +1,29 @@
 <template>
-  <nuxt-layout name="mobile">
-    <mobile-header />
+  <nuxt-layout :name="width < 600 ? 'mobile' : 'desktop'">
+    <mobile-header v-if="mobile" />
     <header-hero :data="hero" />
-    <mobile-category-list
+    <desktop-searchbar
+      v-if="!mobile"
       :items="categories.result.items"
       :cities="cities.result.items"
+    />
+    <mobile-category-list
+      v-if="mobile"
+      :items="categories.result.items"
+      :cities="cities.result.items"
+      :search="false"
     />
     <bracket-container :items="brackets.result.items" />
   </nuxt-layout>
 </template>
 
 <script setup>
+const { width } = useWindowSize();
+
+const mobile = computed(() => {
+  return width.value < 600;
+});
+
 //--Brackets
 const { data: brackets, bracketsError } = await useFetch(
   "https://ws.alibaba.ir/api/v1/plus/user/brackets"

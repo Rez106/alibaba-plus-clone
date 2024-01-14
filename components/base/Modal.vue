@@ -3,6 +3,7 @@
     v-model="modal.show"
     :width="mdAndUp ? 800 : undefined"
     :fullscreen="!mdAndUp"
+    :max-height="mdAndUp ? 500 : undefined"
     transition="slide-x-reverse-transition"
     close-on-back
     close-on-content-click
@@ -11,7 +12,7 @@
     <div
       class="relative w-full max-md:min-h-dvh bg-white overflow-y-auto rounded-lg z-[99999]"
     >
-      <div class="border-b border-gray-700 py-2">
+      <div v-if="modal.search" class="border-b border-gray-700 py-2">
         <v-btn
           prepend-icon="mdi-arrow-right"
           flat
@@ -94,15 +95,6 @@
             :to="'/plus/search/city-' + item.id + '/category-all'"
           ></v-list-item>
         </v-list>
-        <v-divider />
-        <v-list v-if="modal.search && modal.data.items" class="p-4">
-          <v-list-item
-            v-for="item in modal.data.items.categories"
-            :key="item.name"
-            :title="item.name"
-            :prepend-avatar="item.icon.png_url"
-          ></v-list-item>
-        </v-list>
       </div>
     </div>
   </v-dialog>
@@ -116,7 +108,6 @@ const searchInput = ref("");
 if (modal.value.search) {
   modal.value.data.items = {
     city: [],
-    categories: [],
     pois: [],
   };
 } else {
@@ -131,7 +122,6 @@ const searchHandler = async () => {
   if (await data.value.result.items) {
     modal.value.data.items = {
       city: [...(await data.value.result.items.cities)],
-      categories: [...(await data.value.result.items.cities_categories)],
       pois: [...(await data.value.result.items.pois)],
     };
   } else {

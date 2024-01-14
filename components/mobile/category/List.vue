@@ -1,5 +1,9 @@
 <template>
-  <swiper :slides-per-view="3" :space-between="20" class="py-2 px-2">
+  <swiper
+    :slides-per-view="mobile ? 3 : 4"
+    :space-between="mobile ? 20 : 10"
+    class="py-2 px-2"
+  >
     <swiper-slide v-if="search" class="w-auto">
       <nuxt-link
         :to="'/plus/search/city-' + cityId + '/category-all'"
@@ -11,13 +15,18 @@
         <span class="text-sm">همه مکان‌ها</span>
       </nuxt-link>
     </swiper-slide>
-    <swiper-slide v-for="item in items" :key="item.id" class="w-auto">
+    <swiper-slide
+      v-for="item in items"
+      :key="item.id"
+      :class="{ 'w-auto': !home, 'w-full': home }"
+    >
       <mobile-category-item
         :id="item.id"
         :name="item.name"
         :icon="item.icon"
         :cities="cities"
         :search="search"
+        :home="home"
       />
     </swiper-slide>
   </swiper>
@@ -28,7 +37,10 @@ const { search } = defineProps({
   items: Array,
   cities: Array,
   search: Boolean,
+  home: Boolean,
 });
+
+const { mobile } = useDisplay();
 
 const cityId = ref("");
 

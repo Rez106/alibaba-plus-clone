@@ -34,13 +34,15 @@
       v-if="!isCarousel"
       :modules="[SwiperNavigation]"
       :space-between="20"
-      :slides-per-view="isColored ? 3 : 4"
       :breakpoints="{
         350: {
           slidesPerView: 2,
         },
         700: {
           slidesPerView: 3,
+        },
+        1400: {
+          slidesPerView: isColored ? 3 : 4,
         },
       }"
       :navigation="{

@@ -1,6 +1,6 @@
 <template>
   <div class="min-w-full">
-    <desktop-navbar />
+    <desktop-header />
     <div class="w-full mx-auto">
       <slot />
     </div>

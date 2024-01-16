@@ -1,5 +1,5 @@
 <template>
-  <nuxt-layout :name="width < 600 ? 'mobile' : 'desktop'">
+  <nuxt-layout :name="mobile ? 'mobile' : 'desktop'">
     <mobile-header v-if="mobile" />
     <header-hero :data="hero" />
     <desktop-searchbar

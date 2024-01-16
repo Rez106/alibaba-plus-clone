@@ -24,17 +24,23 @@
         <p class="text-sm">{{ item.description }}</p>
       </div>
     </div>
-    <div v-else class="flex flex-col mb-5 w-[1200px] mx-auto">
+    <div
+      v-else
+      class="flex flex-col mb-5 max-sm:w-full md:w-9/12 lg:w-[1200px] sm:mx-auto"
+    >
       <h1 class="font-semibold">{{ item.title }}</h1>
     </div>
     <swiper
       v-if="!isCarousel"
       :modules="[SwiperNavigation]"
       :space-between="20"
-      :slides-per-view="2"
+      :slides-per-view="isColored ? 3 : 4"
       :breakpoints="{
-        600: {
-          slidesPerView: isColored ? 3 : 4,
+        350: {
+          slidesPerView: 2,
+        },
+        700: {
+          slidesPerView: 3,
         },
       }"
       :navigation="{
@@ -42,7 +48,10 @@
         prevEl: '.custom-prev-button',
       }"
       class="relative"
-      :class="{ 'w-[1200px]': !isColored, 'w-[800px] py-8 mx-0': isColored }"
+      :class="{
+        'max-sm:w-full md:w-9/12 lg:w-[1200px]': !isColored,
+        'max-sm:w-full md:w-9/12 lg:w-[800px] lg:py-8 lg:mx-0': isColored,
+      }"
     >
       <swiper-slide
         v-for="city in item.pois"

@@ -4,7 +4,7 @@
     class="min-w-full sticky top-0 left-0 border-b border-gray-500 z-50 py-3 mb-10 bg-white shadow-md"
   >
     <div
-      class="max-lg:w-9/12 lg:max-w-[1200px] mx-auto flex items-center justify-between"
+      class="max-lg:w-9/12 xl:max-w-[1200px] mx-auto flex items-center justify-between"
     >
       <div class="flex items-center gap-3">
         <v-btn

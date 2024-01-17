@@ -8,7 +8,10 @@
       'flex items-center justify-center gap-28': isColored,
     }"
   >
-    <div v-if="isColored" class="flex items-center gap-3 mb-5 sm:text-xl">
+    <div
+      v-if="isColored"
+      class="flex xl:flex-col xl:items-start items-center gap-3 mb-5 sm:text-xl"
+    >
       <svg
         viewBox="0 0 24 24"
         fill="currentColor"
@@ -20,15 +23,15 @@
         ></path>
       </svg>
       <div class="">
-        <h1 class="font-semibold">{{ item.title }}</h1>
-        <p class="text-sm">{{ item.description }}</p>
+        <h1 class="font-semibold xl:text-2xl">{{ item.title }}</h1>
+        <p class="text-sm xl:text-base">{{ item.description }}</p>
       </div>
     </div>
     <div
       v-else
       class="flex flex-col mb-5 max-sm:w-full md:w-9/12 lg:w-[1200px] sm:mx-auto"
     >
-      <h1 class="font-semibold">{{ item.title }}</h1>
+      <h1 class="font-semibold xl:text-2xl">{{ item.title }}</h1>
     </div>
     <swiper
       v-if="!isCarousel"
@@ -38,10 +41,10 @@
         350: {
           slidesPerView: 2,
         },
-        700: {
-          slidesPerView: 3,
+        600: {
+          slidesPerView: isColored ? 2 : 3,
         },
-        1400: {
+        1200: {
           slidesPerView: isColored ? 3 : 4,
         },
       }"
@@ -51,8 +54,8 @@
       }"
       class="relative"
       :class="{
-        'max-sm:w-full md:w-9/12 lg:w-[1200px]': !isColored,
-        'max-sm:w-full md:w-9/12 lg:w-[800px] lg:py-8 lg:mx-0': isColored,
+        'max-sm:w-full md:w-full xl:w-[1200px]': !isColored,
+        'max-sm:w-full md:w-full xl:w-[800px] py-8 mx-0': isColored,
       }"
     >
       <swiper-slide

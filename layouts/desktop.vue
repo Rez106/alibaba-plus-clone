@@ -4,5 +4,6 @@
     <div class="w-full mx-auto">
       <slot />
     </div>
+    <desktop-footer />
   </div>
 </template>

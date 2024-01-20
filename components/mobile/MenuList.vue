@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-const { isShown } = useShowMobileMenu();
+const { isShown } = useShowMenu();
 
 const mobileMenuItem = [
   {

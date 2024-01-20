@@ -1,10 +1,10 @@
 <template>
-  <div class="">
-    <h1 class="px-4 font-bold text-xl">
+  <div class="2xl:order-2">
+    <h1 class="px-4 font-bold text-xl 2xl:hidden">
       جاذبه‌های اطراف
       {{ main.name }}
     </h1>
-    <div class="h-[200px] mt-5">
+    <div class="h-[200px] mt-5 2xl:h-72 2xl:min-w-[500px]">
       <l-map :zoom="13" :center="main.location.coordinates">
         <l-tile-layer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

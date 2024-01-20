@@ -1,7 +1,8 @@
 <template>
   <desktop-navbar @changeMenu="activeMenu" :status="showMenu" />
   <header
-    class="min-w-full sticky top-0 left-0 border-b border-gray-500 z-50 py-3 mb-10 bg-white shadow-md"
+    class="min-w-full sticky left-0 border-b border-gray-500 z-50 py-3 mb-10 bg-white shadow-md duration-500"
+    :class="{ 'top-0': isShown, '-top-1/2': !isShown }"
   >
     <div
       class="max-lg:w-9/12 xl:max-w-[1200px] mx-auto flex items-center justify-between"
@@ -22,6 +23,9 @@
           <span class="relative -top-4 text-xs">جمع تجربه‌های سفر</span>
         </div>
       </div>
+      <div class="grow" v-if="!!route.params.id">
+        <base-search-bar :header="true" />
+      </div>
       <div class="flex items-center gap-3">
         <v-btn text="اشتراک تجربه" rounded="lg" color="primary" elevation="0" />
         <v-btn
@@ -37,7 +41,9 @@
 </template>
 
 <script setup>
+const route = useRoute();
 const showMenu = ref(false);
+const { isShown } = useShowMenu();
 
 const activeMenu = (state) => {
   showMenu.value = state;

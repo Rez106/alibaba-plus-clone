@@ -1,7 +1,8 @@
 <template>
-  <nuxt-layout name="mobile">
-    <nuxt-layout name="detail">
-      <detail-gallery :items="detail.gallery" />
+  <nuxt-layout :name="mobile ? 'mobile' : 'desktop'">
+    <nuxt-layout :name="mobile ? 'detail' : undefined">
+      <detail-gallery v-if="mobile" :items="detail.gallery" />
+      <desktop-detail-gallery v-if="!mobile" :images="detail.gallery" />
       <detail-tabs
         @changeTab="tabHandler"
         :activeTab="currentTab"
@@ -9,68 +10,74 @@
         :cityId="detail.city.id"
       />
       <v-divider class="border-opacity-100" />
-      <div class="px-4 w-full" id="در یک نگاه">
-        <detail-breadcrumb :detail="detail" />
-        <detail-header
-          :detail="detail"
-          :reviewAvg="detail.ratings.average"
-          :review="detail.ratings.count"
-        />
-        <div
-          class="flex items-center justify-center gap-3 mt-5 border-t border-b border-gray-500 py-3"
-        >
-          <v-btn
-            icon="mdi-share-variant-outline"
-            flat
-            class="border border-gray-500 text-gray-500"
-            @click="shareHandler(detail.share_url)"
-          />
-          <v-divider class="border-opacity-100" vertical />
-          <v-btn
-            icon="mdi-bookmark-plus-outline"
-            flat
-            class="border border-gray-500 text-gray-500"
+      <nuxt-layout name="desktop-container">
+        <div class="px-4 w-full" id="در یک نگاه">
+          <detail-breadcrumb :detail="detail" />
+          <div class="2xl:flex 2xl:items-center 2xl:justify-between">
+            <detail-header
+              :detail="detail"
+              :reviewAvg="detail.ratings.average"
+              :review="detail.ratings.count"
+            />
+            <div
+              class="flex items-center justify-center gap-3 mt-5 max-2xl:border-t max-2xl:border-b border-gray-500 py-3"
+            >
+              <v-btn
+                icon="mdi-share-variant-outline"
+                flat
+                class="border border-gray-500 text-gray-500"
+                @click="shareHandler(detail.share_url)"
+              />
+              <v-divider class="border-opacity-100" vertical />
+              <v-btn
+                icon="mdi-bookmark-plus-outline"
+                flat
+                class="border border-gray-500 text-gray-500"
+              />
+            </div>
+          </div>
+          <div class="2xl:flex 2xl:items-start">
+            <detail-attributes :attributes="detail.attributes" />
+            <detail-description :content="detail.content" />
+          </div>
+        </div>
+        <div class="w-full px-4 2xl:flex items-start gap-20" id="تجربه ها">
+          <detail-ratings :reviewsRatings="detail.ratings" />
+          <detail-comments
+            v-if="detail.id"
+            @filterComments="changeFilter"
+            :activeFilters="appliedCommentFilters"
+            :detailId="detail.id"
           />
         </div>
-        <detail-attributes :attributes="detail.attributes" />
-        <detail-description :content="detail.content" />
-      </div>
-      <div class="w-full px-4" id="تجربه ها">
-        <detail-ratings :reviewsRatings="detail.ratings" />
-        <detail-comments
-          v-if="detail.id"
-          @filterComments="changeFilter"
-          :activeFilters="appliedCommentFilters"
-          :detailId="detail.id"
-        />
-      </div>
-      <div class="mt-10" id="جاذبه‌های اطراف">
-        <detail-map
-          :main="{
-            location: { ...detail.location },
-            name: detail.persuading_title,
-          }"
-          :near="near"
-        />
-        <detail-near :near="near" />
-      </div>
-      <div class="h-[50vh] mt-10 px-4" id="ساعات کاری">
-        <detail-open-hour
-          :openHours="detail.open_hours"
-          :isVisible="detail.is_visible"
-        />
-      </div>
-      <div id="اطلاعات تماس">
-        <detail-contact :contactDetail="detail.contact_detail" />
-      </div>
-      <div class="my-10" id="مکان های مشابه">
-        <h1 class="text-xl font-bold px-4">مکان های مشابه</h1>
-        <bracket-list :item="similar.result.items" :isDetail="true" />
-      </div>
-      <div class="">
-        <h1 class="text-xl font-bold px-4 mb-5">سوالات متداول</h1>
-        <detail-faq :faq="detail.faq" />
-      </div>
+        <div class="mt-10 2xl:flex 2xl:items-center" id="جاذبه‌های اطراف">
+          <detail-map
+            :main="{
+              location: { ...detail.location },
+              name: detail.persuading_title,
+            }"
+            :near="near"
+          />
+          <detail-near :near="near" />
+        </div>
+        <div class="h-[50vh] mt-10 px-4" id="ساعات کاری">
+          <detail-open-hour
+            :openHours="detail.open_hours"
+            :isVisible="detail.is_visible"
+          />
+        </div>
+        <div id="اطلاعات تماس">
+          <detail-contact :contactDetail="detail.contact_detail" />
+        </div>
+        <div class="my-10" id="مکان های مشابه">
+          <h1 class="text-xl font-bold px-4">مکان های مشابه</h1>
+          <bracket-list :item="similar.result.items" :isDetail="true" />
+        </div>
+        <div class="">
+          <h1 class="text-xl font-bold px-4 mb-5">سوالات متداول</h1>
+          <detail-faq :faq="detail.faq" />
+        </div>
+      </nuxt-layout>
     </nuxt-layout>
   </nuxt-layout>
 </template>
@@ -78,11 +85,17 @@
 <script setup>
 const route = useRoute();
 
+const { width } = useWindowSize();
+
+const mobile = computed(() => {
+  return width.value < 600;
+});
+
 //--Details
 const { data: detail, error: detailError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/details`
 );
-console.log(detail.value);
+
 // --similar;
 const { data: similar, error: similarError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/similars?page_size=25&same_city=true&same_category=true`
@@ -124,7 +137,7 @@ const shareHandler = (url) => {
       url,
     });
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 };
 </script>

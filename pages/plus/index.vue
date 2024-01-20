@@ -2,7 +2,7 @@
   <nuxt-layout :name="mobile ? 'mobile' : 'desktop'">
     <mobile-header v-if="mobile" />
     <header-hero :data="hero" />
-    <desktop-searchbar
+    <desktop-category
       v-if="!mobile"
       :items="categories.result.items"
       :cities="cities.result.items"

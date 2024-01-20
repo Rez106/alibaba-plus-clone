@@ -54,8 +54,8 @@
       }"
       class="relative"
       :class="{
-        'max-sm:w-full md:w-full xl:w-[1200px]': !isColored,
-        'max-sm:w-full md:w-full xl:w-[800px] py-8 mx-0': isColored,
+        'max-sm:w-full md:w-full 2xl:w-[1200px]': !isColored,
+        'max-sm:w-full md:w-full 2xl:w-[800px] py-8 mx-0': isColored,
       }"
     >
       <swiper-slide
@@ -75,13 +75,27 @@
       >
         <v-icon icon="mdi-chevron-right" size="x-large" />
       </button>
-      <div
+      <button
         class="custom-next-button absolute top-[40%] left-0 bg-white z-50 border p-2 border-gray-600 rounded-full cursor-pointer max-sm:hidden disabled:opacity-0"
       >
         <v-icon icon="mdi-chevron-left" size="x-large" />
-      </div>
+      </button>
     </swiper>
-    <swiper v-if="isDetail" :space-between="20" :slides-per-view="2">
+    <swiper
+      v-if="isDetail"
+      :modules="[SwiperNavigation]"
+      :space-between="20"
+      :slides-per-view="2"
+      :navigation="{
+        nextEl: '.custom-next-button',
+        prevEl: '.custom-prev-button',
+      }"
+      :breakpoints="{
+        1200: {
+          slidesPerView: 4,
+        },
+      }"
+    >
       <swiper-slide
         v-for="city in item"
         :key="city.id"
@@ -94,6 +108,16 @@
           :isCarousel="isCarousel"
         />
       </swiper-slide>
+      <button
+        class="custom-prev-button absolute top-[40%] right-0 bg-white z-50 border p-2 border-gray-600 rounded-full cursor-pointer max-sm:hidden disabled:opacity-0"
+      >
+        <v-icon icon="mdi-chevron-right" size="x-large" />
+      </button>
+      <button
+        class="custom-next-button absolute top-[40%] left-0 bg-white z-50 border p-2 border-gray-600 rounded-full cursor-pointer max-sm:hidden disabled:opacity-0"
+      >
+        <v-icon icon="mdi-chevron-left" size="x-large" />
+      </button>
     </swiper>
     <swiper
       v-if="isCarousel"

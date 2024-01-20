@@ -19,6 +19,7 @@
     <nuxt-link
       :to="`https://www.google.com/maps?q=${detail.location.coordinates[0]},${detail.location.coordinates[1]}`"
       target="_blank"
+      class="2xl:hidden"
     >
       <v-btn
         rounded

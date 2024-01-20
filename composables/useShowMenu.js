@@ -1,6 +1,6 @@
-const useShowMobileMenu = () => {
+const useShowMenu = () => {
    const { y } = useWindowScroll();
-   const isShown = useState('mobile-menu', () => true)
+   const isShown = useState('menu', () => true)
 
    watch(y, (newVal, oldVal) => {
       if (newVal > oldVal) return (isShown.value = false);
@@ -12,4 +12,4 @@ const useShowMobileMenu = () => {
    };
 }
 
-export default useShowMobileMenu;
+export default useShowMenu;

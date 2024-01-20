@@ -7,8 +7,8 @@
       <p
         class="text-justify break-words text-sm duration-300"
         :class="{
-          'h-[120px]': !maxWidthContent,
-          'h-[500px]': maxWidthContent,
+          'h-[120px] 2xl:h-[220px]': !maxWidthContent,
+          'h-[500px] 2xl:h-[340px]': maxWidthContent,
         }"
       >
         {{ content }}

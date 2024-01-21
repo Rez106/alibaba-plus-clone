@@ -6,16 +6,18 @@
       class="flex items-center gap-4 min-h-[100px] max-h-[100px]"
     >
       <div class="w-fit h-full">
-        <v-img
-          :src="place.gallery[0].large_url"
-          lazy-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
-          :alt="place.name"
-          class="rounded-md"
-          cover
-          min-height="100"
-          max-height="100"
-          width="100"
-        />
+        <nuxt-link :to="'p-' + place.short_id">
+          <v-img
+            :src="place.gallery[0].large_url"
+            lazy-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
+            :alt="place.name"
+            class="rounded-md"
+            cover
+            min-height="100"
+            max-height="100"
+            width="100"
+          />
+        </nuxt-link>
       </div>
       <div class="flex flex-col gap-3">
         <h1 class="font-bold">{{ place.name }}</h1>

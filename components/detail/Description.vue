@@ -37,7 +37,6 @@
 const { content } = defineProps({
   content: String,
 });
-console.log(content);
 const maxWidthContent = ref(false);
 </script>
 

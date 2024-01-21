@@ -41,15 +41,23 @@
             <detail-description :content="detail.content" />
           </div>
         </div>
-        <div class="w-full px-4 2xl:flex items-start gap-20" id="تجربه ها">
-          <detail-ratings :reviewsRatings="detail.ratings" />
-          <detail-comments
-            v-if="detail.id"
-            @filterComments="changeFilter"
-            :activeFilters="appliedCommentFilters"
-            :detailId="detail.id"
-          />
-        </div>
+        <use-element-visibility v-slot="{ isVisible }">
+          <div
+            class="w-full px-4 2xl:flex items-start justify-between gap-20"
+            id="تجربه ها"
+          >
+            <detail-ratings
+              :reviewsRatings="detail.ratings"
+              :isVisible="isVisible"
+            />
+            <detail-comments
+              v-if="detail.id"
+              @filterComments="changeFilter"
+              :activeFilters="appliedCommentFilters"
+              :detailId="detail.id"
+            />
+          </div>
+        </use-element-visibility>
         <div class="mt-10 2xl:flex 2xl:items-center" id="جاذبه‌های اطراف">
           <detail-map
             :main="{
@@ -60,14 +68,16 @@
           />
           <detail-near :near="near" />
         </div>
-        <div class="h-[50vh] mt-10 px-4" id="ساعات کاری">
-          <detail-open-hour
-            :openHours="detail.open_hours"
-            :isVisible="detail.is_visible"
-          />
-        </div>
-        <div id="اطلاعات تماس">
-          <detail-contact :contactDetail="detail.contact_detail" />
+        <div class="2xl:flex 2xl:items-start">
+          <div class="mt-10 px-4 2xl:min-w-[50%]" id="ساعات کاری">
+            <detail-open-hour
+              :openHours="detail.open_hours"
+              :isVisible="detail.is_visible"
+            />
+          </div>
+          <div id="اطلاعات تماس" class="2xl:min-w-[50%]">
+            <detail-contact :contactDetail="detail.contact_detail" />
+          </div>
         </div>
         <div class="my-10" id="مکان های مشابه">
           <h1 class="text-xl font-bold px-4">مکان های مشابه</h1>
@@ -83,6 +93,7 @@
 </template>
 
 <script setup>
+import { UseElementVisibility } from "@vueuse/components";
 const route = useRoute();
 
 const { width } = useWindowSize();

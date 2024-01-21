@@ -1,5 +1,8 @@
 <template>
-  <div class="w-full mt-5">
+  <div
+    class="max-2xl:w-full w-max mt-5 order-1"
+    :class="{ '2xl:sticky 2xl:top-28 ': isVisible }"
+  >
     <div class="flex items-start gap-1">
       <div class="">
         <p>
@@ -61,6 +64,7 @@
 <script setup>
 const { reviews } = defineProps({
   reviewsRatings: Object,
+  isVisible: Boolean,
 });
 
 const ratingCounts = ref({

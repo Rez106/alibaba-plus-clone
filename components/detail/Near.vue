@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full px-4 mt-10 flex max-2xl:flex-col 2xl:flex-wrap gap-3">
+  <div class="w-full px-4 mt-10 2xl:grid 2xl:grid-cols-2 gap-4">
     <div
       v-for="place in near.result.items"
       :key="place.id"

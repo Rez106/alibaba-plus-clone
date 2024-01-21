@@ -1,5 +1,7 @@
 <template>
-  <div class="border-t flex flex-col border-gray-400 text-sm mb-15">
+  <div
+    class="border-t flex flex-col border-gray-400 text-sm mb-15 2xl:border 2xl:rounded-md 2xl:border-gray-200"
+  >
     <v-expansion-panels variant="accordion" tag="div">
       <v-expansion-panel v-for="(q, index) in faq" :key="index" elevation="0">
         <v-expansion-panel-title>

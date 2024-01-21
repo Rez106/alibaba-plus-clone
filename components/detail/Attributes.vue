@@ -1,6 +1,6 @@
 <template>
   <div class="2xl:min-w-[50%] 2xl:order-2">
-    <v-list>
+    <v-list class="2xl:grid 2xl:grid-cols-2 2xl:gap-5">
       <v-list-item
         v-for="att in attributes.slice(0, 6)"
         :key="att.attribute.short_id"

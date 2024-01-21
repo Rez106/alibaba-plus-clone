@@ -1,5 +1,5 @@
 <template>
-  <v-card class="w-full" color="#ccc" variant="outlined">
+  <v-card class="w-full max-w-[800px]" color="#ccc" variant="outlined">
     <v-card-item>
       <div class="text-black flex items-center justify-between">
         <div class="flex items-center gap-2">

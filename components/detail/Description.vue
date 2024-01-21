@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-5">
+  <div class="mt-5 2xl:min-w-[50%]">
     <div
       class="relative overflow-hidden"
       :class="{ 'detail-content': !maxWidthContent }"
@@ -15,6 +15,7 @@
       </p>
     </div>
     <div
+      v-if="content.length > 10"
       class="w-full flex justify-center"
       :class="{ 'relative -top-12': !maxWidthContent }"
     >
@@ -33,9 +34,10 @@
 </template>
 
 <script setup>
-defineProps({
+const { content } = defineProps({
   content: String,
 });
+console.log(content);
 const maxWidthContent = ref(false);
 </script>
 

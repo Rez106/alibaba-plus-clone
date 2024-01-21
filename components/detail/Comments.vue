@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col gap-4 mt-5">
+  <div class="flex flex-col gap-4 mt-5 order-1">
     <div
       class="flex items-center justify-start gap-4 w-10/12 max-[360px]:flex-col max-[360px]:w-full"
     >
@@ -94,7 +94,6 @@
           :length="Math.floor(reviews.result.totalCount / 10)"
           rounded="circle"
         ></v-pagination>
-        {{ reviews.result.totalCount }}
       </div>
     </div>
   </div>

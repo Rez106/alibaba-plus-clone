@@ -28,6 +28,7 @@
           <swiper-slide v-for="(img, index) in images" :key="index">
             <v-img
               :src="img.large_url"
+              lazy-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
               height="400"
               class="w-full rounded-lg"
               cover
@@ -43,7 +44,13 @@
           :modules="[SwiperFreeMode, SwiperNavigation, SwiperThumbs]"
         >
           <swiper-slide v-for="(img, index) in images" :key="index">
-            <v-img :src="img.large_url" height="120" class="rounded-lg" cover />
+            <v-img
+              :src="img.large_url"
+              lazy-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkqLw-cqukI0a4Ertb21nkCwlR1yzar4_6A&usqp=CAU"
+              height="120"
+              class="rounded-lg"
+              cover
+            />
           </swiper-slide>
         </swiper>
       </div>

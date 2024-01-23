@@ -9,9 +9,9 @@
   </div>
 
   <nuxt-link
-    v-if="search && !home"
+    v-if="(search && !home) || (search && home)"
     :to="'/plus/search/city-' + cityId + '/category-' + id"
-    class="w-auto min-w-max border border-gray-400 rounded-xl py-1 flex items-center px-2 shadow-sm shadow-gray-300 text-gray-600 cursor-pointer"
+    class="w-auto 2xl:w-full border border-gray-400 rounded-xl py-1 flex items-center px-2 shadow-sm shadow-gray-300 text-gray-600 cursor-pointer 2xl:flex-col 2xl:items-start 2xl:text-lg"
   >
     <div class="opacity-50 max-w-8 max-h-8" v-html="icon.svg"></div>
     <span class="text-sm">{{ name }}</span>

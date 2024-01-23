@@ -10,7 +10,7 @@
         :cityId="detail.city.id"
       />
       <v-divider class="border-opacity-100" />
-      <nuxt-layout name="desktop-container">
+      <nuxt-layout :name="mobile ? 'desktop-container' : undefined">
         <div class="px-4 w-full" id="در یک نگاه">
           <detail-breadcrumb :detail="detail" />
           <div class="2xl:flex 2xl:items-center 2xl:justify-between">

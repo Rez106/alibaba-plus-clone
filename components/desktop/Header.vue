@@ -15,13 +15,15 @@
           @click="() => (showMenu = true)"
         />
         <v-divider vertical inset class="border-opacity-100" />
-        <div class="w-fit mx-auto flex flex-col items-end">
-          <nuxt-img
-            src="https://cdn.alibaba.ir/h2/mobile/assets/images/alibaba-plus-29830c54.svg"
-            class="h-8"
-          />
-          <span class="relative -top-4 text-xs">جمع تجربه‌های سفر</span>
-        </div>
+        <nuxt-link to="/plus">
+          <div class="w-fit mx-auto flex flex-col items-end">
+            <nuxt-img
+              src="https://cdn.alibaba.ir/h2/mobile/assets/images/alibaba-plus-29830c54.svg"
+              class="h-8"
+            />
+            <span class="relative -top-4 text-xs">جمع تجربه‌های سفر</span>
+          </div>
+        </nuxt-link>
       </div>
       <div class="grow" v-if="!!route.params.id">
         <base-search-bar :header="true" />

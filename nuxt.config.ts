@@ -9,4 +9,15 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "nuxt3-leaflet",
   ],
+  app: {
+    head: {
+      link: [
+        {
+          rel: "icon",
+          type: "image/png",
+          href: "https://www.alibaba.ir/favicon-plus.ico",
+        },
+      ],
+    },
+  },
 });

@@ -1,6 +1,6 @@
 <template>
   <div
-    class="min-w-[500px] max-w-[850px] mx-auto relative -top-16 bg-white p-5 rounded-lg shadow-md"
+    class="min-w-[500px] max-w-[750px] mx-auto relative -top-16 bg-white p-5 rounded-lg shadow-md"
   >
     <base-search-bar />
     <div class="mt-5">

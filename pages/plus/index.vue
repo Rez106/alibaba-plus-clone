@@ -24,6 +24,10 @@ const mobile = computed(() => {
   return width.value < 600;
 });
 
+useHead({
+  title: "جمع تجربه‌های سفر | علی‌بابا پلاس",
+});
+
 //--Brackets
 const { data: brackets, bracketsError } = await useFetch(
   "https://ws.alibaba.ir/api/v1/plus/user/brackets"

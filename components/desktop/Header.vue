@@ -25,7 +25,7 @@
           </div>
         </nuxt-link>
       </div>
-      <div class="grow" v-if="!!route.params.id">
+      <div class="grow" v-if="!!route.params.id || !!route.params.cityId">
         <base-search-bar :header="true" />
       </div>
       <div class="flex items-center gap-3">

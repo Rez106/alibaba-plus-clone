@@ -10,7 +10,7 @@
         :cityId="detail.city.id"
       />
       <v-divider class="border-opacity-100" />
-      <nuxt-layout :name="mobile ? 'desktop-container' : undefined">
+      <nuxt-layout :name="mobile ? undefined : 'desktop-container'">
         <div class="px-4 w-full" id="در یک نگاه">
           <detail-breadcrumb :detail="detail" />
           <div class="2xl:flex 2xl:items-center 2xl:justify-between">
@@ -115,6 +115,11 @@ const { data: similar, error: similarError } = await useFetch(
 const { data: near, error: nearError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/pois/${route.params.id}/near?page_size=6&max_distance=10000`
 );
+
+useHead({
+  title:
+    detail.value.persuading_title + " - نظرات و تصاویر" + " | علی‌بابا پلاس",
+});
 
 const currentTab = ref("در یک نگاه");
 

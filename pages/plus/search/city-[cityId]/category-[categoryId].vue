@@ -74,7 +74,7 @@ const { data: category, error: cateError } = await useAsyncData(
       const cate = response.result.items.find(
         (item) => item.id === route.params.categoryId
       );
-      if (!cate) {
+      if (!cate || cate === undefined) {
         categoryName.value = "همه مکان‌ها";
       } else {
         categoryName.value = cate.name;
@@ -123,6 +123,10 @@ const { data: items, error: itemsError } = await useAsyncData(
 const { data: city, error: cityError } = await useFetch(
   `https://ws.alibaba.ir/api/v1/plus/user/cities/${route.params.cityId}/details`
 );
+
+useHead({
+  title: categoryName.value + " در " + city.value.name + " | علی‌بابا پلاس",
+});
 
 watch(route, (newVal, oldVal) => {
   if (newVal.params.categoryId !== oldVal.params.categoryId)

@@ -5,10 +5,11 @@
       :class="{ 'detail-content': !maxWidthContent }"
     >
       <p
-        class="text-justify break-words text-sm duration-300"
+        class="text-justify break-words text-sm duration-300 max-sm:text-xs"
         :class="{
           'h-[120px] 2xl:h-[220px]': !maxWidthContent,
           'h-[500px] 2xl:h-[340px]': maxWidthContent,
+          'h-[570px] 2xl:h-[340px]': maxWidthContent && city,
         }"
       >
         {{ content }}
@@ -36,6 +37,7 @@
 <script setup>
 const { content } = defineProps({
   content: String,
+  city: Boolean,
 });
 const maxWidthContent = ref(false);
 </script>

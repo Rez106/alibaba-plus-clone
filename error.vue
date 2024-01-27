@@ -1,8 +1,8 @@
 <template>
   <nuxt-layout :name="mobile ? 'mobile' : 'desktop'">
-    <nuxt-layout :name="mobile ? undefined : 'desktop-container'">
+    <nuxt-layout :name="mobile ? 'detail' : 'desktop-container'">
       <div
-        class="max-md:w-full md:w-8/12 mx-auto h-[70vh] flex flex-col items-center justify-center"
+        class="max-md:w-full md:w-8/12 mx-auto min-h-[70vh] flex flex-col items-center justify-center py-10"
       >
         <v-img
           :src="
@@ -22,9 +22,9 @@
           <p class="text-xl">
             صفحه مورد نظر در دسترس نمی‌باشد متاسفانه خطایی هنگام انتقال درخواست
             شما رخ داده است برای پیدا کردن مسیر درست میتوانید سری به
-            <nuxt-link to="/plus" class="text-blue-600 hover:underline"
-              >صفحه اول علی‌بابا</nuxt-link
-            >
+            <button class="text-blue-600 hover:underline" @click="errorHandler">
+              صفحه اول علی‌بابا
+            </button>
             بزنید
           </p>
         </div>
@@ -45,6 +45,12 @@ const { width } = useWindowSize();
 const mobile = computed(() => {
   return width.value < 600;
 });
+
+const errorHandler = () => {
+  clearError({
+    redirect: "/plus",
+  });
+};
 </script>
 
 <style lang="scss" scoped></style>

@@ -17,7 +17,7 @@
           <h1 class="font-semibold">{{ detail.name }}</h1>
           <v-icon icon="mdi-bookmark-plus-outline" />
         </div>
-        <h6 class="text-xs px-2">{{ detail.city.name }}</h6>
+        <h6 class="text-xs px-2">{{ detail?.city?.name }}</h6>
         <p class="text-xs px-2">{{ formattedContentText }}</p>
       </div>
     </nuxt-link>
@@ -48,7 +48,7 @@
 </template>
 
 <script setup>
-const { detail, type } = defineProps({
+const { detail } = defineProps({
   detail: Object,
   isColored: Boolean,
   isCarousel: Boolean,

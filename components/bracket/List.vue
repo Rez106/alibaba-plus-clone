@@ -1,6 +1,6 @@
 <template>
   <div
-    class="last:mb-20 px-4"
+    class="px-4"
     :class="{
       'bg-yellow-400': isColored,
       'my-10': isColored,
@@ -33,10 +33,20 @@
     >
       <h1 class="font-semibold xl:text-2xl">{{ item.title }}</h1>
     </div>
+    <div v-if="isCity" class="mb-5">
+      <div class="flex items-center">
+        <div class="" v-html="item.category.icon.svg"></div>
+        <h1 class="font-bold md:text-2xl">
+          {{ item.category.name + " در " + cityName }}
+        </h1>
+      </div>
+
+      <h4 class="text-xs md:text-lg text-gray-600 mr-7">{{ item.phrase }}</h4>
+    </div>
     <swiper
       v-if="!isCarousel"
       :modules="[SwiperNavigation]"
-      :space-between="20"
+      :space-between="10"
       :breakpoints="{
         350: {
           slidesPerView: 2,
@@ -59,8 +69,22 @@
       }"
     >
       <swiper-slide
-        v-for="city in item.pois"
+        v-if="!isCity"
+        v-for="city in item?.pois"
         :key="city.id"
+        class="rounded-md"
+        :class="{ 'bg-white': isColored }"
+      >
+        <bracket-item
+          :detail="city"
+          :isColored="isColored"
+          :isCarousel="isCarousel"
+        />
+      </swiper-slide>
+      <swiper-slide
+        v-else
+        v-for="city in item?.promoted_pois"
+        :key="city.short_id"
         class="rounded-md"
         :class="{ 'bg-white': isColored }"
       >
@@ -156,6 +180,8 @@ const { item, isColored, isCarousel } = defineProps({
   isColored: Boolean,
   isCarousel: Boolean,
   isDetail: Boolean,
+  isCity: Boolean,
+  cityName: String,
 });
 </script>
 

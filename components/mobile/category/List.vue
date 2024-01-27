@@ -5,6 +5,18 @@
     class="py-2 px-2"
     v-if="!home"
   >
+    <swiper-slide class="w-auto">
+      <nuxt-link
+        v-if="search"
+        :to="'/plus/search/city-' + cityId + '/category-all'"
+        class="w-auto 2xl:w-full border border-gray-400 rounded-xl py-1 flex items-center px-2 shadow-sm shadow-gray-300 text-gray-600 cursor-pointer 2xl:flex-col 2xl:items-start 2xl:text-lg"
+      >
+        <div class="opacity-50 max-w-8 max-h-8">
+          <v-icon icon="mdi-map-marker-radius" size="x-large" />
+        </div>
+        <span class="text-sm">همه مکان‌ها</span>
+      </nuxt-link>
+    </swiper-slide>
     <swiper-slide
       v-for="item in items"
       :key="item.id"

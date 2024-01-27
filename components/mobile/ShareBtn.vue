@@ -14,7 +14,7 @@
 </template>
 
 <script setup>
-const { isShown } = useShowMobileMenu();
+const { isShown } = useShowMenu();
 </script>
 
 <style scoped></style>

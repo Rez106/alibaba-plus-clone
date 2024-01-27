@@ -24,7 +24,7 @@
 </template>
 
 <script setup>
-defineProps({
+const { items } = defineProps({
   items: Array,
 });
 </script>

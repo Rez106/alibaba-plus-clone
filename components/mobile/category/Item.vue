@@ -27,13 +27,14 @@
 </template>
 
 <script setup>
-const { id, cities, icon, name, search } = defineProps({
+const { id, cities, icon, name, search, cityIdProp } = defineProps({
   id: String,
   name: String,
   icon: Object,
   cities: Array,
   search: Boolean,
   home: Boolean,
+  cityIdProp: String,
 });
 const { openModal } = useModal();
 
@@ -41,7 +42,7 @@ const cityId = ref("");
 
 if (search) {
   const route = useRoute();
-  cityId.value = route.params.cityId;
+  cityId.value = route.params.cityId || cityIdProp;
 }
 
 const categoryModalHandler = () => {

@@ -51,6 +51,7 @@
         :cities="cities"
         :search="search"
         :home="home"
+        :cityIdProp="cityIdProp"
       />
     </div>
   </div>
@@ -62,6 +63,7 @@ const { search } = defineProps({
   cities: Array,
   search: Boolean,
   home: Boolean,
+  cityIdProp: String,
 });
 
 const { mobile } = useDisplay();

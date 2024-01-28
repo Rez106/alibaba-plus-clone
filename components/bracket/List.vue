@@ -6,6 +6,7 @@
       'my-10': isColored,
       'py-3': isColored,
       'flex items-center justify-center gap-28': isColored,
+      'flex items-center justify-between gap-5': isCity,
     }"
   >
     <div
@@ -33,15 +34,26 @@
     >
       <h1 class="font-semibold xl:text-2xl">{{ item.title }}</h1>
     </div>
-    <div v-if="isCity" class="mb-5">
-      <div class="flex items-center">
+    <div v-if="isCity" class="mb-5 min-w-[30%]">
+      <div class="flex items-center xl:flex-col xl:items-start">
         <div class="" v-html="item.category.icon.svg"></div>
-        <h1 class="font-bold md:text-2xl">
+        <h1 class="font-bold md:text-xl">
           {{ item.category.name + " در " + cityName }}
         </h1>
       </div>
 
-      <h4 class="text-xs md:text-lg text-gray-600 mr-7">{{ item.phrase }}</h4>
+      <h4 class="text-xs md:text-lg text-gray-600 max-xl:mr-7">
+        {{ item.phrase }}
+      </h4>
+      <v-btn
+        append-icon="mdi-chevron-left"
+        variant="text"
+        to=""
+        color="blue"
+        class="max-sm:hidden"
+      >
+        مشاهده همه
+      </v-btn>
     </div>
     <swiper
       v-if="!isCarousel"
@@ -52,10 +64,10 @@
           slidesPerView: 2,
         },
         600: {
-          slidesPerView: isColored ? 2 : 3,
+          slidesPerView: isColored || isCity ? 2 : 3,
         },
         1200: {
-          slidesPerView: isColored ? 3 : 4,
+          slidesPerView: isColored || isCity ? 3 : 4,
         },
       }"
       :navigation="{
@@ -66,6 +78,7 @@
       :class="{
         'max-sm:w-full md:w-full 2xl:w-[1200px]': !isColored,
         'max-sm:w-full md:w-full 2xl:w-[800px] py-8 mx-0': isColored,
+        'w-full 2xl:min-w-[70%]': isCity,
       }"
     >
       <swiper-slide

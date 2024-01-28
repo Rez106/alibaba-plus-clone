@@ -9,6 +9,7 @@
         :items="category.result.items"
         :search="true"
         :home="mobile ? false : true"
+        :cityIdProp="data.city.id"
       />
       <div class="px-4 my-5">
         <h1 class="font-bold md:text-2xl">{{ data.city.persuading_title }}</h1>

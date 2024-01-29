@@ -1,0 +1,1194 @@
+{
+  "id": "636a0d277610a578c0fbe873",
+  "short_id": "d1100ba6",
+  "country": {
+    "id": "612b815e2d28e7b40b49aebc",
+    "short_id": "feb3dc58",
+    "slug": "iran",
+    "name": "ایران",
+    "area": null
+  },
+  "province": {
+    "id": "612b815e2d28e7b40b49aed8",
+    "short_id": "c7dce226",
+    "country_id": "612b815e2d28e7b40b49aebc",
+    "slug": "Hormozgan",
+    "name": "هرمزگان",
+    "area": null
+  },
+  "slug": "bandarabbas-city",
+  "name": "بندرعباس",
+  "persuading_title": "بندرعباس، مروارید خلیج فارس",
+  "content": "بندرعباس، بزرگترین بندر ایران در جنوب کشور است. این شهر توانسته است با سینه گشاده خود، کلیسای ترسایان و معبد هندوها را در کنار مساجد مسلمین و بقاع متبرکه شیعی جای دهد. مردم بندرعباس همانند تمامی مردم خطه جنوب کشورمان بسیار خونگرم و مهمان‌نواز هستند. بندرعباس در زمستان بوی بهار می‌دهد و بهترین فصل برای سفر به این شهر از اواخر آبان ماه تا اواسط فروردین ماه است. این شهر در مجاورت چندین جزیره‌ زیبای جنوب کشورمان قرار دارد، اگر به جزیره‌های قشم، کیش و هرمز سفر کرده باشید، احتمالا گذرتان به شهر زیبای بندرعباس افتاده است؛ زیرا مسیر زمینی این جزیره‌ها از بندرعباس عبور می‌کند. از جزیره‌های زیبای اطراف شهر که بگذریم، خود شهر بندرعباس، دیدنی‌های تاریخی و طبیعی فراوانی دارد. از جاذبه‌های طبیعی آن، ساحل‌های زیبا و زنده‌ است که در تمام طول روز محل رفت‌ و آمد گردشگران است. در بازدید از این ساحل‌ها، لذت خوردن نان توموشی و غذاهای محلی که خانم‌های محلی در کنار ساحل طبخ می‌کنند را از دست ندهید. از جمله این ساحل‌های زیبا و آرامش‌بخش می‌توان ساحل سورو، پارک ساحلی غدیر و پارک ساحلی دولت را نام برد. از جاذبه‌های دیگر این شهر می‌توان به آب گرم گنو، بازار ماهی‌فروشان، عمارت کلاه‌فرنگی و محله باستانی سورو اشاره کرد. یکی دیگر از جذابیت‌های شهر بندرعباس غذاهای اصیل و لذیذ جنوبی مانند گبولی گوشت، قلیه ماهی و میگو، هواری و مهیاوه هستند. اگر می‌خواهید با تاریخ پر فراز و نشیب و فرهنگ مردم بندرعباس بیشتر آشنا شوید، حتما سری به موزه مردم‌شناسی این شهر بزنید. این موزه تمام فرهنگ و تاریخ این شهر از انسان‌های اولیه تا امروز را به صورت خیلی طبیعی به تصویر کشیده است. از آنجایی که بندرعباس شهری مهم در زمینه بازرگانی و صنعت در کشور محسوب می‌شود، مراکز خرید متعدد و متنوعی هم دارد. در سفر به بندرعباس و خرید سوغاتی و صنایع دستی دستتان باز است، از خوراکی‌های خوشمزه‌ای مثل خرما و گواوا و ماهی شور گرفته تا صنایع دستی همچون زیورآلاتی که با صدف و سنگ‌های کنار ساحل ساخته می‌شود. شاید تاکنون کمتر به معرفی جاذبه‌های گردشگری بندرعباس پرداخته شده باشد؛ اما بدون شک وقتی با شناخت و اطلاعات کافی به این شهر سفر کنید، این سفر از خاطرات فراموش‌نشدنی و جذاب سفرهای شما خواهد بود.",
+  "area": null,
+  "landing": {
+    "cover": {
+      "desktop": "",
+      "mobile": ""
+    }
+  },
+  "gallery": [
+    {
+      "is_cover": false,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_83f160caa62463b4e90b0053f1b48f8c6435eb80bba303cf766d083f6be19111_000.jpg"
+    },
+    {
+      "is_cover": false,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7b2da1679237f6839dcee1bc40955924c7551421a45f8b62c55e2614086fb994_1.jpg"
+    },
+    {
+      "is_cover": false,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6f9179f27223ea3036487f823b9d0595ab57e8eecb544afda84de72eca17a97c_3.jpg"
+    },
+    {
+      "is_cover": false,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9db9b7c4dc4101a20a5558dd9c99ddb7517eba8b0933be228aa17e569e2c2cc9_4.jpg"
+    },
+    {
+      "is_cover": false,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b0d48377e787f2dbb7dfc512ad50583177378c9612b8d07738f8e43596e68b20_5.jpg"
+    },
+    {
+      "is_cover": false,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9da09d54f9e878fa1b4e4b4ae3a80eedfdf4e862c9f9fb86a70f84dd385580a9_6.jpg"
+    },
+    {
+      "is_cover": true,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1f1a652f9a6c6cc923a562a5cecabbf9d930e753b5b50003c714b8c503d5981a_7.jpg"
+    },
+    {
+      "is_cover": true,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9099b0d4339edd4b7fbca6da7e29492559be455418ffa4e0c649375d47d7e4f9_8.jpg"
+    },
+    {
+      "is_cover": true,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ff3caf707774cf5be2d2b98d2ca80821ab842b5daa0afeb1435d3fa1099860ce_9.jpg"
+    },
+    {
+      "is_cover": true,
+      "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_e9ca5ef671429f20526f9c3b1af3465ddebd1a2022a758ed6a5cad5756654bf5_2.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "category": {
+        "id": "612b815e2d28e7b40b49ae8f",
+        "short_id": "3f3bc534",
+        "parent_id": "",
+        "slug": "attractions",
+        "name": "جاذبه‌های گردشگری",
+        "icon": {
+          "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M21.494 6.114l-.002-.003c4.524.683 8.139 4.554 8.48 9.145.086 1.14-1.943 1.535-3.269 1.794-.282.055-.532.103-.723.151.106-.517-.01-1.143-.113-1.692a20.243 20.243 0 01-.061-.34 18.428 18.428 0 00-1.282-4.256 19.042 19.042 0 00-1.096-2.142 17.318 17.318 0 00-1.934-2.657z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19 16.261l-3 .783s.109-1.293.253-2.009a17.048 17.048 0 012.5-5.975c.382-.57.798-1.112 1.247-1.617.45.505.866 1.048 1.247 1.617a17.046 17.046 0 012.5 5.975c.139.687.225 1.362.254 2.009L21 16.26V26h6a1 1 0 110 2H4a1 1 0 110-2h1.126l1.066-2.487S4.138 20.851 3.2 19.6a1 1 0 111.6-1.2L7.5 22H12c.103 0 .202.015.295.044.886.19 1.767.42 2.647.65.433.114.867.228 1.3.336a1 1 0 11-.485 1.94L13 24.28V26h6v-9.739zm-8 7.74V26H7.302l.857-2H11z\" fill=\"#4B5259\"/>\n  <path d=\"M14.133 15.51c-.102.548-.219 1.174-.112 1.691-.15-.037-.36-.078-.608-.126-1.259-.242-3.47-.669-3.385-1.819.343-4.6 3.924-8.457 8.48-9.145l-.002.003c-.29.325-.566.663-.83 1.013a17.907 17.907 0 00-1.104 1.644c-1.202 2.023-2.018 4.268-2.377 6.399-.018.108-.04.222-.062.34z\" fill=\"#4B5259\"/>\n</svg>\n",
+          "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/43e1e955b1bafd7e460d1effb31b29314495fc38c9cc7b10ffab0e38cef470fe_original.png"
+        },
+        "default_phrase": "جاذبه‌های گردشگری"
+      },
+      "promoted_pois": [
+        {
+          "id": "638ef6e8a908a5472a88e103",
+          "short_id": "50afa0a1",
+          "slug": "naseri-mosque-bandarabbas",
+          "name": "مسجد ناصری بندرعباس",
+          "persuading_title": "مسجد ناصری بندرعباس",
+          "content": "در سال‌های پایانی حکومت قاجاریه مسجدی در شهر بندرعباس بنا شد که همچنان استوار و شکوهمند بر جای مانده که به درستی، اوج هنر دست معماران ایرانی عهد قاجاری است. مسجد ناصری بندرعباس در سال ۱۳۰۴ خورشیدی و در چند قدمی آب‌های نیل‌گون خلیج فارس با همت یک خیر به نام محمد علی ناصری حیدرآبادی ساخته و به همین دلیل نام مسجد ناصری بر آن ماندگار شد. چشم‌گیرترین المان‌هایی که در بنای خارجی مسجد به چشم می‌خورد دو مناره بلند با کاشی‌کاری‌هایی با نقوش هندسی و یک گنبد با کاشی‌کاری و اشکال هندسی هستند. کاشی‌کاری‌های مرکز گنبد مسجد ناصری بندرعباس، به شکل یک گل زیبا درآمده و دورتادور این گل، آیاتی از قرآن با کاشی‌های ظریف و زیبا نوشته شده است. معماری داخلی مسجد شامل یک محراب است که با کاشی‌های آبی شکل‌هایی خاص و بی‌نظیر از هنر ایرانی را به رخ می‌کشند. در صحن اصلی مسجد شش ستون قرار دارد که قسمت پایینی آن‌ها از سنگ پوشیده شده و قسمت‌های بالایی آن در تجانس و هماهنگی تمام با معماری کلی بنا کاشی‌کاری شده‌اند. سقف مسجد با هنر چشم‌نواز گچ‌بری و مقرنس‌های دلربا تزیین شده و پنجره‌های مسجد ناصری بندرعباس، جلوه‌ای زیبا از هنرهای معرق‌کاری، گره چینی و شیشه‌های رنگارنگ را در پیش چشمان بیننده به تصویر می‌کشند. مسجد ناصری در نزدیکی بسیاری از جاذبه‌های طبیعی و تاریخی این شهر همچون معبد هندوها، بازار سنتی بندرعباس، حمام گله داری، مجتمع خرید زیتون و همین‌طور، ساحل خلیج فارس قرار دارد و با یک پیاده‌روی پنج الی 10 دقیقه‌ای می‌توانید خود را به جاذبه دیدنی بعدی برسانید. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_27d60a894f6cf6d8ea5c1349974f3bea1acc37f6548ffea8d6215292cf1fb146_202203271.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9d1a9cee415f3caa2ce428759022b1934afcf59fb9f823714116aff1acbf9358_202203271.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_e282d56719cdddeffcdb37558397c9010172c0cb830ec450b4114a58f8a50d7d_20170707.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_f0b5d5a9577887e8faae2ed67fce35ca259abb8f3e2408ff78baccffcfd8c940_20220327.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_66e8b794c1b8b339b85d0cf6c6142941343a2f7f94e11f1749937dcbda88f999_202203271.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6af6ff1d237af5312a13b57e975f5080493b34c97deb46aec5168674b355a754_202203271.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_a2e5ab12d1cec7acda87c1750cddbbc185699693a4bc02c56a95699d9dd645d7_202203271.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d4f9eb79c3ea201943157c3bc230d962ae09ac26791964ee69134e893e9c14b7_.jpg"
+            }
+          ]
+        },
+        {
+          "id": "638f02bd3d0c4ae38e3cdfe8",
+          "short_id": "f745b44d",
+          "slug": "hindu-temple-bandarabbas",
+          "name": "معبد هندوها",
+          "persuading_title": "معبد هندوها بندرعباس",
+          "content": "قرن‌ها پیش بندرعباس به عنوان یکی از شهرهای مهم تجاری ایران، میزبان تاجران زیادی از نژادها، زبان‌ها و مذاهب مختلف بوده است. این تاجران به مکان‌هایی برای به‌جا آوردن مناسک خود نیاز داشتند و معبد هندوها بندرعباس یادگار دوران حضور بازرگانان هندی در این شهر است. تا پیش از ساخت این معبد، هندوها از یک کاروان‌سرا برای به جای آوردن مراسم‌های مذهبی خود استفاده می‌کردند. کار شروع ساخت این معبد شگفت‌انگیز در سال ۱۲۷۰ خورشیدی با همت تجار شهر شیکارپور هند آغاز و در میان سال‌های ۱۳۰۰ تا ۱۳۴۴ به مکانی برای نیایش هندوها تبدیل شد. معبد هندوها بندرعباس که مردم محلی به آن پرستشگاه بت گوران هم اطلاق می‌کنند، بنایی است مربعی شکل که نمای بیرونی آن به نشانه پاکی، سفید و دارای یک گنبد مقرنس باشکوه است. داخل بنا، شامل گنبدخانه اصلی و محراب است که اطراف گنبدخانه، راهروهایی برای طواف بت بزرگ قرار دارد. در زمان پهلوی اول هندوها هنگام ترک بندرعباس، طاقچه محراب اصلی و بت‌های معبد را هم با خود بردند. با این وجود، طرح‌های روی بنا؛ مانند نقاشی معروفی از خدای کریشنا، کتیبه معبد که نام سازندگان بنا به همراه دعاهایی روی آن حک شده به همراه برخی از اشیای آن دوران همچنان در معبد برجای مانده است. بعد از ترک هندوها تا سال ۱۳۷۷ این معبد متروکه بود و توجه خاصی به آن نمی‌شد، اما سازمان میراث فرهنگی کمر به بازسازی معبد بست. اکنون، این بنای باشکوه به عنوان یکی از آثار به ثبت‌رسیده در لیست آثار ملی قرار دارد. معبد هندوها بندرعباس بنایی بی‌نظیر است که مانند آن را نمی‌توان در ایران پیدا کرد و همچون ستاره‌ای در آسمان بندرعباس می‌درخشد.  ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ecf7428d42e311f7d3133896b2d0f669119920469520e722cd1d139b546fcdff_20180324.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1004a434702fcba7047f64abcf2b68dc56d0d61fcf58f8ab8159e4aa78aeb809_20190608.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_57d38d770341ad2ee7cd47fd0ec96e9ebf16e92210137e5426687f47fbefa27d_20191019.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_958f5fefcdece06d1fa4a7dc457a3e988af2f3c023ca50b45f56e1747e0ee9d5_20191225.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_74ef94f1489f59b1cc8eff15dd966215badada069fdb53f9db664971167fb768_20200209.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ee978aef54d4199f19bb75445ff1dd5f5b2f21082a9913c55eea6cc2bc56a80c_20210401.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_a19198dd441c23c24fc73d4fcd9d37e4ca41efb47f8933b8b39e7e6a3416b2a3_20220327.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_01fa152f63307fbd9d04679ea1962354b3f33d445d3428d54f550206cb2dca5c_15517417513257977244498922178457492916364812n18142091809085876.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b5e9b01ce697765107e8d18e0134de6dd523bbc48ff613205688b838b6b7842f_15594010229722148630593067963056502798507124n17861528243443353.jpg"
+            }
+          ]
+        },
+        {
+          "id": "638f1219a908a5472a88e105",
+          "short_id": "2f875e34",
+          "slug": "khersin-salt-mountain-bandarabbas",
+          "name": "کوه نمکی خرسین",
+          "persuading_title": "کوه نمکی خرسین بندرعباس",
+          "content": "کسانی که به بندرعباس سفر می‌کنند ساحل زیبای خلیج فارس را می‌شناسند، اما ساحل دریا را که پشت سر بگذارید، به منظره چشم‌نواز کوه نمکی خرسین می‌رسید. صحبت از کوهی نمکی در روستایی به همین نام یعنی «خرسین» است. این گنبد نمکی میزبان جذابیت‌هایی نظیر: آبشار‌ها، چشمه‌ها، بلورها و قندیل‌های گل‌کلمی است. سازه‌های نمکی این مجموعه طبیعی با جلوه باشکوهش چشم هر بیننده‌ای را نوازش می‌دهد. غار خرسین که در دل کوه نمکی خرسین جای گرفته یکی از معدود غارهای نمکی بکر و دست نخورده استان هرمزگان است. با وجود این‌که بهترین فصل سفر به بندرعباس و جنوب ایران پاییز و زمستان بوده، برای بهره‌مند شدن از زیبایی این کوه بهترین زمان بازدید اوایل بهار و تابستان است؛ زمانی که میزان بارندگی کمتر و خطر ریزش به دلیل ناپایدار بودن دیوارها وجود ندارد. اگر از آن دسته گردشگرانی هستید که به غارنوردی علاقمندید، غارهای کوه نمکی خرسین باب خودتان است؛ با تماشای قندیل‌ها و آبشارهای نمکی متعدد در حین پیمایش غار، پس از یک ساعت به انتهای غار خواهید رسید. همراه داشتن وسایل اولیه غارنوردی و توجه به نکات ایمنی حین بازدید، راحتی و لذت این گردش را برای شما دوچندان می‌کند. این منطقه به صورت کوه از زمین بیرون آمده و نوک گنبد هنوز بدون تغییر باقی مانده و بافت طبیعی آن با درختان بادام کوهی پوشیده شده است. کوه نمکی خرسین از ذخایر نمک برخوردار است که از آن در صنایع شیمیایی استفاده می‌شود. خاک‌رس منطقه هم در صنایع رنگ‌سازی کاربرد دارد. شما با انتخاب این جاذبه به عنوان مقصد گردشگری یکی از متفاوت‌ترین تجربه‌های سفر را برای خود رقم خواهید زد.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4211c4751fbf2fb15871e10d1226e984c55c3619d140f98a01177c5ee403977b_73d226c359ad46f59e4c281fd86c5bd4.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b436dc2e9474b5dd6abad10d7bfa8737fd4345d6b08d4489bae614b0371ea837_098ca7ea32b5464094fba83e4f39fdb7.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4f4af9df4650629667b5e2710f85c86a49cd63e41caef874bf1403f2b1af7bde_20190220.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_50424ae76cfce6a7ec668cc6f3c38f18782a9557d0614a4ea7b439184fc9e7e6_dfc7a010c7e94094b0dfb036a4284979.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_a85c1a0bf4cffb881a4b3162d27d1c6f4c6183c0beb3b0fcdf8842821d67b15f_e5611e7405034af39bdff45c77e94e66840x560.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_951c5dbeb4974a3ffaa08552cf3eae7ec5bfed05e4dc786185425f5e83bf5a93_KhersinSaltCave5.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c7dcfc367f32a5ad3fb27649dd51b08dfe1c75b0191040ddc5661801cbe37702_201902260.jpg"
+            }
+          ]
+        },
+        {
+          "id": "639031eec13688403717c1d5",
+          "short_id": "d6056570",
+          "slug": "ghadir-beach-and-camp-park-bandarabbas",
+          "name": "پارک ساحلی غدیر",
+          "persuading_title": "پارک ساحلی غدیر بندرعباس",
+          "content": "پارک ساحلی غدیر بندرعباس بهشت گردشگران است که چشم‌اندازی زیبا به خلیج‌فارس دارد. اگر با دقت نگاه کنید، حتی می‌توانید جزیره قشم و هرمز را هم از دور نظاره کنید. این پارک بزرگ در امتداد آب‌های خروشان خلیج‌فارس ساخته شده که می‌توانید ساعاتی را در کنار ساحل بنشینید، به صدای امواج گوش دهید و برجای ماندن صدف‌های رنگارنگ بر ساحل را تماشا کنید. غروب تماشایی خورشید و فرو بردن پا در شن‌های داغ و خیس لذتی است وصف‌ناشدنی که از این پارک عایدتان می‌شود. پارک ساحلی غدیر طولانی‌ترین نوار ساحلی بندرعباس را از آن خود کرده و با ۱۵۰۰ متر طول تبدیل به بزرگ‌ترین پارک ساحلی این شهر شده است. پارک امکانات تفریحی زیادی دارد و برای ساعت‌ها سرگرم شدن با هر سلیقه و توان بدنی‌ مناسب است. اگر به دوچرخه‌سواری علاقه داشته باشید، امکان اجاره دوچرخه برای پدال‌زدن در مسیر اختصاصی دوچرخه وجود دارد. اگر علاقه‌مند به والیبال و بسکتبال هستید، می‌توانید از زمین والیبال و بسکتبال استفاده کنید و حتی نگران نداشتن توپ هم نباشید؛ چرا که توپ همراه با زمین به شما کرایه داده می‌شود. قایق‌سواری، کایت‌سواری، شنا، باشگاه پینت‌بال، شترسواری و اسب‌سواری، از دیگر تفریحات هیجان‌انگیزی است که در پارک ساحلی غدیر بندرعباس می‌توانید تجربه کنید. همین‌طور، این پارک جای مناسبی برای کمپ‌کردن و چادر زدن است؛ شب‌ با صدای آرامش‌بخش امواج خلیج‌فارس به خواب می‌روید و صبح‌ با صدای مرغان دریایی از خواب بیدار می‌شوید. چه چیزی رویایی‌تر از این؟! غیر از آن، در آلاچیق‌های پارک می‌شود یک دورهمی خانوادگی برگزار کرد و در فضاهای مناسبی که برای درست کردن کباب تعبیه شده، یک ناهار هوس‌برانگیز تهیه کرد و گوشه‌ای از خاطرات سفر را با دورهمی در پارک ساحلی غدیر بندرعباس پر کرد.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_bd3c63514eca6b708d3340a0209d74996fe000fbf81d2de996df740c1a4c7d3d_20200115.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_51050a30d8d83ceb0fef8a65ecafd0131775bd57e58b3a32fb2758b74ce28b18_20201021.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_8e7d4b6180ee9a92e5a4f82fe47c35d3940febf402e811d4a5585d2748bbbe6d_20201106.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_94de67a88f62ac9f9632c654aaf9ff347ea0160627b339a6ebd4cef241c32876_20201108.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_70c837ef19bf6e0d17316134a75a0260212b0a7bc2f1556130b30dfbbaca2a66_202010211.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_e132927c440b0700d6d0d9ce12a5cc8ba267d0e79f8aacbbfbd8640d2966c64e_20211218.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_f44a21a12e3ce4b27fc40c553d6b674bea0920834c46f224130fad07f91e34a5_20220725.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6ba651eb6d99d1aa10e5c45b341f8007bf054ff5650f84d87e5652cee9a50ec3_IMG201810291651451.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fab0ada85c5c302cdf3910dda07bf5c6ea96cfe9bc9bbbb60a8b31a6c810c343_IMG20181225072337.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_18a8d4617378c92109ca66172d1c466d7dc7f7fb84f195ef362c78ddb75dec73_IMG20190212111020.jpg"
+            }
+          ]
+        },
+        {
+          "id": "63984203f35f2b740b8642cc",
+          "short_id": "2c619221",
+          "slug": "ganow-hot-spring-bandarabbas",
+          "name": "آبگرم گنو",
+          "persuading_title": "آبگرم گنو بندرعباس",
+          "content": "طبیعت بندرعباس بسیار شگفت‌انگیز است؛ از یک طرف به دریا و از طرف دیگر به کوه می‌رسد؛ چیزی که شاید در سایر شهرهای جنوبی کشور نتوانید نظیرش را پیدا کنید. یکی از کوه‌های شمالی بندرعباس، کوه گنو است که در کوهپایه‌های آن یک چشمه آبگرم بکر با بخشندگی هرچه تمام خود را وقف گردشگران کرده است. آبگرم گنو بندرعباس مواد معدنی گوناگونی همچون ترکیبات گوگرد، کلر و سولفات دارد و به همین دلیل، این آبگرم به خواص درمانی‌اش شناخته شده است. مسافران زیادی هر ساله با هدف تفریح و بهره‌مندشدن از خواص درمانی این آبگرم، به این منطقه سرازیر می‌شوند. چشمه‌های آبگرم گنو بندرعباس زیستگاه طبیعی بسیاری از گونه‌های گیاهی و جانوری است. زیره، پونه، پرسیاوش، بومادران، گون گاوی و سرخس معطر تنها نمونه‌هایی از پوشش گیاهی این منطقه هستند و گفته می‌شود بیش از ۳۰۰ نوع گیاه آوندی در این منطقه در حال زیست است. گونه‌های جانوری بسیاری در این منطقه زندگی می‌کنند که مهم‌ترین آن نوعی ماهی در خطر انقراض به نام «آفانیوس گینوئیس» است. به دلیل خط‌هایی که روی بدن این ماهی کوچک وجود دارد، مردم محلی به آن ماهی گورخری می‌گویند. این نوع ماهی فقط در چشمه آبگرم گنو بندرعباس زندگی می‌کند و هیچ‌جای دیگری از جهان نمونه این گونه یافت نمی‌شود. آبگرم گنو امکانات رفاهی زیادی برای گردشگران خود در نظر گرفته است. این امکانات شامل: دو استخر مردانه و زنانه، بازارچه، سینمای روباز، رستوران و سفره‌خانه، شهربازی، پیست دوچرخه‌سواری و آلاچیق می‌شود. این جاذبه طبیعی در نزدیکی جاذبه‌های گردشگری دیگری؛ از جمله: قله گنو، نخل‌های ۵۰۰ ساله و منطقه طبیعی حفاظت‌شده گنو، قرار دارد که بازدید از آن‌ها هم خالی از لطف نیست. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5cc097ad283c89ae303e28134d24df805fc75b23b04085a27c93f50d367b263e_202205141.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_a43794203704a887b3ff7886834d371d8df58b201811f406d69ba7fbf350461e_20220304.png"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_da4841d9cf221cca36dc18198d3760ec9c12fc2a37937c11a86059d1bf241796_20220330.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4717e8a0150d7033df571486c4a0037ae7fbc7757c9473a6df1548f63054412a_20220405.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_e30cded0dd6f31824cad1b21b62dcb8f79c496b2f357100546630cf1051bd470_202205141.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7dd958e57d8d65d839949ece1299114a8355c57f261cd042a27650384b734c1e_20220514.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_e8239320539d9858a28a69ea7fe92a91d7f0e85d231f1ff596e7c8b6d7eca96d_202206211.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c2cdf44762eb4b10125a2dfe5b8175cc3d176902cfe463ff7209a93243320066_20220621.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1a47653f1527d998de48bcb03d8404f913ec104bd47469c2ad966daf5e28683a_20220920.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_bcf912b5c5e1a523ed3ef48ea2943a2550bdecbef07ec338ccb548e883406ffc_202203301.jpg"
+            }
+          ]
+        },
+        {
+          "id": "639876ab7e589c8ba094cac3",
+          "short_id": "616035e9",
+          "slug": "dowlat-beach-park-bandarabbas",
+          "name": "بوستان ساحلی دولت",
+          "persuading_title": "بوستان ساحلی دولت بندرعباس",
+          "content": "شاید دلیل بسیاری از گردشگران برای سفر به بندرعباس تماشای موج‌های خروشان خلیج‌فارس باشد که با تمام توان، خود را به ساحل می‌کوبند و ناگهان با آرامش وصف‌ناپذیری عقب‌نشینی می‌کنند و به دریا بازمی‌گردند. بوستان ساحلی دولت بندرعباس در همجواری با این زیبایی طبیعی زیبا ساخته شده که امکان تماشای جزر و مد و غروب خورشید را در افق نارنجی‌رنگ خلیج‌فارس ممکن می‌سازد. این بوستان ساحلی با پیشینه‌ای خوش‌نام، قدیمی‌ترین بوستان ساحلی بندرعباس محسوب می‌شود و هر ساله گردشگران زیادی را به سوی خود فرامی‌خواند. ساکنان بندرعباسی به این پارک ساحلی، پارک جنگلی ناخدا یا ساحل نخل ناخدا هم می‌گویند. اگر اهل رکاب‌زدن هستید و به دوچرخه‌سواری علاقه‌مند، بوستان ساحلی دولت بندرعباس برای شما بهشت است. مسیر دوچرخه‌سواری باصفایی که در این پارک ساخته شده باعث می‌شود حتی کسانی که دوچرخه‌سواری را دوست هم ندارند، در آن قدم بزنند و از چشم‌انداز رو به خلیج لذت ببرند. در قسمت شرقی این بوستان ساحلی یک پیست کارتینگ ساخته شده است. ضمن آن که، مسیری اختصاصی برای خودروهای چرخ‌باز تدارک دیده شده تا هیجانی حسابی را تجربه کنند. میز پینگ‌پنگ، آلاچیق، کافه و رستوران از دیگر امکانات رفاهی بوستان ساحلی دولت بندرعباس هستند. شما در این پارک ساحلی حتی اجازه دارید خودروی خود را تا دم ساحل جلو ببرید. البته، توجه داشته باشید که این امکان در دیگر پارک‌های ساحلی بندرعباس وجود ندارد. پارک ساحلی دولت در نزدیکی موزه حیات وحش و موزه آب قرار گرفته و می‌توانید پس از یک روز بندرگردی برای استراحت و تفریح کنار دریا ساعاتی را در این پارک بگذرانید. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d78e2ea1f4467a9eec6d3ed01781c36c5083e815b16f0b8eca0bf53aa96e6fab_20190321.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b61138bc52c81ae4535f158d3cbc53e6e10389cd93d4d8538987fe3c4bd0a8b2_20220209.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b62c20fa1eff0490ffd050e4fc664b1a05eae97b5c13397ccac7e858af2970c2_.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_150a632594c9b616d1c1f788c44b93f78c23cc50c8d1adba33477edd30d8a48a_img20170419211619.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_3751d1465e88550953b49a5d66139d12d4a04b247fce57caf424b8f86e00ea00_img20180411201529.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_2f61ef05eda10a7df4436c8fc8f586b8efc973a2ae5e8ce102fb6aa8ca75ff1d_img20180818184926.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_89e50c5f4a0bfadcec9a3709006a20156c8d811cd882f6e66393e2f2f2169125_img202112111644251.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7cc54de9831650a8be691e5c053e269b10bdac601062864a2403105559d91d9d_img20211211171504.jpg"
+            }
+          ]
+        },
+        {
+          "id": "639878d57e589c8ba094cac4",
+          "short_id": "4f4d1a1e",
+          "slug": "suru-beach-park-bandarabbas",
+          "name": "پارک ساحلی سورو",
+          "persuading_title": "پارک ساحلی سورو بندرعباس",
+          "content": "در قسمت غربی بندرعباس و در یکی از قدیمی‌ترین محله‌های این شهر، یک پارک ساحلی وسیع گردشگران را به سوی خود فرامی‌خواند تا آبی عمیق دریا را از فاصله‌ای نزدیک ببینند و با تمام وجود ابهت آن را حس کنند. پارک ساحلی سورو بندرعباس پر از درختانی است که می‌شود زیر سایه آن‌ها نشست، به افق‌های دور خلیج نگریست و نسیم خنک را روی پوست خود حس کرد. این منظره رویایی با دیدن جزر و مد دریا، صدف‌های ساحل و حرکت خرچنگ‌هایی که آرام آرام روی شن‌ها در حال حرکت هستند، کامل می‌شود. پارک ساحلی سورو بندرعباس در برخی از فصل‌ها میزبان پرندگان فصلی و مهاجر؛ به ویژه، فلامینگوهایی است که راه درازی را طی می‌کنند تا پرهای صورتی خود را در آبی بی‌کران خلیج‌فارس بشویند. قدیمی‌های بندرعباس به ساحل سورو «پارک کپشکن» به معنای موج‌شکن می‌گویند. مساحت پارک ساحلی سورو به ۳۰ هزار متر مربع می‌رسد که ۱۲ هزار متر مربع آن به پوشش گیاهی و فضای سبز اختصاص داده شده است. درختان حرا، نارگیل، خرما، سیکاس، ختمی، گارم زنگی و پلومریا، تنها بخشی از درختان بی‌شمار این بوستان ساحلی هستند. یک مسیر دوچرخه‌سواری هفت هزار متر مربعی هم در پارک ساحلی سورو بندرعباس تدارک دیده شده است که برای رکاب‌زدن در یک صبح زود و یا عصر دل‌انگیز حرف ندارد. مجتمع تفریحی گردشگری سورو در سال ۱۳۹۱ با امکانات رفاهی و تفریحی زیادی در پارک ساحلی سورو افتاح شد که جهت راحتی حال گردشگران امکاناتی؛ همچون آلاچیق، میز و صندلی‌های سنگی، قایق‌سواری، پلاژ اختصاصی بانوان و آقایان، بازارچه، کافه و رستوران، را فراهم آورده است.  ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_dda4ade792b0485f7ec8439b069ebd3cdf3adaa4b602bbadb4e3f6a92666faa2_202204231.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c48c06fd0c0060146058c0feb79b855b655206b512ca8cb49413f003baf4400a_60d0df4908de4284a57bb613927a32f7840x560.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6051a4ca67976ff4e9033894d20ce3bc1d6696dbeb1715512cd9b01c1e2c2889_202204231.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_be6d69a76a0b1efc475c7738176ddbcee6d52631356e3ab0576e2d4a8a2ef25b_202204231.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9d8a20e51d0daae990580563eb6cefe481540a783e1a261eaa600c200344490e_20201123.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7ba9345717e7de1025cfe5000b747bae33233396eea2f17f6a97234ab9d2c536_20220423.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_e8f00d1af10df7f48e44acb9b04347fd9b3b269b9f1f0885cbd55f35f11cb17d_20220517.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_05e31623bacc4aa200a24b76167fa42b56802143fa5e811205998ef9745125a4_202204231.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_51e2b9f43621432c8292815e5e9e614afed2e27156d60d6155b80eca3c8d452b_dsc0879.jpg"
+            }
+          ]
+        },
+        {
+          "id": "639996787e589c8ba094cad1",
+          "short_id": "caed6eec",
+          "slug": "persian-gulf-anthropological-museum-bandarabbas",
+          "name": "موزه مردم شناسی خلیج فارس بندرعباس",
+          "persuading_title": "موزه مردم شناسی خلیج فارس بندرعباس",
+          "content": "بندرعباس پر است از جذابیت‌های ناشناخته؛ از دیدن مناظر زیبای ارتفاعات کوهستانی در شمال این شهر بگیرید تا دریای نیلگون خلیج‌فارس در قسمت جنوبی آن که هر بیننده‌ای را به وجد می‌آورد. جاذبه‌های طبیعی شگفت‌انگیز و آثار تاریخی به‌جامانده از سرگذشت پرفراز و نشیب بندرعباس هر ساله گردشگران ایرانی و خارجی بسیاری را برای بازدید به سوی خود می‌کشاند. اما آن‌چه مسافران را در سفر به بندر بیش از هرچیز دیگری مبهوت خود می‌کند، مهمان‌نوازی مردم و آداب زندگی در این منطقه است. اگر بگوییم مردم بندرعباس فرهنگی دست‌نخورده دارند و مهربانی‌شان زبانزد خاص و عام است، پر بیراه نگفته‎ایم. برای شناخت این فرهنگ غنی کافی‌ست، سری به موزه مردم شناسی خلیج فارس بزنید و از نزدیک آداب و رسوم اهالی بندر را ببینید. این موزه با معماری خاص و سنتی در محوطه تاریخی برکه‌های باران بندرعباس در بلوار پاسداران قرار گرفته است. به محض ورود در طبقه اول موزه، کتابخانه را خواهید دید. بخش هیجان‌انگیز موزه مردم شناسی خلیج فارس اما در طبقه دوم آن قرار دارد، جایی که تاریخ رهایی قلعه هرمز از قید اسارت پرتغالی‌ها و فرهنگ صیادی در بندر روایت می‌شود. اما این‌ها تمام ماجرا نیستند. در همان طبقه اول، بازاری سنتی هم وجود دارد که می‌توانید شیوه دادوستد مردم هرمزگان را در روزگاران قدیم مشاهده کنید. بخش باستان‌شناسی موزه خلیج فارس در طبقه سوم نشان از اهمیت تجاری و سیاسی منطقه هرمزگان در طول دوران مختلف تاریخ است. در این طبقه عصر پارینه سنگی، دوران تاریخی و اسلامی به همراه مجموعه‌ای از سکه‌های قدیمی را می‌بینید. فضاهای شبیه‌سازی‌شده در موزه مردم شناسی خلیج فارس، حال‌وهوای تماشایی مردم جنوب و سبک زندگی‌شان را به خوبی به نمایش گذاشته است. در سفر به بندرعباس فراموش نکنید حتما سری به این موزه بزنید؛ چرا که سفر به بندر بدون آگاهی از سرگذشت‌ شهر و شناخت فرهنگ و ساکنان بومی‌اش هرگز سفر کاملی نخواهد بود. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_22fa44d92c79d8e4b7bfd8204fad3f597d451ceef48970dcc018e229f1373151_1.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_793965607eaebac77f4bf183a8d53a7e086bbda9a6f9283c43adf9df8eb7ac01_2.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9b006db1f65a58301a01d2d2e627511a1e1d3d8bed10e3d872a05e5066ad4a2b_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d4d44448d0a3ec042a200d54edc254f17dad10c40f4434936e9ab85234f7c036_4.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_3e7974bbf393d25cbcc12814e76598e443892fab2d511f7183b45a85f9ef8382_5.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_31414f1fb1e604ccad15b0a67ec1adfd3d43e5515014f6ef0ad29bcc7b7f2d8b_6.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_41fb784b452d44c07b8f5d07344eea5593a9af3c71a03ee476f25c9c12647412_7.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c7f03439b3108a6950bf8da613846db6c29e8607463dc2b6a401aa7891699609_8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_cb44d6c01cb8a4b8d254482c101ebd39bcd145a909056039869532d36c15a742_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "639d934e7e589c8ba094cb20",
+          "short_id": "2e49e8e6",
+          "slug": "kolah-farangi-mansion-bandarabbas",
+          "name": "عمارت کلاه فرنگی بندرعباس",
+          "persuading_title": "عمارت کلاه فرنگی بندرعباس",
+          "content": "زمانی که شاه عباس صفوی موفق شد بندرگمبرون را از پرتغالی‌ها پس بگیرد و نام این شهر به افتخار او به بندرعباس تغییر کرد، کمپانی هند شرقی و هلندی‌ها از شاه ایران اجازه خواستند به منظور گسترش روابط بازگانی خود تجارت‌خانه‌ای را در در این شهر بندری تاسیس کنند. بنابراین، عمارتی باشکوه و وسیع که بعدها با نام عمارت کلاه فرنگی بندرعباس شهرت یافت، ساخته شد. این عمارت با الهام از معماری اروپایی در دو طبقه و با ۱۳۳ اتاق بنا شد. در محوطه عمارت دو حیاط و دو آب‌انبار وجود دارد و تمامی اتاق‌ها با گچ‌بری زیبایی تزیین شدند. سقف آن هشت‌ضعلی و از جنس چوب ساروج است و وسط آن یک گنبد مخروطی‌شکل قرار دارد. به دلیل این‌که این سقف و گنبد شبیه کلاه‌هایی بود که اروپاییان آن زمان بر سر می‌گذاشتند، به عمارت کلاه فرنگی معروف شد. در سال ۱۱۳۷ خورشیدی هلندی‌ها بندرعباس را ترک کردند و این ساختمان به دارالحکومه تغییر کاربری داد که کارهای گمرکی مربوط به آن زمان در آن انجام می‌گرفت. اما این پایان سرنوشت پرپیچ‌و‌خم عمار کلاه فرنگی بندرعباس نیست! ابتدای انقلاب اسلامی اطراف این عمارت به محلی برای فروش میوه و تره‌بار تبدیل و سپس، وقف حوزه علمیه شد. در حال حاضر، این عمارت شکوه‌مند و اصیل با بی‌مهری‌های زیادی مواجه شده و آن‌طور که شایسته یک اثر تاریخی است، از آن نگهداری نمی‌شود. عمارت کلاه فرنگی بندرعباس یکی از قدیمی‌ترین بناهای این شهر است و به‌خاطر ارزش تاریخی آن، در سال ۱۳۸۴ به فهرست آثار ملی ایران اضافه شد. عمارت کلاه فرنگی بندرعباس در نزدیکی آثار به‌یادماندنی دیگری؛ همچون حمام گله داری، مسجد ناصری و اسکله قدیم، قرار گرفته است که بازدید از آن‌ها هم خالی از لطف نخواهد بود. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_73f84f698c7a58600762925a7978af57181438df333ac1dc49a9633e064d1ab9_99b8ee7d521443f0b83f4926ac524c40840x560.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d521a1e38aaaff6f05d187b53afa20f502b2076db75b31eba97a128d7d7642e2_776e68976ed448559a7132615178b27a840x560.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_533b052dc43086dbc954e90c12ecb0e87d3f4f0879759043e7438e9880c11629_22148654df674b07a8440d827db7045a840x560.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_12b0b1fe6d146b3ef85a9f521118054a1c1e331bad309e27c1e4840d9eb4f8c3_61467765.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_3ef11e89af347b4f8a0c6f92bf5126882e2bda09caf9761148aab368a6ec18ee_61467768.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_bc06d832ea2206b362212bf6fc959648b5980bd429c3093306e4a0b90e50fa9a_61467769.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b4c4b66d60cc0ab9d96110e694f6a84c053e3bbcd4678156946f7d3584e4a1ae_1400092017154518724253134.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_900a50c7cbe0add541f4f6f4028e4f9ae2236dbaabf8a9197e301a2bbdf28606_bde3042d5a33431dae4654e19c39916e.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9d2b4f109c01d823e8c980fd02c263de09dabe7631ce2bf6215a28ed1f539d70_c9cc8d9af3cd4d89b72f9e0b88aabe0c840x560.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6d7d416b2f1670beaa381f1ccbe5a466f3fa1fdbf18c56ebd372319764c1873f_screenshot20221215134417chrome.jpg"
+            }
+          ]
+        },
+        {
+          "id": "639dcc901dcd85dda6cfd5b8",
+          "short_id": "52a6cd04",
+          "slug": "suru-ancient-neighborhood-bandarabbas",
+          "name": "محله باستانی سورو",
+          "persuading_title": "محله باستانی سورو بندرعباس",
+          "content": "اگر به محله‌های قدیمی بندرعباس علاقه دارید یا مشتاق هستید با معماری، سبک زندگی و زیرساخت‌های شهری این بندر در گذشته‌های دور آشنا شوید، به سمت محله باستانی سورو بندرعباس حرکت کنید. محله سورو متعلق به سده سوم هجری قمری است. به دلیل وجود سازوکارهای پیشرفته، باستان‌شناسان معتقدند حکومتی شاهانه‌ در سده سوم تا دهم هجری در این بخش از هرمزگان برقرار بوده است. صنعتگران و پیشه‌وران آن روزگار محله باستانی سورو بندرعباس به نوبه‌ خود افرادی حاذق در حرفه‌شان محسوب می‌شدند که در ضراب‌خانه‌ها و کارگاه‌های ریختگری مختص به خود به ضرب سکه، منسوجات طلا و مس مشغول بودند. همه این یافته‌ها اکنون در موزه شهر بندرعباس نگه‌داری می‌شوند. اگر از تاریخچه محله باستانی سورو گذر کنیم، نوبت به معماری و بافت شهری سورو می‌رسد. اولین چیزی که در این محله چشمتان را به خود خیره می‌کند، زیبایی بصری ساختمان‌هاست. همگی یک رنگ و یک‌دست هستند که خبر از پیشرفته‌بودن مهندسی در آن روزگار دارد. نخلستان‌های زیبایی که در سراسر محله سورو پخش شده‌اند؛ از نخل‌های سربه‌فلک‌کشیده حیاط خانه‌ها گرفته تا اجتماعشان در باغات، همگی به زیبایی این محله افزوده است. در طول بازدید از معبرهای محله باستانی سورو بندرعباس، حتما از فروشگاه‌های صنایع‌دستی هم دیدن کنید و خرید نان محلی سورو را از یاد نبرید. بازدید از مسجد جامع سورو و سایر آثار باستانی این محله را هم در لیست گردشگردی‌تان بگنجانید. گفت‌وگو با مردم محلی خودش بخش دیگری از جذابیت این گردش دلنشین است. چه بسا صحبت با آنان شما را با جذابیت‌های دیگر سورو آشنا کند. پس از کمی قدم زدن در این محله، متوجه زیبایی دیگری خواهید شد. مرد و زن، پیر و جوان، خرد و کلان همگی با لباس‌های محلی رنگارنگ در بافت محله باستانی سورو بندرعباس در حال آمدوشد هستند، به‌طوری‌که رنگ لباس‌های محلی‌شان به جذابیت هرچه‌ بیشتر این محله افزوده است. پس از یک روز گشت‌وگذار در سورو، به هنگام غروب سری به ساحل سورو هم بزنید و لذت سفر یک‌روزه خود را به حد کمال برسانید. برای رسیدن به ساحل سورو کافی‌ست از بافت تاریخی محله خارج شوید و پنج دقیقه به پیمایش خود ادامه دهید.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba038972f2e60a8f9785f93c1702ed489eceab6bf6ab236794e77f917b079f95_2.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_24880acd4151de9b8fd59a01926823a432ca49d4c15b7154eb411aa42b85d3a9_522.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_584cbcd6a7f076c139fcbcdccbaf5ad63a0d2435ba7a29dcf78b29e31fcfd4d3_617.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_f1ce8ed3356cd12ae0a65b86a5b989c6d28581344875bf49f1ed53dbe1769259_878.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_570a4fb03760c3d08c08e47a1dd46a743e0a596a5618afeb3dfb155c677e0433_1222a62c2b5644acaca88cae4ef2b82f840x560.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d084a7562a1ad8be196dbcff8c0f4e646b26566dbca5f2b0fb834894307d1979_8975.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_97392dfd19bf521c594350c36a8cb87010014bfb07f6e7bb55f0ee4c7040d518_58258.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_8f219e4de0d66c7848f377be59ab0a6fd6bc16a3c16d5ea423f92c8f58fe571b_269852.jpg"
+            }
+          ]
+        }
+      ],
+      "phrase": "ساحل آرامش"
+    },
+    {
+      "category": {
+        "id": "612b815e2d28e7b40b49ae84",
+        "short_id": "1c4e6b81",
+        "parent_id": "",
+        "slug": "food",
+        "name": "خورد و خوراک",
+        "icon": {
+          "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8a1 1 0 011 1v.102A5.01 5.01 0 0120.898 13H24a1 1 0 110 2h-7v8a1 1 0 11-2 0v-8H8a1 1 0 110-2h3.102A5.01 5.01 0 0115 9.102V9a1 1 0 011-1zm13.008 1l.116.008a1 1 0 01.868 1.116L29 18.061V23a1 1 0 11-2 0v-1h-4.524l-.547 1.371a1 1 0 01-1.858-.742l2-5a1 1 0 01.93-.629h4.116l.891-7.124a1.004 1.004 0 011.116-.868l-.116-.007zm-26.132.008a.998.998 0 011.116.868L4.882 17H9a1 1 0 01.929.629l2 5a1 1 0 01-1.857.742L9.524 22H5v1a1 1 0 11-2 0v-4.938l-.992-7.938a1 1 0 01.868-1.116z\"/>\n</svg>\n",
+          "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7edf6fd46dc4d08fe2af0a408a339ee1a951ccbca1124ce9c076127ef59ca884_original.png"
+        },
+        "default_phrase": "خورد و خوراک"
+      },
+      "promoted_pois": [
+        {
+          "id": "637a16159497b6d8ea2596bd",
+          "short_id": "8ea15356",
+          "slug": "bandar-seafood-restaurant-bandarabbas",
+          "name": "رستوران بندر",
+          "persuading_title": "رستوران بندر بندرعباس",
+          "content": "تجربه سفر به بندرعباس بدون شکم‌گردی بدون شک چیزی کم خواهد داشت. انواع غذای دریایی، ادویه‌‌های مخصوص، ترشیجات، انواع سبزی جنوبی و غذاهای محلی تنها بخشی از  تجربه شکم‌گردی شما در بندرعباس خواهند بود. یکی از فرصت‌های مناسب امتحان کردن ماهی و میگوی طبخ‌شده به سبک محلی استان هرمزگان رستوران بندر بندرعباس است. در رستوران دریایی بندر فرصت تجربه غذاهای دریایی جنوب برای شما مهیاست. برای صرف غذاهای دریایی رستوران بندر را می‌توانید با خیال راحت وارد لیست انتخاب‌هایتان کنید. گاهی طعم بی‌نظیر یک غذا که در سفر تجربه کرده‌اید تا همیشه در خاطرتان ثبت‌وضبط می‌شود و حتی در سفری دوباره به آن شهر مایل هستید باز هم به آنجا مراجعه کنید و خاطره‌ را از نو تجدید کنید. رستوران دریایی بندر هم دقیقا همینطور است. در این رستوران هر سفارشی داشته باشید، یک کاسه قلیه‌ماهی بندری در کنار ظرف غذایتان سرو می‌شود. قیمت مناسب و رضایت از طعم و تازگی غذا همان چیزیست که رضایت خاطر شما را فراهم می‌آورد. این رستوران یکی از قدیمی‌ترین و با سابقه‌ترین رستوران‌های بندرعباس است که طبخ ماهی و میگوی صید روز سبب شهرت آن شده است. منوی غذا انواع خوراک ماهی و میگوی کبابی و سرخ‌شده در کنار برنج ایرانی و ترشی مخصوص بندری را شامل می‌شود. رستوران بندر بندرعباس بهشت هواداران غذاهای دریایی به حساب می‌آید که می‌توانید رفتن به آنجا را در لیست بایدهای سفرتان بگنجانید.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9bb119354e72708a764071ad77864d9c7ffcb29971ea8cf16fb9132a98e6dfa8_2fed2e66d8cf42989215bd79c39dad97.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_41b9338d5fb3fea167cd45045474fc828f97c664afce33f788c61e857936b8a2_5y17PDK3a6lEE9c6IHCCheMZDb4tlLYml2LJyCdK.jpeg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d65e3bbc6eb9250ec2ec7d5dffe4e6663c834e43509cfb395a0529e93d849706_7c241924ca58412aa3839f94dd4fbd1d.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0e30eae6c3d7fe78b980d999fded6bd7f3b8806e77df656cbf4c022bc26bc6d7_560a3c2c27084c3e9e71090d10e95e6f.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c7e7ece8ef3b2106aec957d301d6ced1198927ede3c89697d3fb6423897f41ee_605EcBlmbS7DsDy7i5nUj7ZrR6IqKqEqm5hRJA0C.jpeg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_418d2acc4bc58b98e1a0d1091a8460484296d0226a436c1cb81c613800576eac_B4r8kdOmtPOO3P6DlybzHCV4Cj4DdJfm2sIroZTt.jpeg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_678155d4ce3d72734724de557fb61c4ef0259e5c8136418073e2c99a9fd39875_ekn76JDLLU3ltYSFdK8dzSLzZeOUJSNfOJuF1VIS.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fbaf9c9e30e9b1b7a3559eed1aaf35edb8f975db9caa45452733a93b4286781e_F5qzhAyACfmEvnp4ZZ0CzOxGJswERNCcX85tj9AC.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9b015a838019b2904fc2f4e8257865ae7d90fb09082df8dd562c34b975538367_iBkCLc9PYgpWHtPu6u36BHL04mVEyGRoyEoh2TfN.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_73f340bb0f019680227629175ff4e21483e528931e8ecf72290953ecea7736d7_pAhOs3PH7AOOCuRYQvbuQxiMw9OE45VxvraufBUo.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "637b4a4a9497b6d8ea2596da",
+          "short_id": "f9d82b5c",
+          "slug": "fanoos-restaurant-bandarabbas",
+          "name": "رستوران فانوس",
+          "persuading_title": "رستوران فانوس بندرعباس",
+          "content": "مگر می‌شود سفر به بندرعباس با وجود آبی خلیج فارس و مردمان خون‌گرمش بد بگذرد؟ به خصوص این که شکم‌گردی در بندرعباس یکی از مهم‌ترین قسمت‌های هیجان‌انگیز این سفر  محسوب می‌شود. اگر در طول گشت‌وگذار در مرکز شهر به دنبال مکانی مناسب برای صرف غذا هستید، روی رستوران فانوس بندرعباس حساب کنید. بعد از خرید، گردش و تفریح در شهر، چه انتخابی بهتر از رفع خستگی همراه با خوردن غذایی لذیذ در کنار فرصتی برای گپ زدن با همسفران. در رستوران فانوس همواره به روی مهمانانش باز است و چراغش پرفروغ. درست است که فضای داخلی رستوران برای صرف غذا به خوبی برای مشتریان تدارک دیده شده، اما از فرصت نشستن در فضای آزاد رستوران به شرط هوای خوب پاییز و زمستان بندر نباید به این راحتی‌ها گذشت. اگر با ماشین شخصی خودتان به رستوران می‌روید، نگرانی از بابت جای پارک نداشته باشید؛ پارکینگ اختصاصی رستوران برای مشتریان در نظر گرفته شده است. انواع غذای دریایی، محلی، فست‌فود و ایرانی در رستوران فانوس بندرعباس تهیه و طبخ می‌شود و دست شما برای انتخاب باز است. اگر گذرتان به این رستوران افتاد، حتما کباب مصری با سس مخصوص را امتحان کنید که از چشیدن طعم آن پشیمان نخواهید شد. رستوران فانوس از نظر موقعیت مکانی فاصله کمی تا بازار قدیمی بندرعباس، مراکز‌خرید و اسکله بندر دارد. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_beafe3547cc56ec4217cd7b3a6a7d7ab1dcecf76b3f0c9f162072194fbb2cde0_201902101.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_8f89295280bb29ed603973f19417ada7fee4e62749d5ee8877dd53c73e41d043_20190210.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_caf01f7a9adffb5c68670ca700f3e9f471488bb2741e2c8ca91f3c9ca9445f42_202002124.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7b43f24bc08855139010cbc00567506f94384b83ffcb9beacdb146751bbcd1c9_20210322.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d0d09bc19b59f4cfafbccbee0ecae16bc210dd0491e2f96d7ca834d9842a885e_20170922193207.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9652aa356e1afbe6708a25511505a49532095522d052eec1827b081282ab7c7e_DSC0207.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_f39106376edc24837e0c556f3e8a7b2173178ddeb0f9a218df9595bf6c751c0d_IMG1033.jpg"
+            }
+          ]
+        },
+        {
+          "id": "637b5bf99497b6d8ea2596db",
+          "short_id": "6450d808",
+          "slug": "emperatour-restaurant-bandarabbas",
+          "name": "رستوران امپراطور",
+          "persuading_title": "رستوران امپراطور بندرعباس",
+          "content": "بهترین رستوران شهر بندرعباس کجاست؟ اگر جزو رستوران‌گردهای حرفه‌ای باشید که در هر سفر رفتن به بهترین رستوران‌های شهر یکی از بایدهای برنامه گردش‌گری‌ شماست، احتمالا پیش از سفر زمانی را به دنبال پاسخ این سوال در شبکه‌های اجتماعی و وب‌سایت‌ها به مطالعه نظرات کاربران اختصاص دهید. اگر از اهالی خود بندر بپرسید، حتما یکی از رستوران‌هایی که به شما معرفی خواهند کرد، رستوران امپراطور بندرعباس است. چه علاقه‌مند به غذاهای فرنگی باشید، چه طرفدار غذای ایرانی، دست شما برای انتخاب باز است. غیر از آن، فضای باز حیاط رستوران می‌تواند تجربه‌ای لذت‌بخش از هوای تازه به همراه اجرای موسیقی زنده را در شب برایتان رقم بزند. فرقی ندارد که با دوستان و خانواده به رستوران می‌روید یا قرار کاری مهمی را برنامه‌ریزی کرده‌اید؛ در هر صورت، می‌توانید مطمئن باشید که رفتن به این رستوران انتخاب درستی بوده است. اما درباره غذاهای امپراطور: انواع کباب‌ و غذای سنتی ایرانی، فست‌فود و سایر غذاهای فرنگی در این رستوران سرو می‌شود. غیر از آن، مگر می‌شود به بندرعباس سفر کرد و به سراغ غذاهای دریایی جنوب نرفت؟ اگر شما هم از طرفداران امتحان کردن غذاهای محلی و غذاهای دریایی هستید، طعم لذیذ قلیه‌ماهی جنوب را که در رستوران امپراطور بندرعباس تهیه و طبخ می‌شود از دست ندهید. ناگفته نماند سالادها و دسرهای خوشمزه میز اردور را هم حتما امتحان کنید. علاوه بر آن، در بخش کافی‌شاپ رستوران و سفره‌خانه سنتی امپراطور قهوه‌های عربی خوشمزه‌ای سرو می‌شود که بعد از غذا نوشیدن یک لیوان از آن خالی از لطف نیست. در نظر داشته باشید که قیمت غذاها در رستوران امپراطور بالاست، اما بعید است کیفیت خوب غذاها رضایت خاطر شما را فراهم نکند.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5cc16e346278f247eec65f082ef71bb7cef990dfcbe61dd9ca823e9708c5b3d4_4a0ce5e6ef0549f5bd193f39b308906f.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c6bda33374fad27a3f1e9b167ac16da13299ee95b36882ecebb0e05edeb4eb83_201612303.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_59f39c6c813a46d6b3d2829cdeff058991f392ddbc7380a1d37e3e4b3368da6e_201710212.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9f39fa4b34961bdd3013eba30f43f672a0f8f4d7867cd527afd317ded4f2a817_201712182.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9820653b2e4993bec442c51b768dd53113a0446cd07d1187fa0d2b519dad2f0e_20171218.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7083fafb0b6bf9dcfc9c47327cffd8d5157a9c8a67bbc0f008ea47387271f270_20180109.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5fb823c524509e97321e2690fd62bfff91cd1a1067f675688b716dd982d1dcd0_photo20170801204027.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ae4ec3095bb91d54b4e9c8f39a4f969e2034db286b750da48abeae54688bbaef_photo20221118231136.jpg"
+            }
+          ]
+        },
+        {
+          "id": "6385aa02b7f7b21f7facb122",
+          "short_id": "74148257",
+          "slug": "badgiran-restaurant-bandarabbas",
+          "name": "رستوران بادگیران",
+          "persuading_title": "رستوران بادگیران بندرعباس",
+          "content": "وجود بوته‌های گل‌ کاغذی، درختان نخل، چرخ‌آب، مجسمه‌ فانوس دریایی، فواره‌های کوچک آب، در کنار غذاهای دریایی و محلی که با ادویه‌های خوش‌عطر جنوبی آماده می‌شوند و نانی که به دستان مردم بومی منطقه پخته می‌شود، همگی رستوران بادگیران بندرعباس را نه تنها جایی برای صرف وعده غذای باکیفیت، بلکه فضایی بسیار زیبا برای استراحت و گردش بدل کرده است. انتخاب نام «بادگیران» برای این رستوران و به کار بردن تعدادی سازه‌ بادگیر در طراحی فضایش الهام‌گرفته‌شده از معماری بومی هرمزگان است؛ از گذشته‌های دور، بادگیرها نقش بزرگی در خنک کردن بناهای هرمزگان داشته‌اند و نمادی مهم از معماری بومی هرمزگان بوده‌اند. در منوی رستوران بادگیران بندرعباس علاوه بر غذاهای دریایی و محلی جنوبی که بسیار پرطرفدار هستند، انواع کباب، برگر و پیتزا هم وجود دارند. همچنین منویی جداگانه برای کافی‌شاپ و قلیان در نظر گرفته شده است و علاوه بر آن، چند غذای گیاهی مناسب گیاهخواران (وجترین) مثل: کشک بادمجان و میرزاقاسمی در منوی پیش‌غذا تدارک دیده شده است. اگر طرفدار محیطی نسبتا آرام هستید، می‌توانید در ساعات سرو ناهار به بادگیران بروید و غذایتان را در میان بادگیرها و یا آلاچیق‌هایی که در همجواری آب‌نما ساخته شده‌اند میل کنید. به این ترتیب، صدای فواره‌های کوچک آب، حس حضور در ساحل خلیج فارس را برای شما تداعی می‌کند. اگر هم برای صرف شام به رستوران بادگیران بندرعباس می‌روید، می‌توانید از موسیقی زنده که شب‌ها اجرا می‌شود، بهره‌مند شوید. در رستوران بادگیران، نگران شرجی بودن هوا هم نباشید؛ تمام بادگیرها و آلاچیق‌ها به سیستم سرمایشی (و گرمایشی برای فصول سرد) مجهز هستند تا هوا را برایتان تعدیل کنند. فاصله این مکان تا مرکز شهر بندرعباس کمتر از پانزده دقیقه است. فرقی ندارد که انتخاب شما صرف ناهار یا شام باشد، وقت گذراندن در این رستوران هم در روز و هم در شب تجربه جذابی را برایتان رقم خواهد زد.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0ad93d02efe043f30606686731f4dd29c2e2cb639fb52902bb61efe36f31ac92_1.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c3bf86801e739aa59786685aa22c4dda7ca631abf6a9d065f4173c7973116a16_2.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5a604668587a5d6efaffbe694d0bf216a43e9d04a143b448362fb011522924db_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c8e6f743514c788e3fd3b183e04d25341bb2f0adf37b1536c8a127ecd65f1b88_4.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ce834f385d66a103cee5b29608a044a533d784cad96e424679e6f4eaf9b0da7d_5.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4110dc4f8773515befbaa1d0ab23af8420e6f888e72be2ee2b7cd840be301477_6.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_14331475e8aed9596f085d7e6bfc8b1689d42585e21fda0acf573053a2619a4d_7.jpeg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_8e7c7211104b2c2bab63e0dfa4f7684069343d4e1c3ca89f4f35d17ee70058cd_8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_34f57464dc79dc65e4a9ec3184c0debf9055f89755945fd2233b86ab8ec6ea0a_9.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9e60573ff01e735cb0258b835262305db78d38916aa914a285dd73c68f0537ae_10.jpg"
+            }
+          ]
+        },
+        {
+          "id": "638c9459abe8b9b9769130ea",
+          "short_id": "a103809b",
+          "slug": "samco-seafood-restaurant-bandarabbas",
+          "name": "رستوران دریایی سامکو",
+          "persuading_title": "رستوران دریایی سامکو بندرعباس",
+          "content": "شهر بندرعباس یکی از محبوب‌ترین شهرهای ساحلی برای گردشگران به شمار می‌رود. بی‌تردید یکی از جاذبه‌های سفر به استان‌های جنوبی کشور، غذاهای دریایی‌اند و کمتر کسی بدون سر زدن به رستوران‌های محلی که تقریبا در همه‌جای شهر هستند، ماجراجویی و سفر به بندرعباس را تمام می‌کند. رستوران دریایی سامکو بندرعباس یکی از مقاصد بسیار خوب برای آن‌هایی‌ست که می‌خواهند طعم واقعی غذاهای دریایی جنوب را بچشند. این رستوان با محیطی ساده و دلنشین در بلوار امام حسین بندرعباس واقع شده است و منویی پر و پیمان از غذاهای دریایی و محلی دارد. البته، منوی رستوران سامکو تنها محدود به غذاهای دریایی و حتی محلی نبوده و در این لیست انواع غذای ایرانی، پیتزا و ساندویچ‌های دریایی، مرغ و گوشت هم وجود دارد. پس، دست شما با هر سلیقه‌ای که باشید برای سفارش باز است. از جمله غذاهای رستوران دریایی سامکو بندرعباس می‌توان به قلیه ماهی، کاری ماهی و میگو و پیتزا دریایی سامکو اشاره کرد. تمام سفارشات در این ستوران با رعایت کامل اصول بهداشتی تهیه می‌شوند و خبری هم از غذای مانده و یخ‌زده نیست. سامکو با یک سالن سنتی در طبقه اول و یک سالن وی‌آی‌پی (VIP) در طبقه دوم، پذیرای مهمانان است. در سالن طبقه اول، همه چیز صاف و ساده است. میز و نیمکت‌های چوبی در کنار دیوارهای چوبی و تورهای ماهی‌گیری، فضایی شبیه به سالن غذاخوری کشتی‌های بندری را تداعی می‌کند؛ محیطی صمیمانه، مناسب برای جمع‌های خانوادگی و قرارهای دوستانه. اما اگر قصد برگزاری جشن و مراسم را دارید یا به دنبال رستوران مناسبی برای قرارهای کاری می‌گردید، حتما به سالن وی‌آی‌پی طبقه دوم  رستوران دریایی سامکو بندرعباس سر بزنید. سامکو فاصله بسیار کمی با بوستان جنگلی خلیج فارس دارد. حتی می‌توانید با پنج دقیقه پیاده‌روی در بافت بندرعباس، گشت‌وگذار خود را منتهی به پشت میزهایی پر از غذاهای خوش‌عطر و طعم دریایی کنید؛ البته امکان سفارش آنلاین و ارسال رایگان هم برای شما فراهم است.\n\n",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_63aad8c90ebcb019c76e9c68d29231e7548c1e9ce0073ee33f3f9ee2aeb48a13_645912984.png"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ebf8ce2a5072d67dd33b5bcca3683508565036797a6e066a022ed86f5d6a0d53_645912985.png"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c87468147f9f55029da504876c5cac22a4dbc3f6a82104d86ec1b97b05331ac3_IMG3869.png"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4843fa97c9215e6c6830e237580a52090e93dd7a94d692aab1ebe3762e778ee5_IMG3871.png"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d8729c517310a7730a31915fab8d732cf87fbbba5f05ba593dfb283ae60a0710_IMG3864.png"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c1b0e8e78cfede6c304eb65bf80ae25f9fb6944bec0bbb743e6d2fb6501d4a9f_IMG3868.png"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_881784bd4a85cf612d6f4747e33a3ed16a7b733db080d01b55b4f81f4c881162_IMG3873.png"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_b2c580eaeebfe0d37c1a9d291322d8a4679c711aef576af15f89051efd230e49_IMG3865.png"
+            }
+          ]
+        },
+        {
+          "id": "63999d01f35f2b740b8642e8",
+          "short_id": "f9273dbc",
+          "slug": "dariush-restaurant-bandarabbas",
+          "name": "رستوران داریوش",
+          "persuading_title": "رستوران داریوش بندرعباس",
+          "content": "سفر به بندرعباس با رستوران‌گردی و خوردن غذاهای جنوبی لذت بیشتری هم دارد. در بین رستوران‌های این شهر ساحلی، رستوران داریوش بندرعباس یکی از پرطرفدارترین‌ آن‌هاست. در این رستوران که فضایی سنتی و در عین حال، گرم و صمیمی دارد، نه‌تنها غذایی خوشمزه و با کیفیت میل خواهید کرد، بلکه از زیبایی فضا هم لذت خواهید برد. استفاده از تخت‌های چوبی، ظرف‌های سفالی و دکوری از اشیای تاریخی حس غذاخوردن را برای مشتریان متفاوت کرده است. همین‌طور، دیوارهای رستوران با مجموعه‌ای از عکس‌های قدیمی بندر تزیین شده‌اند که میهمانان می‌توانند بعد از غذاخوردن  از آن‌ها دیدن کنند. فضای بزرگ رستوران مناسب برگزاری جشن‌ها و دورهمی‌های شماست. کارکنان رستوران داریوش بندرعباس با منویی از غذاهای محلی جنوبی و ایرانی ورود شما را خوشامد می‌گویند و بعد از سفارش، در کمترین زمان غذایتان را آماده و آن‌ها را با تزیینی زیبا سرو می‌کنند. به گفته مشتری‌های پروپاقرص رستوران داریوش بندرعباس، کباب‌ها آن قدر خوشمزه‌اند که تا مدت‌ها طعمشان در خاطرتان خواهد ماند. رستوران در بزرگراه شهید رجایی بندرعباس در نزدیکی هتل داریوش واقع شده است. اگر قصد دارید تا با خودروی شخصی‌تان به اینجا بیایید، نگران جای پارک نباشید. داشتن پارکینگ اختصاصی از خوبی‌های رستوران داریوش بندرعباس است که خیالتان را از بابت جای پارک راحت می‌کند. خبر خوب دیگر این که فاصله این رستوران تا ساحل خلیح‌فارس چند قدم بیشتر نیست. چه چیز بهتر از این که بعد از صرف یک غذای خوش‌طعم و عالی در ساحل شنی جنوب کمی پیاده‌روی کنید و از صدای امواج لذت ببرید. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_3cc4238539546864632d322f03fd5d24106f0d3a7da207748596b00caa5eca1d_1.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9bbe307fa0edc9c10f1ace7de63afd47d940f7838cae9e74798f3547433dd426_2.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_d5fe3955ccfa7ac2c5689d1c5ac39eb0b476a690abb131af1e543a337b16d8a9_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_805cc740af832c539d27e51c8062d8e1de1cecda07c8aa945ae8348d88c646b8_4.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_8d8c7a19a83ec9f8382142a065ef540bc8892d335fd43ee64da35084bccd1f08_5.jpeg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_17869ae120fae033efece89134d81d6cdd9f1dbeabb0e06571c9e097e7fc1999_6.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_a0d0c62cdaff451df712e08f11b5b3ca8ebde6cd85b1ba898fbbf8169167380a_7.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_2fd1a88e69843841b4d11f32eafdd2439a058f893cf50c9e969b41b505ed3655_8.jpeg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_800f759de83e861c0953fb52ada9675db4294c768216cec493d86c93d373468a_9.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4f18d1bb226c80d72b6f4efd07aaa258b1825e9dd2d6e985d1fd4b5925856fa9_10.jpg"
+            }
+          ]
+        },
+        {
+          "id": "63c512d4d504989e56ee62c3",
+          "short_id": "2670323a",
+          "slug": "macklly-icecream-bandarabbas",
+          "name": "بستنی مکلی  ",
+          "persuading_title": "بستنی مکلی بندرعباس",
+          "content": "هیچ‌چیز بیشتر از یک بستنی خوشمزه نمی‌تواند شب‌های گرم بندرعباس را دلچسب و خنک کند. بستنی مکلی بندرعباس با تنوع خوراکی‌هایی که در منوی خود دارد، کاری می‌کند تا هربار که به بلوار دانشگاه می‌روید سری هم به آنجا بزنید. این بستنی فروشی، بستنی ژلاتوهایش را با عسل شیرین می‌کند و در آنجا از شیرین‌کننده‌های مصنوعی خبری نیست. علاوه بر چندین طعم ژلاتو، انواع شیک، نوشیدنی‌های سرد و نوشیدنی‌های ترکیبی فصلی را هم می‌توانید سفارش دهید. بستنی مکلی بندرعباس نوشیدنی‌های گرم؛ مثل: انواع قهوه و هات چاکلت، را هم در منو دارد. بد نیست یکی از آیتم‌های ویژه منوی بستنی؛ یعنی بستنی با وافل، را هم امتحان کنید. وافل‌های این بستنی‌فروشی به‌خاطر ترکیب مخصوصی که دارند، در میان مشتری‌ها بسیار محبوب هستند. بستنی مکلی بندرعباس هم در داخل سالن جای نشستن دارد و هم در پیاده‌رو. درنظر داشته باشید که در ساعت‌های شلوغ روز، ممکن است مجبور باشید برای نشستن در داخل سالن کمی منتظر بمانید. قیمت‌های بستنی مکلی بندرعباس با توجه به کیفیتی که ارائه می‌دهند، منصفانه است. بوستان هویزه، پارک سبزینه و پارک کاکتوس در نزدیکی این بستنی‌فروشی هستند و بد نیست در مسیر رفتن به پارک، سری هم به بستنی‌فروشی بزنید. اگر با خودروی شخصی‌تان سفر کرده‌اید و می‌خواهید خود را به بستنی مکلی بندرعباس برسانید، مسیر راحتی را پیش‌رو خواهید داشت. ضمن این‌که تا خط ساحلی، پارک دولت و پارک غدیر هم راهی نیست. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0ca7c191adf81a9f589c0ced8cb92d6e74013b0ca3f78ee11d268b10a3f31778_snapinsta.app1080570643301226130689205828166273295965564082n.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6267a63cf79908d196f49bb1a6002f0e3c168a265f5443a2a90f3632bf046733_snapinsta.app10806036897920889667712252012542378810478366662n.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4a70a0e9ddc269a0cbc1c1f7cde41264c384f7521cb9ce5bf4e90afb0af453ed_snapinsta.app10801175544223783913464638212421263612775313796n.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1c5a166e96349b727ca84d29ce3c7040052074cb35de448c53508571cffef84b_snapinsta.app108024462522465737479026501994035926977828576732n.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0e736a4f72a8571d5606ce890a5d944a87d8042a6c901c623f77d65766bc425d_snapinsta.app10802805777361551572836825075669600614270805353n.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1674190317e15dbd860580e3836dfef466ae98c7927da0184ddeef574e12ba56_snapinsta.app1080283962952724383942323813614282248481703800n.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1424c28875f499478f1b0ec3cfccc390f00aaed5c2bb4fc7cfb4b0a836863a23_snapinsta.app108031173364013179701656079564598609377706164200n.jpg"
+            }
+          ]
+        }
+      ],
+      "phrase": "غذای اصیل جنوب"
+    },
+    {
+      "category": {
+        "id": "612b815e2d28e7b40b49aeb4",
+        "short_id": "8e6a4f28",
+        "parent_id": "",
+        "slug": "shopping",
+        "name": "بازار و خرید",
+        "icon": {
+          "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M24 20h-1v-3c0-1.103-.897-2-2-2h-3c-1.103 0-2 .897-2 2v3H8v-6.025a3.718 3.718 0 002.5-1.173A3.726 3.726 0 0013.25 14 3.726 3.726 0 0016 12.802 3.726 3.726 0 0018.75 14a3.726 3.726 0 002.75-1.198 3.718 3.718 0 002.5 1.173V20zm-6 0h3v-3h-3v3zm.5 5h-5a1 1 0 110-2h5a1 1 0 110 2zm6.3-20.6A1 1 0 0024 4H8a1 1 0 00-.8.4C6.238 5.683 4 8.82 4 10.25c0 1.433.817 2.665 2 3.296V25c0 1.654 1.346 3 3 3h14c1.654 0 3-1.346 3-3V13.546c1.184-.631 2-1.863 2-3.296 0-1.43-2.238-4.567-3.2-5.85z\"/>\n</svg>\n",
+          "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/e8e5ccd5cdee6dd856b2ec8f909c44b166fc4dcfb10d250daffbb3fc73a937ee_original.png"
+        },
+        "default_phrase": "بازار و خرید"
+      },
+      "promoted_pois": [
+        {
+          "id": "6370a2ce7610a578c0fbe910",
+          "short_id": "1f5d5762",
+          "slug": "south-star-shopping-mall-bandarabbas",
+          "name": "مجتمع تجاری ستاره جنوب",
+          "persuading_title": "مجتمع تجاری ستاره جنوب بندرعباس",
+          "content": "در سفر به بزرگ‌ترین بندر ایران در دل استان هرمزگان جایی که از مهمترین قطب‌های اقتصادی جنوب محسوب می‌شود، بازدید از بازار‌ها و مراکز خرید بخشی از لذت سفر خواهد بود. مجتمع تجاری ستاره جنوب بندرعباس یکی از معروف‌‌‌ترین مراکز تجاری این شهر است که بازدید از آن در طول سفر خالی از لطف نیست. این مرکز خرید مدرن در چندین طبقه نزدیک به ساحل بندرعباس قرار گرفته است که از زیورآالات تا اسباب و لوازم خانه در آن پیدا می‌شود. این مجتمع تجاری علاوه بر مکانی مناسب برای خرید، امکان تفریح را هم برای شما و به ویژه، برای کودکانتان، فراهم آورده است. طبقه سوم مجتمع تجاری ستاره جنوب به تفریح و سرگرمی اختصاص دارد که از پیر و جوان، کودک و بزرگسال، می‌توانند بسته به علاقه‌شان اسباب سرگرمی خود را پیدا کنند. اگر اهل تماشای فیلم هستید، سینمایی هم در مجتمع وجود دارد. سینما به ویژه برای آن دسته از همراهان شما که چندان حوصله گشت‌وگذار در مراکز خرید را ندارند، گزینه بسیار مناسبی است. چه بعد از خریدی حسابی، چه بعد از تفریح ،بالاخره صحبت از غذا می‌شود! رستوران سنتی مجتمع تجاری ستاره جنوب بندرعباس با منظره‌ای رو به دریا در کنار غذاهای خوش‌طعمش لذت تجربه یک روز به‌یادماندنی را برای شما فراهم آورده است. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_51acfdc686598bf4b642775769fd71bb306e646453a71c960a3592c17b80707c_20180324.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_cc7c39bd37478f20745df82956432f7bb720e80cb78130940facbbe883276cc8_20190126.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6f6536dc241d79bf7f443f92ede11d543841b44be2a928b36929e73db1f8df69_20191030.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ccc5735ea50227c1ab3763fb7b1ac3479cf4ee8896c5c95b488b6b332bf5adee_20210715.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_faa2807ce37659096eccf1ce7f4478ec2528e80f9fbbeb638138d38799b43dea_20170514203037.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_17a5f3efd469320e80787428582d7e0157ea69e7788eb4cfed1c2b470226b688_IMAG3126.jpg"
+            }
+          ]
+        },
+        {
+          "id": "63738211d3e2dfae8cb039c5",
+          "short_id": "1bb72cd8",
+          "slug": "city-center-mall-bandarabbas",
+          "name": "مرکز خرید سیتی سنتر",
+          "persuading_title": "مرکز خرید سیتی سنتر بندرعباس",
+          "content": "همیشه خرید کردن یکی از تفریحات موردعلاقه گردشگران، به ویژه در شهرهای بندری بوده است. مرکز خرید سیتی‌سنتر بندرعباس یکی از محبوب‌ترین مراکز خرید بندرعباس است. این مجموعه که با نام بازار مرکزی بندرعباس هم شناخته می‌شود، در سال 1384 با بیش از 500 غرفه در فضایی به مساحت 4500 مترمربع به عنوان یکی از بزرگ‌‌ترین مراکز تجاری و خدماتی افتتاح شد. در این مرکز خرید سه طبقه اجناس متنوعی از جمله: پوشاک بانوان و آقایان، موبایل، لوازم آرایشی و بهداشتی و لوازم ‌خانگی عرضه می‌شود. اگر بعد از بازارگردی در طبقات مختلف نیاز به استراحت داشتید، می‌توانید به رستوران یا کافی‌شاپ مجموعه بروید و با صرف غذا و یا نوشیدنی دلخواهتان رفع خستگی کنید. اگر هم کودکتان با شما در این خرید همراه است، می‌توانید از فضای بازی مخصوص کودکان استفاده کنید تا با خیال راحت به گشت‌وگذار در سیتی سنتر بپردازید. موقعیت مکانی مناسب مرکز خرید سیتی‌سنتر بندرعباس دسترسی به جاذبه‌هایی مانند: معبد هندو‌ها، رستوران فانوس، هتل ایران و مجتمع تجاری ستاره جنوب را برای شما فراهم می‌کند. غیر از آن، هم‌صحبتی با  فروشندگان خون‌گرم جنوبی با گویش زیبای بندری تجربه‌ای به‌یادماندنی برای شما رقم می‌زند.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0f50c7aa5566693b342337cd4042101643d503f7d3203c793788f99b4c26bcfe_20170108.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5057ae008b1f1efce3923b7bc0db6f2fe1e53f61a0b1f856f3d63ab2b448eae3_20171012.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4359f69b65d18c9b5241ae3699483407046b44ea27f0bf85640d90e302124ed3_20180216.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_52bb308306c8c7881d336c7cf0daf5f4e5d00a785b404a4fbee761d7de00630a_20180311.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c897c7f88af69b2443df5cb77e5d1b59c8ea2cb199998c14408d2c8cc7afe935_20180328.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_273ff57519ef4fadd4f91a62c32fa64a8c808cb143bf7f1f55799456630a83fa_20180514.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ac695ac76e543fa35057eff8922997efaa30616b76a26a3bd0caf4701d4845d6_IMAG3260.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_39db0a2c0afcf23320a07160d58f45984327915f3cb3aaaad1f2c7ed3f2a42dc_IMAG3264.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5c1175be90afb465be909103b63b606f72c0b420dc89922f6f20e3294c70ebe8_IMG.jpg"
+            }
+          ]
+        },
+        {
+          "id": "6374e3ff420df632c9069e5f",
+          "short_id": "7e69c4de",
+          "slug": "nili-shopping-mall-bandarabbas",
+          "name": "مرکز تجاری نیلی",
+          "persuading_title": "مرکز تجاری نیلی بندرعباس",
+          "content": "بندرعباس شهری ساحلی است که هر ساله گردشگران زیادی را در فصل‌های پاییز و زمستان با هدف خرید اجناس با قیمت مناسب به سمت خود می‌کشاند. برای داشتن تجربه خریدی دلچسب در این شهر بندری باید به مرکز شهر و بازارهای آن سر بزنید. مرکز تجاری نیلی بندرعباس یکی از این مجتمع‌های تجاری مدرن و زیبا در قلب بازار است و دقیقا در کنار مرکز خرید ستاره جنوب قرار داشته و به بازار سنتی بندرعباس هم بسیار نزدیک است. به‌علاوه، این پاساژ فاصله چندانی با سایر جاذبه‌های گردشگری شهر مانند: امامزاده شاه محمد تقی، معبد هندوها، مسجد ناصری و حمام گپ ندارد و می‌توان در یک روز از چند جاذبه و مرکز خرید دیدن کرد. با وجود نورپردازی زیبا در شب، این مرکز خرید در شب نمای بسیار زیبایی دارد و از دور نورپردازی آبی‌رنگ آن جلب توجه می‌کند. تنوع کالاهای عرضه‌شده در مرکز تجاری نیلی بندرعباس همچون سایر مراکز خرید شهر زیاد است. می‌توانید انواع لوازم خانگی، پوشاک، لوازم آرایشی و بهداشتی، عطر و ادکلن را با تنوع بالا و قیمت مناسب در این مرکز خرید پیدا کرد. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_96a5ef9b9d2db8b6c010b044481b7862a4339a4a5b362fc674cf397993335d37_20190513.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_83fd6505324deef7bf87533cad13e1476dcf2ffe775e0ab3db4714a8a1b02a77_20190724.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5042a108656d6c156944ca0f0aa742995603ec6273f29321671df08a5e7e1fd3_20220114.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_67a767552f28ead4ef9ee27436ae3cb33d8d2e38b0f3418f226c9a58aba98ab7_20176701281.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9081f2eec6c9fc4009a3a14c849f3ff8f71c8a5317bdb1dc92f21194fdfcbd7f_IMAG3330.jpg"
+            }
+          ]
+        },
+        {
+          "id": "6378aaa69497b6d8ea2596a2",
+          "short_id": "16e7a65a",
+          "slug": "fish-market-bandarabbas",
+          "name": "بازار ماهی فروشان بندرعباس",
+          "persuading_title": "بازار ماهی فروشان بندرعباس",
+          "content": "مگر می‌شود به بندرعباس سفر کرد و از چشیدن طعم ماهی‌های دریای جنوب گذشت؟ بازار ماهی فروشان بندرعباس سال ۱۳۸۴ در نزدیکی اسکله شهید حقانی و بندر صیادی تاسیس و به این ترتیب، بازار جدید جایگزین بازار قدیمی شد. برای رسیدن به بازار ماهی فروشان بندرعباس کافیست در محله «پشت شهر» بوی ماهی را دنبال کنید و خودتان را به در اصلی بازار برسانید. بوی تند ماهی و میگو، سیر، خرما و تمر هندی تمام فضای این بازار سرپوشیده را پر کرده است. البته شاید این بو برای برخی آزاردهنده باشد، اما گردشگران کنجکاو و اهل تجربه‌های جدید، بدون شک بازدید از این بازار را دوست خواهند داشت. در این بازار می‌توانید انواع ماهی‌های جنوب از جمله: شوریده، کفال، هوور، سنگسر، حلوای سفید و کفشک را پیدا کنید. علاوه ‌بر آن، در بازار ماهی فروشان بندرعباس آبزیان دیگری مثل: میگو، شاه‌میگو، خرچنگ و صدف هم خرید و فروش می‌شوند. حتی در نزدیکی بازار فضایی برای طبخ ماهی‌ به سبک سنتی بندرعباس اختصاص یافته که باب چشیدن طعم ماهی‌های جنوب و تکمیل لذت گشت‌وگذار در بازار است.  ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_8ef9e88fd1688085478f10b58930eff1abefd0dd36e6b9fe37fc31670f0b751b_15b9a8880ad64229be4b72c68e2df9c8.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7d76147f10e818a58c3e87654df9bdcc9aacb73ad0170a56423a4cb37dd3deb1_e8e45e62f2dc4dc392a152aa54f7e679.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4e776c8d5b5b3f84c7211a5a2135fc451c54a1378c3376bf7e2dbaab367cb9cf_Screenshot20221118002959Chrome.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_fa579d006d4386e1cc78db7c0d1cbe47de6013664eb5a8b172602f0e774e9cae_Screenshot20221118003007Chrome.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0fc1dd7c432f7a65bacb9b04c51e4ec95ad30fc0c89b9a6b4c1a4d7c88f600cc_Screenshot20221118003022Chrome.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_7a52bfab789949ac37c92b369cd49426e03c7ce2c5d2ed9cc8474d0b62c19f7b_Screenshot20221118003031Chrome.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_98782d64432491776417417a6bcd233a6bf71bc2bfdf4cb6b0ca425bc349f39c_Screenshot20221118003044Chrome.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_dfb739224cda706d2dd92ec7253a91b51fb67371b43222e09e5082a9774a76ab_Screenshot20221118003053Chrome.jpg"
+            }
+          ]
+        },
+        {
+          "id": "6378b2b79497b6d8ea2596a3",
+          "short_id": "5fc6fdb8",
+          "slug": "uziha-and-lariha-bazar-bandarabbas",
+          "name": "بازار اوزی ها و لاری ها",
+          "persuading_title": "بازار اوزی ها و لاری ها بندرعباس",
+          "content": "برای دیدن چهره واقعی بندرعباس و آشنایی بیشتر با فرهنگ مردم این شهر، جایی بهتر از بازارهای سنتی نمی‌توان پیدا کرد. بازار اوزی ‌ها و لاری ‌ها پیشینه دور و درازی دارد و قدمت آن‌ به بیش از ۳۰۰ سال قبل بازمی‌گردد. این دو بازار را می‌توان یک بازار دانست که بسیار نزدیک به هم قرار گرفته‌اند. پایه‌گذاران آن‌ها مهاجران شهرهای اوز و لار بوده‌اند که با میهمان‌نوازی مردم خونگرم بندر، خیلی زود محبوبیت زیادی پیدا کردند. این دو بازار در فاصله پنج دقیقه‌ای از هم قرار گرفته‌اند و درست مانند بسیاری از بازارهای سنتی ایران سرپوشیده با راهروهایی باریک، بلند و تودرتو هستند. در این دالان‌های پیچ‌درپیچ هر کالایی که فکرش را بکنید پیدا می‌شود: از پارچه و پوشاک و منسوجات گرفته تا لوازم الکترونیکی و کالاهای بهداشتی. اما شاید چشم‌گیرترین مغازه‌های بازار اوزی ها و لاری ها فروشگاه‌هایی باشند که لباس‌های محلی بندری را با رنگ‌های شاد و طرح‌های اصیلشان عرضه می‌کنند. این لباس‌های محلی با رنگ‌های شاد و چشم‌نوازشان بخشی از فرهنگ مردمان خون‌گرم و مهمان‌نواز مردم جنوب را شکل می‌دهند. قابل توجه شما که با ماشین شخصی خود سفر کرده‌اید: بازار اوزی ها و بازار لاری ها پارکینگ ندارد. شما می‌توانید از پارکینگ‌های اطراف؛ به ویژه، از پارکینگ اسکله حقانی استفاده کنید. با خیال راحت ماشین را پارک کنید و از قدم‌زدن در بازارهای سنتی بندر لذت ببرید. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_6400ebf0f09163d5ad38df7519f79460fd956d04e18900da241179470e5e98cc_20180319.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1d8ce33b7686ef0ee73e870254ede0d61dcef7666da0a28f1527897e394ad2c6_20180321.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_2e5074c14a04b130a076063556718a0eec232cdeac6da6fcea77cd773cdedc0b_20180323.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_5ae6ba4dfac6cb4246331ec75893ef03f316436a46a8a2df7a0d2ff66d899ec4_20180325.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_249a4bc957eafd3dba523580832d70bc1b706e7405fc267053263d17cc417083_201803231.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0e1db95b9876ea0e3404bf6ad6c3924b66c0ad4423560387636e13bcc6f9cd23_20180403.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_25d66d5e816d718248e80cb4ada03e3ac7147fc6942ddb4f8e0fd0a960c8aa37_20180426.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_91e6d325c111df51df09e05e556a92ecc5b5156e969f87d9d86ddb4b5bcac713_20180516.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_91563b87331b7ce92a013887dce91db7da6c679c69383d0852a79db642c56328_201803231.jpg"
+            }
+          ]
+        },
+        {
+          "id": "6379dd62abe8b9b976912f75",
+          "short_id": "759a6d7e",
+          "slug": "grand-bazaar-bandarabbas",
+          "name": "بازار بزرگ بندرعباس",
+          "persuading_title": "بازار بزرگ بندرعباس",
+          "content": "فرقی نمی‌کند از عاشقان خرید و بازارگردی باشید یا از آن دسته گردشگرانی که از دیدن جاذبه‌های طبیعی و تاریخی سر شوق می‌آیند. با قدم‌زدن در دل بازار بزرگ بندرعباس کمترین چیزی که نصیبتان می‌شود، لمس حال‌وهوای شهریست. در بازار بزرگ هر چیزی که بخواهید پیدا می‌شود: انواع ماهی، خشکبار، صنایع دستی، حصیر، سبزیجات محلی، گلیم‌های دستباف و پارچه‌هایی با رنگ‌های براق که با قیمت‌ مناسب عرضه می‌شوند. تنوع اجناس آنقدر زیاد است که از آن به عنوان رنگارنگ‌ترین بخش شهر یاد می‌شود. علاوه بر بزرگی و وسعتش، یکی از قدیمی‌ترین بازارهای جنوب ایران است که در بین اهالی شهر با نام بازار قدیم بندرعباس هم شناخته می‌شود. نکته جالبی که درباره این مرکز خرید وجود دارد موقعیت مکانی‌اش است: یک سمت بازار بزرگ به خلیج فارس و سمت دیگر آن به بلوار امام خمینی بندرعباس می‌رسد. اگر در انتهای روز از چرخیدن در بازار خسته شدید، حتما سری به رستوران‌های اطراف بازار بزرگ بزنید. رفتن به یک رستوران محلی بعد از گشت‌وگذار و خرید می‌تواند بخش لذت‌بخش سفرتان به بندرعباس باشد. در میان آن همه بازار و مرکز خرید، بازار بزرگ بندرعباس یکی از جذاب‌ترین بازارهای قدیمی شهر است. اگر اهل کنجکاوی درباره فرهنگ‌ مردم بندرعباس هستید، این مکان بدون شک پاسخی مناسب به این کنجکاوی شماست. ",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_1da85d58784974bfd5d9a88928f8b2802f67f9dfaffdddf88f413db5e8775dce_1.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0c6142493f59bef01d26dc4841bc9b75a8e2fd1621dfc6e9ecdc4b8c64d50acf_2.jpeg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_df1548f74eaa06c4102fa2d88cfcb0178355c729ca076cb623baeea274fa6c37_3.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_4a12ae3cc783d639bf31c636be947c0a470a3e19f63c1eec176e562bec9abce1_4.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_f6a0ed4cf390f902ab71f9d4f94c364fc9a0dd54da582d6e79821e54595831a8_5.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba9c4d759c6b314c3fa6bd31a82de161d116e9294bbc8bc4d5f31a92a5a6c887_6.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c449609bb4754cdb6853cd4decf5373f971b4ffa93fae6982cbb7fa88e99b8ef_7.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ff00507013283a3755d261f282bfd01289d15fb590489b7307d2757ed03f1dad_8.jpg"
+            }
+          ]
+        },
+        {
+          "id": "637a0ceab7f7b21f7facb023",
+          "short_id": "9bdf32f5",
+          "slug": "city-star-complex-bandarabbas",
+          "name": "مجتمع فرهنگی تجاری ستاره شهر",
+          "persuading_title": "مجتمع فرهنگی تجاری ستاره شهر بندرعباس",
+          "content": "اغلب گردشگرانی که به شهر بندرعباس سفر می‌کنند، هدفشان خرید کردن است. این شهر بندری ایران دارای چندین و چند مرکز خرید است؛ از مراکز خرید بزرگ و چند طبقه گرفته تا بازارهای سنتی مرکز شهر. در این میان، یکی از معروف‌ترین مراکز خرید مجتمع فرهنگی تجاری ستاره شهر بندرعباس است. این مرکز خرید ساختمانی شیشه‌ای در ۳ طبقه با ۴۰۰ واحد تجاری است که رستوران و فست‌فودی، کافی‌شاپ، سینما و واحدهای تجاری کلیت واحدهای فعال این مجموعه را تشکیل می‌دهند. انواع کالاهای دیجیتال، پوشاک، کیف و کفش، عطر و ادکلن، لوازم ورزشی، طلا و جواهر در مرکز خرید ستاره شهر به فروش می‌رسد. طبقه سوم این مرکز تجاری یک سالن سینما دارد که مخصوص برگزاری کنسرت‌های موسیقی محلی و اکران فیلم‌های سینمایی است. علاوه بر آن، رستوران و چای‌خانه سنتی مجموعه هم جای مناسبی برای صرف یک وعده غذا و کمی استراحت می‌تواند باشد. بعد از گذراندن اوقاتی خوش در مجتمع فرهنگی تجاری ستاره شهر بندرعباس برای ادامه خرید می‌توانید سری به مجتمع تجاری زیتون یا بازار بزرگ بندرعباس که در نزدیکی آن قرار دارند بزنید. همینطور، معبد هندوها، حمام گله‌داری و اسکله شهید حقانی هم تنها پنج دقیقه با این مرکز خرید فاصله دارند.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_727307186416d87ca58fe892469ddca14c8d75ca8c4329545b9888846df5c2d6_20180405.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_95d6dca3ed699c96a5e5dccb6f158cf8e9dcf419042d08b7382e7116f737120f_20220908.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_0dedb282418d373f9c85603ca17bf0024b850bda23407c8bd4b21277210ad942_IMAG3261.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_9897ac120e78695efecb801ce26ea88aa494741ba341ac639462406e8a830d30_IMG7139.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_edb28013b2b7f0097fcae359b88ee68831c74be99d1e8935039fe102a8855953_IMG.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_70758867e23bd4e3ebc5b2c00ab7eea7a4d37348ad78a6d0181da1b4b0bcd0fe_photo20180806194726.jpg"
+            }
+          ]
+        },
+        {
+          "id": "638d8cf33d0c4ae38e3cdfc4",
+          "short_id": "5652240d",
+          "slug": "zeytoon-complex-bandarabbas",
+          "name": "مجتمع تجاری زیتون بندرعباس",
+          "persuading_title": "مجتمع تجاری زیتون بندرعباس",
+          "content": "مجتمع تجاری زیتون بندرعباس یکی از جامع‌ترین و کامل‌ترین مراکز خرید شهر است. این مجموعه از نظر موقعیت مکانی در بهترین نقطه از شهر قرار دارد، بنابراین این امکان را به گردشگران می‌دهد تا از چندین بازار و مجتمع تجاری در یک روز دیدن کنند. ساختمان این مرکز خرید دارای چندین ورودی پیاده و سواره است که دسترسی را برای بازدیدکنندگان آسان‌تر خواهد کرد. یکی از نقاط قوتی که همه‌ مشتریان این مجموعه روی آن اتفاق‌نظر دارند، دسترسی مناسب و سیستم تهویه خوب آن است. مرکز خرید زیتون دارای چندین واحد تجاری و رفاهی، رستوران، کافی‌شاپ، پارکینگ، عابر بانک و البته بانک است. معمولا افرادی که به دنبال اجناس با برند خارجی هستند، مجتمع تجاری زیتون بندرعباس را برای خرید انتخاب می‌کنند. انواع کیف و کفش، عطر و ادکلن، لباس ورزشی، پوشاک، مواد غذایی، لوازم‌خانگی و کالاهای دیجیتال با برندهای معروف در فروشگاه‌های این مجموعه عرضه می‌شود. اگر در لیست خریدتان همچنان موردی باقی‌مانده، کافی است ۴۰۰ متر دیگر پیمایش کنید تا به مرکز خرید ستاره شهر یا بازار قدیمی برسید.",
+          "gallery": [
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ac4fd5e451146ef8453a35aa59e8fd123f384cadca4c1fb9b8ea25fcbc694d4f_20180216.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_f40e782f97bcad08d7e27335973de63501584938ce9d86d9bd6e10fc179e67cf_20180314.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_c96bcfe7e835e0914a8722e488c011841b78448072ab9e1fde6ee336cc6fb747_201803181.jpg"
+            },
+            {
+              "is_cover": false,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_bedb91f0d96acd2625910fbaeb51edc32afafa01f07b70bc9c16a507dbccac56_20180318.jpg"
+            },
+            {
+              "is_cover": true,
+              "large_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/legacy_photo_ba10be6c2a58a4399d40fc3534b3dce65fe363dba10e0e6d0c86929b1b0654c9_20181006.jpg"
+            }
+          ]
+        }
+      ],
+      "phrase": "از بازار سنتی تا سیتی سنتر"
+    }
+  ],
+  "is_visible": true,
+  "pois_total": 181,
+  "share_url": "https://www.alibaba.ir/plus/c-d1100ba6/bandarabbas-city"
+}

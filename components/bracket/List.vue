@@ -6,7 +6,8 @@
       'my-10': isColored,
       'py-3': isColored,
       'flex items-center justify-center gap-28': isColored,
-      'flex items-center justify-between gap-5': isCity,
+      'flex max-sm:flex-col max-sm:items-start items-center justify-between gap-5':
+        isCity,
     }"
   >
     <div
@@ -34,7 +35,7 @@
     >
       <h1 class="font-semibold xl:text-2xl">{{ item.title }}</h1>
     </div>
-    <div v-if="isCity" class="mb-5 min-w-[30%]">
+    <div v-if="isCity" class="mb-5 xl:min-w-[30%]">
       <div class="flex items-center xl:flex-col xl:items-start">
         <div class="" v-html="item.category.icon.svg"></div>
         <h1 class="font-bold md:text-xl">

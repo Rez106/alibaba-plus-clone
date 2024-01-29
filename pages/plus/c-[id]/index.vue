@@ -6,29 +6,28 @@
         <desktop-detail-gallery v-else :images="data?.city?.gallery" />
       </div>
       <mobile-category-list
-        :items="category.result.items"
+        :items="category.result?.items"
         :search="true"
         :home="mobile ? false : true"
-        :cityIdProp="data.city.id"
+        :cityIdProp="data.city?.id"
       />
       <div class="px-4 my-5">
-        <h1 class="font-bold md:text-2xl">{{ data.city.persuading_title }}</h1>
-        <detail-description :content="data.city.content" :city="true" />
+        <h1 class="font-bold md:text-2xl">{{ data.city?.persuading_title }}</h1>
+        <detail-description :content="data.city?.content" :city="true" />
       </div>
-      <div class="" v-for="item in data.city.categories">
-        <bracket-list :item="item" :isCity="true" :cityName="data.city.name" />
+      <div class="" v-for="item in data.city?.categories">
+        <bracket-list :item="item" :isCity="true" :cityName="data.city?.name" />
       </div>
+      <city-reviews
+        v-if="data.comments?.result?.items"
+        :items="data.comments?.result?.items"
+      />
+      <!-- <city-reviews :items="city" /> -->
     </nuxt-layout>
   </nuxt-layout>
 </template>
 
 <script setup>
-const { width } = useWindowSize();
-
-const mobile = computed(() => {
-  return width.value < 600;
-});
-
 const route = useRoute();
 const { data, error: cityError } = useAsyncData(
   "city-data",
@@ -57,6 +56,15 @@ const { data, error: cityError } = useAsyncData(
 const { data: category, error: cateError } = await useFetch(
   "https://ws.alibaba.ir/api/v1/plus/user/categories?only_main=true"
 );
+
+useHead({
+  title: data.value?.city?.name + " – جاذبه‌ها، نظرات و تصاویر | علی بابا پلاس",
+});
+
+const { width } = useWindowSize();
+const mobile = computed(() => {
+  return width.value < 600;
+});
 </script>
 
 <style lang="scss" scoped></style>

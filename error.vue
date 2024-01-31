@@ -13,6 +13,7 @@
           alt="404"
           width="300"
           max-height="400"
+          eager
         />
         <div class="text-center">
           <h1 class="text-xl font-bold 2xl:text-2xl mb-5">

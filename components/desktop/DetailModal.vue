@@ -32,6 +32,7 @@
               height="400"
               class="w-full rounded-lg"
               cover
+              eager
             />
           </swiper-slide>
         </swiper>
@@ -50,6 +51,7 @@
               height="120"
               class="rounded-lg"
               cover
+              eager
             />
           </swiper-slide>
         </swiper>

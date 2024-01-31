@@ -11,6 +11,7 @@
           height="500"
           cover
           class="w-full rounded-r-lg cursor-pointer"
+          eager
         />
       </div>
       <div class="w-2/12 h-full flex flex-col justify-between gap-4">

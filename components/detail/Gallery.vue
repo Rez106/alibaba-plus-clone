@@ -17,6 +17,7 @@
           cover
           class="w-full"
           transition="fade-transition"
+          eager
         />
       </swiper-slide>
     </swiper>
